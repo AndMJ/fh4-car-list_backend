@@ -7,7 +7,7 @@ import jakarta.persistence.Id;
 
 import java.util.UUID;
 
-public class car {
+public class carModel {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private UUID ID;
