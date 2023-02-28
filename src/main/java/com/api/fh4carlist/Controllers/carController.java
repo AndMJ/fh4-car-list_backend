@@ -15,20 +15,21 @@ import java.util.UUID;
 
 @RestController
 @CrossOrigin(origins = "*", maxAge = 3600)
-@RequestMapping("/api/fh4")
+@RequestMapping("/api/car")
 public class carController {
 
     @Autowired
-    public carService carServ;
+    private carService carServ;
 
     @PostMapping("/create")
     public ResponseEntity<Object> create (@RequestBody @Valid carDTO dto){
 
         //cria novo model de car
         var newCar = new carModel();
-
         //copia o que vem do request body, depois de validado pelo dto, para o model
         BeanUtils.copyProperties(dto, newCar);
+
+        //newCar.setImage("");
 
         return ResponseEntity.status(HttpStatus.CREATED).body(carServ.add(newCar));
     }
@@ -37,12 +38,12 @@ public class carController {
     public ResponseEntity<Object> delete (@PathVariable(value = "id") UUID id){
         Optional<carModel> carToDelete = carServ.findById(id);
 
-        if (!carToDelete.isEmpty()){
-            carServ.deleteById(id);
-            return ResponseEntity.status(HttpStatus.OK).body("deleted");
-        } else {
-            return ResponseEntity.status(HttpStatus.OK).body("not found");
+        if (carToDelete.isEmpty()){
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
         }
+
+        carServ.deleteById(id);
+        return ResponseEntity.status(HttpStatus.OK).body("deleted");
 
     }
 }
