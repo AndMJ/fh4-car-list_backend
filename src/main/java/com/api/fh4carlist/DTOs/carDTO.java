@@ -1,62 +1,71 @@
 package com.api.fh4carlist.DTOs;
 
-import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
 
 public class carDTO {
-    @NotBlank
-    private int carID_inGame;
+    @NotNull
+    private int inGameID;
 
-    @NotBlank
-    private String carManufacturer;
+    @NotNull
+    private String manufacturer;
 
-    @NotBlank
-    private String carName;
+    @NotNull
+    private String name;
 
-    @NotBlank
-    private int carYear;
+    @NotNull
+    private int year;
 
-    @NotBlank
-    private String carType;
+    @NotNull
+    private String type;
 
-    public int getCarID_inGame() {
-        return carID_inGame;
+    @NotNull
+    private String image;
+
+    public String getImage() {
+        return image;
     }
 
-    public void setCarID_inGame(int carID_inGame) {
-        this.carID_inGame = carID_inGame;
+    public void setImage(String image) {
+        this.image = image;
     }
 
-    public String getCarManufacturer() {
-        return carManufacturer;
+    public int getInGameID() {
+        return inGameID;
     }
 
-    public void setCarManufacturer(String carManufacturer) {
-        this.carManufacturer = carManufacturer;
+    public void setInGameID(int inGameID) {
+        this.inGameID = inGameID;
     }
 
-    public String getCarName() {
-        return carName;
+    public String getManufacturer() {
+        return manufacturer;
     }
 
-    public void setCarName(String carName) {
-        this.carName = carName;
+    public void setManufacturer(String manufacturer) {
+        this.manufacturer = manufacturer;
     }
 
-    public int getCarYear() {
-        return carYear;
+    public String getName() {
+        return name;
     }
 
-    public void setCarYear(int carYear) {
-        this.carYear = carYear;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public String getCarType() {
-        return carType;
+    public int getYear() {
+        return year;
     }
 
-    public void setCarType(String carType) {
-        this.carType = carType;
+    public void setYear(int year) {
+        this.year = year;
     }
 
-    //private String carImage;
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
 }
