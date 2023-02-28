@@ -2,8 +2,9 @@ package com.api.fh4carlist.Repositorys;
 
 import com.api.fh4carlist.Models.carModel;
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
 
 import java.util.UUID;
 
-public interface carRepository extends JpaRepository<carModel, UUID> {
-}
+@Repository
+public interface carRepository extends JpaRepository<carModel, UUID> {}
