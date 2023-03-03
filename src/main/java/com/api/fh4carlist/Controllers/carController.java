@@ -31,6 +31,7 @@ public class carController {
 
         //newCar.setImage("");
 
+
         return ResponseEntity.status(HttpStatus.CREATED).body(carServ.add(newCar));
     }
 
