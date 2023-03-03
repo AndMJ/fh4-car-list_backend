@@ -31,8 +31,12 @@ public class carController {
 
         //newCar.setImage("");
 
-
         return ResponseEntity.status(HttpStatus.CREATED).body(carServ.add(newCar));
+    }
+
+    @GetMapping("/list")
+    public ResponseEntity<Object> listAllCars () {
+        return null;
     }
 
     @DeleteMapping("/delete/{id}")
