@@ -37,7 +37,7 @@ public class carController {
         //newCar.setImage("");
 
         try {
-            return ResponseEntity.status(HttpStatus.CREATED).body(carServ.add(newCar));
+            return ResponseEntity.status(HttpStatus.CREATED).body(carServ.save(newCar));
         } catch (Exception e){
             return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e);
         }
@@ -50,10 +50,16 @@ public class carController {
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
         }
 
-        var carUpdate = new carModel();
-        BeanUtils.copyProperties(dto, carUpdate);
+        var carUpdate = carToUpdate.get();
 
-        return ResponseEntity.status(HttpStatus.OK).body(carServ.update(id, carUpdate));
+        carUpdate.setName(dto.getName());
+        carUpdate.setManufacturer(dto.getManufacturer());
+        carUpdate.setYear(dto.getYear());
+        carUpdate.setType(dto.getType());
+        carUpdate.setImage(dto.getImage());
+        carUpdate.setInGameID(dto.getInGameID());
+
+        return ResponseEntity.status(HttpStatus.OK).body(carServ.save(carUpdate));
     }
 
     @DeleteMapping("/delete/{id}")
