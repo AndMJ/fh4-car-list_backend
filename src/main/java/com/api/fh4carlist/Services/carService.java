@@ -18,15 +18,14 @@ public class carService {
 
     //Transactions
     @Transactional
-    public carModel add(carModel car) {
+    public carModel save(carModel car) {
         return carRepo.save(car);
     }
 
-    @Transactional
-    public carModel update(UUID id, carModel car){
-        return null;
-        //TODO: create update
-    }
+//    @Transactional
+//    public carModel update(UUID id, carModel car){
+//        return carRepo;
+//    }
 
     @Transactional
     public void deleteById(UUID id){
