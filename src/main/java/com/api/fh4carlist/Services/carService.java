@@ -38,7 +38,7 @@ public class carService {
     };
 
     //Exist
-    public boolean existsByInGameID(int inGameID){
+    public boolean existsByInGameID(String inGameID){
         return carRepo.existsByInGameID(inGameID);
     }
 

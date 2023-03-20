@@ -9,5 +9,5 @@ import java.util.UUID;
 
 @Repository
 public interface carRepository extends JpaRepository<carModel, UUID> {
-    public boolean existsByInGameID(int inGameID);
+    public boolean existsByInGameID(String inGameID);
 }

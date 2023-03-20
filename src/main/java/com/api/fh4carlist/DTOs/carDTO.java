@@ -4,7 +4,7 @@ import jakarta.validation.constraints.NotNull;
 
 public class carDTO {
     @NotNull
-    private int inGameID;
+    private String inGameID;
 
     @NotNull
     private String manufacturer;
@@ -13,7 +13,7 @@ public class carDTO {
     private String name;
 
     @NotNull
-    private int year;
+    private String year;
 
     @NotNull
     private String type;
@@ -29,11 +29,11 @@ public class carDTO {
         this.image = image;
     }
 
-    public int getInGameID() {
+    public String getInGameID() {
         return inGameID;
     }
 
-    public void setInGameID(int inGameID) {
+    public void setInGameID(String inGameID) {
         this.inGameID = inGameID;
     }
 
@@ -53,11 +53,11 @@ public class carDTO {
         this.name = name;
     }
 
-    public int getYear() {
+    public String getYear() {
         return year;
     }
 
-    public void setYear(int year) {
+    public void setYear(String year) {
         this.year = year;
     }
 

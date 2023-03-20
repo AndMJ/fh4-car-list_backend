@@ -12,7 +12,7 @@ public class carModel {
     private UUID ID;
 
     @Column(nullable = false)
-    private int inGameID;
+    private String inGameID;
 
     @Column(nullable = false)
     private String manufacturer;
@@ -21,7 +21,7 @@ public class carModel {
     private String name;
 
     @Column(nullable = false)
-    private int year;
+    private String year;
 
     @Column(nullable = false)
     private String type;
@@ -37,11 +37,11 @@ public class carModel {
         this.ID = ID;
     }
 
-    public int getInGameID() {
+    public String getInGameID() {
         return inGameID;
     }
 
-    public void setInGameID(int inGameID) {
+    public void setInGameID(String inGameID) {
         this.inGameID = inGameID;
     }
 
@@ -61,11 +61,11 @@ public class carModel {
         this.name = name;
     }
 
-    public int getYear() {
+    public String getYear() {
         return year;
     }
 
-    public void setYear(int year) {
+    public void setYear(String year) {
         this.year = year;
     }
 
