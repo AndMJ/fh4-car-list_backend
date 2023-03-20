@@ -62,6 +62,28 @@ public class carController {
         return ResponseEntity.status(HttpStatus.OK).body(carServ.save(carUpdate));
     }
 
+    @PatchMapping("/update/{id}")
+    public ResponseEntity<Object> updatePatch (@PathVariable(value = "id") UUID id, @RequestBody carDTO dto){
+//        Optional<carModel> carToUpdate = carServ.findById(id);
+//        if(carToUpdate.isEmpty()){
+//            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
+//        }
+//
+//        var carUpdate = carToUpdate.get();
+//
+//        carUpdate.setName(dto.getName());
+//        carUpdate.setManufacturer(dto.getManufacturer());
+//        carUpdate.setYear(dto.getYear());
+//        carUpdate.setType(dto.getType());
+//        carUpdate.setImage(dto.getImage());
+//        carUpdate.setInGameID(dto.getInGameID());
+//
+//        return ResponseEntity.status(HttpStatus.OK).body(carServ.save(carUpdate));
+        return null;
+        //TODO: PATCH, maybe create a carDTO without the @annotations to validate and use it instead
+        // or not because its redundancy
+    }
+
     @DeleteMapping("/delete/{id}")
     public ResponseEntity<Object> delete (@PathVariable(value = "id") UUID id){
         Optional<carModel> carToDelete = carServ.findById(id);
