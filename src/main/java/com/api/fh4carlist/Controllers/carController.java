@@ -8,9 +8,9 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Repository;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
 
@@ -21,6 +21,32 @@ public class carController {
 
     @Autowired
     private carService carServ;
+
+    @PostMapping("/bulk")
+    public ResponseEntity<Object> bulk_add (@RequestBody @Valid List<carDTO> list){
+
+        try {
+            for (carDTO car: list) {
+                //ve se ja existe o carro, por inGameId
+                if (carServ.existsByInGameID(car.getInGameID())){
+                    //return ResponseEntity.status(HttpStatus.CONFLICT).body("Ja existe na DB.");
+                    System.out.printf("Ja existe na DB.");
+                    continue;
+                }
+
+                //cria novo model de car
+                var newCar = new carModel();
+                //copia o que vem do request body, depois de validado pelo dto, para o model
+                BeanUtils.copyProperties(car, newCar);
+
+                carServ.save(newCar);
+            }
+
+            return ResponseEntity.status(HttpStatus.CREATED).body("All created with success.");
+        } catch (Exception e){
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e);
+        }
+    }
 
     @PostMapping("/create")
     public ResponseEntity<Object> create (@RequestBody @Valid carDTO dto){
@@ -33,8 +59,6 @@ public class carController {
         var newCar = new carModel();
         //copia o que vem do request body, depois de validado pelo dto, para o model
         BeanUtils.copyProperties(dto, newCar);
-
-        //newCar.setImage("");
 
         try {
             return ResponseEntity.status(HttpStatus.CREATED).body(carServ.save(newCar));
@@ -62,8 +86,8 @@ public class carController {
         return ResponseEntity.status(HttpStatus.OK).body(carServ.save(carUpdate));
     }
 
-    @PatchMapping("/update/{id}")
-    public ResponseEntity<Object> updatePatch (@PathVariable(value = "id") UUID id, @RequestBody carDTO dto){
+//    @PatchMapping("/update/{id}")
+//    public ResponseEntity<Object> updatePatch (@PathVariable(value = "id") UUID id, @RequestBody carDTO dto){
 //        Optional<carModel> carToUpdate = carServ.findById(id);
 //        if(carToUpdate.isEmpty()){
 //            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
@@ -79,10 +103,9 @@ public class carController {
 //        carUpdate.setInGameID(dto.getInGameID());
 //
 //        return ResponseEntity.status(HttpStatus.OK).body(carServ.save(carUpdate));
-        return null;
-        //TODO: PATCH, maybe create a carDTO without the @annotations to validate and use it instead
-        // or not because its redundancy
-    }
+//        //TODO: PATCH, maybe create a carDTO without the @annotations to validate and use it instead
+//        // or not because its redundancy
+//    }
 
     @DeleteMapping("/delete/{id}")
     public ResponseEntity<Object> delete (@PathVariable(value = "id") UUID id){
