@@ -22,11 +22,6 @@ public class carService {
         return carRepo.save(car);
     }
 
-//    @Transactional
-//    public carModel update(UUID id, carModel car){
-//        return carRepo;
-//    }
-
     @Transactional
     public void deleteById(UUID id){
         carRepo.deleteById(id);
