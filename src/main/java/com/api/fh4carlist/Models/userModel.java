@@ -6,19 +6,19 @@ import java.util.List;
 import java.util.UUID;
 
 @Entity
-@Table(name = "TB_users")
+@Table(name = "TB_users", uniqueConstraints = @UniqueConstraint(columnNames = {"email"}))
 public class userModel {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private UUID id;
     @Column(nullable = false)
     private String name;
-    @Column(nullable = false)
+    @Column(nullable = false, unique = true)
     private String email;
     @Column(nullable = false)
     private String password;
 
-    @OneToMany(cascade = CascadeType.ALL)
+    @ManyToMany(cascade = CascadeType.ALL)
     @JoinColumn(name = "user_cars_fk", referencedColumnName = "id")
     private List<carModel> ownedCars;
 
@@ -52,5 +52,13 @@ public class userModel {
 
     public void setPassword(String password) {
         this.password = password;
+    }
+
+    public List<carModel> getOwnedCars() {
+        return ownedCars;
+    }
+
+    public void setOwnedCars(List<carModel> ownedCars) {
+        this.ownedCars = ownedCars;
     }
 }
