@@ -22,6 +22,8 @@ public class userController {
     @Autowired
     private userService userServ;
 
+    //TODO: how can i send request from postman, to say, this user now owns this, this and this car?
+    //  how do i send the request? a list of UUIDs or the full car info?
     @PostMapping("/create")
     public ResponseEntity<userModel> save (@RequestBody @Valid userDTO user){
         var userToSave = new userModel();
