@@ -39,4 +39,12 @@ public class userDTO {
     public void setPassword(String password) {
         this.password = password;
     }
+
+    public List<carModel> getOwnedCars() {
+        return ownedCars;
+    }
+
+    public void setOwnedCars(List<carModel> ownedCars) {
+        this.ownedCars = ownedCars;
+    }
 }
