@@ -3,6 +3,7 @@ package com.api.fh4carlist.Models;
 import jakarta.persistence.*;
 
 import java.util.List;
+import java.util.Set;
 import java.util.UUID;
 
 @Entity
@@ -18,9 +19,16 @@ public class userModel {
     @Column(nullable = false)
     private String password;
 
-    @ManyToMany(cascade = CascadeType.ALL)
-    @JoinColumn(name = "user_cars_fk", referencedColumnName = "id")
-    private List<carModel> ownedCars;
+    @ManyToMany
+    @JoinTable(name = "user_cars_tb",
+            joinColumns = {
+                @JoinColumn(name = "user_id", referencedColumnName = "id")
+            },
+            inverseJoinColumns = {
+                @JoinColumn(name = "car_id", referencedColumnName = "id")
+            }
+    )
+    private Set<carModel> ownedCars; //set para nao existir duplicados
 
     public UUID getId() {
         return id;
@@ -54,11 +62,11 @@ public class userModel {
         this.password = password;
     }
 
-    public List<carModel> getOwnedCars() {
+    public Set<carModel> getOwnedCars() {
         return ownedCars;
     }
 
-    public void setOwnedCars(List<carModel> ownedCars) {
+    public void setOwnedCars(Set<carModel> ownedCars) {
         this.ownedCars = ownedCars;
     }
 }

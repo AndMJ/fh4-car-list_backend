@@ -1,7 +1,10 @@
 package com.api.fh4carlist.Models;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 
+import java.util.List;
+import java.util.Set;
 import java.util.UUID;
 
 @Entity
@@ -28,6 +31,10 @@ public class carModel {
 
     @Column(nullable = true)
     private String image;
+
+    @JsonIgnore
+    @ManyToMany(mappedBy = "ownedCars")
+    private Set<userModel> users;
 
     public UUID getID() {
         return ID;
