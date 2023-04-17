@@ -4,6 +4,7 @@ import com.api.fh4carlist.Models.carModel;
 import jakarta.validation.constraints.NotNull;
 
 import java.util.List;
+import java.util.Set;
 
 public class userDTO {
     @NotNull
@@ -15,7 +16,7 @@ public class userDTO {
     @NotNull
     private String password;
 
-    private List<carModel> ownedCars;
+    //private Set<carModel> ownedCars;
     public String getName() {
         return name;
     }
@@ -40,11 +41,11 @@ public class userDTO {
         this.password = password;
     }
 
-    public List<carModel> getOwnedCars() {
+    /*public Set<carModel> getOwnedCars() {
         return ownedCars;
     }
 
-    public void setOwnedCars(List<carModel> ownedCars) {
+    public void setOwnedCars(Set<carModel> ownedCars) {
         this.ownedCars = ownedCars;
-    }
+    }*/
 }
