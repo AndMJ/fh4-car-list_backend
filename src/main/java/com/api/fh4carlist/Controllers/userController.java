@@ -1,5 +1,6 @@
 package com.api.fh4carlist.Controllers;
 
+import com.api.fh4carlist.DTOs.userAddCarDTO;
 import com.api.fh4carlist.DTOs.userDTO;
 import com.api.fh4carlist.Models.userModel;
 import com.api.fh4carlist.Services.carService;
@@ -12,6 +13,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.UUID;
 
 @RestController
 @RequestMapping("/api/user")
@@ -34,5 +36,10 @@ public class userController {
     @GetMapping("/list")
     public ResponseEntity<List<userModel>> listAll (){
         return ResponseEntity.status(HttpStatus.OK).body(userServ.listAll());
+    }
+
+    @PostMapping("/{id}")
+    public ResponseEntity<userModel> userAddCars(@PathVariable(value = "id") UUID user_id, @RequestBody userAddCarDTO cars){
+        return ResponseEntity.status(HttpStatus.OK).body(userServ.userAddCars(user_id, cars.getCar_id()));
     }
 }
