@@ -131,7 +131,7 @@ public class carController {
 
     }
 
-    @GetMapping("/get/{id}")
+    @GetMapping("/view/{id}")
     public ResponseEntity<Object> findCar (@PathVariable(value = "id") UUID id) {
         Optional<carModel> GottenCar = carServ.findById(id);
 
