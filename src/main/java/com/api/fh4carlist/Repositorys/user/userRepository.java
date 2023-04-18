@@ -1,6 +1,6 @@
-package com.api.fh4carlist.Repositorys;
+package com.api.fh4carlist.Repositorys.user;
 
-import com.api.fh4carlist.Models.userModel;
+import com.api.fh4carlist.Models.user.userModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

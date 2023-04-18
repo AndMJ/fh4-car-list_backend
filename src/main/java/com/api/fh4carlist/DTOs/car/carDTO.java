@@ -1,18 +1,24 @@
-package com.api.fh4carlist.DTOs;
+package com.api.fh4carlist.DTOs.car;
 
 import jakarta.validation.constraints.NotNull;
 
-public class noValidatorsCarDTO {
+public class carDTO {
+    @NotNull
     private String inGameID;
 
+    @NotNull
     private String manufacturer;
 
+    @NotNull
     private String name;
 
+    @NotNull
     private String year;
 
+    @NotNull
     private String type;
 
+    @NotNull
     private String image;
 
     public String getImage() {

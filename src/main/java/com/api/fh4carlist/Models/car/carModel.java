@@ -1,14 +1,14 @@
-package com.api.fh4carlist.Models;
+package com.api.fh4carlist.Models.car;
 
+import com.api.fh4carlist.Models.user.userModel;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 
-import java.util.List;
 import java.util.Set;
 import java.util.UUID;
 
 @Entity
-@Table(name = "TB_CAR")
+@Table(name = "TB_CAR", uniqueConstraints = @UniqueConstraint(columnNames = "inGameID"))
 public class carModel {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

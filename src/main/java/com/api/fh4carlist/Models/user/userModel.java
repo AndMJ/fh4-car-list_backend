@@ -1,8 +1,8 @@
-package com.api.fh4carlist.Models;
+package com.api.fh4carlist.Models.user;
 
+import com.api.fh4carlist.Models.car.carModel;
 import jakarta.persistence.*;
 
-import java.util.List;
 import java.util.Set;
 import java.util.UUID;
 

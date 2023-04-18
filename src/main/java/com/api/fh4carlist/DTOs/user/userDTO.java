@@ -1,10 +1,6 @@
-package com.api.fh4carlist.DTOs;
+package com.api.fh4carlist.DTOs.user;
 
-import com.api.fh4carlist.Models.carModel;
 import jakarta.validation.constraints.NotNull;
-
-import java.util.List;
-import java.util.Set;
 
 public class userDTO {
     @NotNull

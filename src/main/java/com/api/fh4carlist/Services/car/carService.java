@@ -1,7 +1,7 @@
-package com.api.fh4carlist.Services;
+package com.api.fh4carlist.Services.car;
 
-import com.api.fh4carlist.Models.carModel;
-import com.api.fh4carlist.Repositorys.carRepository;
+import com.api.fh4carlist.Models.car.carModel;
+import com.api.fh4carlist.Repositorys.car.carRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

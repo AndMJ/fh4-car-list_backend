@@ -1,9 +1,9 @@
-package com.api.fh4carlist.Controllers;
+package com.api.fh4carlist.Controllers.car;
 
-import com.api.fh4carlist.DTOs.carDTO;
-import com.api.fh4carlist.DTOs.noValidatorsCarDTO;
-import com.api.fh4carlist.Models.carModel;
-import com.api.fh4carlist.Services.carService;
+import com.api.fh4carlist.DTOs.car.carDTO;
+import com.api.fh4carlist.DTOs.car.patch_CarDTO;
+import com.api.fh4carlist.Models.car.carModel;
+import com.api.fh4carlist.Services.car.carService;
 import jakarta.validation.Valid;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.BeansException;
@@ -89,7 +89,7 @@ public class carController {
     }
 
     @PatchMapping("/update/{id}")
-    public ResponseEntity<Object> patchUpdate (@PathVariable(value = "id") UUID id, @RequestBody noValidatorsCarDTO dto){
+    public ResponseEntity<Object> patchUpdate (@PathVariable(value = "id") UUID id, @RequestBody patch_CarDTO dto){
         Optional<carModel> carToUpdate = carServ.findById(id);
         if(carToUpdate.isEmpty()){
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");

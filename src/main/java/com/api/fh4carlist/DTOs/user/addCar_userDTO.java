@@ -1,11 +1,11 @@
-package com.api.fh4carlist.DTOs;
+package com.api.fh4carlist.DTOs.user;
 
 import jakarta.validation.constraints.NotNull;
 
 import java.util.Set;
 import java.util.UUID;
 
-public class userAddCarDTO {
+public class addCar_userDTO {
     @NotNull
     public Set<UUID> car_id;
 
