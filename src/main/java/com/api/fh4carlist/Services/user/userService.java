@@ -20,15 +20,23 @@ public class userService {
     @Autowired
     private carRepository carRepo;
 
+    //save user
     @Transactional
     public userModel save(userModel user){
         return userRepo.save(user);
     }
 
+    //find user by id
+    public Optional<userModel> findByID(UUID id){
+        return userRepo.findById(id);
+    }
+
+    //list all users
     public List<userModel> listAll(){
         return userRepo.findAll();
     }
 
+    //associate cars to user
     @Transactional
     public userModel userAddCars(UUID user_id, Set<UUID> cars){
         Optional<userModel> user = userRepo.findById(user_id);
