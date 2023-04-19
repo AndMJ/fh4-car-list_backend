@@ -7,13 +7,13 @@ import java.util.UUID;
 
 public class cars_userDTO {
     @NotNull
-    public Set<UUID> cars;
+    private UUID car_id;
 
-    public Set<UUID> getCars() {
-        return cars;
+    public UUID getCar_id() {
+        return car_id;
     }
 
-    public void setCars(Set<UUID> cars) {
-        this.cars = cars;
+    public void setCar_id(UUID car_id) {
+        this.car_id = car_id;
     }
 }
