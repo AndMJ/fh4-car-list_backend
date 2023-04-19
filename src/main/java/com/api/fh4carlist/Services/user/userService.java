@@ -27,27 +27,13 @@ public class userService {
     }
 
     //find user by id
-    public Optional<userModel> findByID(UUID id){
+    public Optional<userModel> findById(UUID id){
         return userRepo.findById(id);
     }
 
     //list all users
     public List<userModel> listAll(){
         return userRepo.findAll();
-    }
-
-    //associate cars to user
-    @Transactional
-    public userModel userAddCars(UUID user_id, Set<UUID> cars){
-        Optional<userModel> user = userRepo.findById(user_id);
-        Set<carModel> userOwnedCars = user.get().getOwnedCars();
-
-        for(UUID id: cars){
-            userOwnedCars.add(carRepo.findById(id).get());
-        }
-
-        user.get().setOwnedCars(userOwnedCars);
-        return userRepo.save(user.get());
     }
 
 }
