@@ -46,100 +46,128 @@ public class carController {
 
             return ResponseEntity.status(HttpStatus.CREATED).body("All created with success.");
         } catch (BeansException e) {
-            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e);
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
         }
     }
 
     @PostMapping("/create")
-    public ResponseEntity<Object> create (@RequestBody @Valid carDTO dto){
-        //ve se ja existe o carro, por inGameId
-        if (carServ.existsByInGameID(dto.getInGameID())){
-            return ResponseEntity.status(HttpStatus.CONFLICT).body("Ja existe na DB.");
-        }
+    public ResponseEntity<Object> create (@RequestBody @Valid carDTO dto) throws Exception {
+        try{
+            //ve se ja existe o carro, por inGameId
+            if (carServ.existsByInGameID(dto.getInGameID())){
+                return ResponseEntity.status(HttpStatus.CONFLICT).body("Ja existe na DB.");
+            }
 
-        //cria novo model de car
-        var newCar = new carModel();
-        //copia o que vem do request body, depois de validado pelo dto, para o model
-        BeanUtils.copyProperties(dto, newCar);
+            //cria novo model de car
+            var newCar = new carModel();
+            //copia o que vem do request body, depois de validado pelo dto, para o model
+            BeanUtils.copyProperties(dto, newCar);
 
-        try {
             return ResponseEntity.status(HttpStatus.CREATED).body(carServ.save(newCar));
-        } catch (Exception e){
-            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e);
+        } catch (BeansException e) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
         }
+
     }
 
     @PutMapping("/update/{id}")
     public ResponseEntity<Object> update (@PathVariable(value = "id") UUID id, @RequestBody @Valid carDTO dto){
-        Optional<carModel> carToUpdate = carServ.findById(id);
-        if(carToUpdate.isEmpty()){
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
+        try {
+            Optional<carModel> carToUpdate = carServ.findById(id);
+            if(carToUpdate.isEmpty()){
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
+            }
+
+            var carUpdate = carToUpdate.get();
+
+            carUpdate.setName(dto.getName());
+            carUpdate.setManufacturer(dto.getManufacturer());
+            carUpdate.setYear(dto.getYear());
+            carUpdate.setType(dto.getType());
+            carUpdate.setImage(dto.getImage());
+            carUpdate.setInGameID(dto.getInGameID());
+
+            return ResponseEntity.status(HttpStatus.OK).body(carServ.save(carUpdate));
+        } catch (BeansException e) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
         }
 
-        var carUpdate = carToUpdate.get();
-
-        carUpdate.setName(dto.getName());
-        carUpdate.setManufacturer(dto.getManufacturer());
-        carUpdate.setYear(dto.getYear());
-        carUpdate.setType(dto.getType());
-        carUpdate.setImage(dto.getImage());
-        carUpdate.setInGameID(dto.getInGameID());
-
-        return ResponseEntity.status(HttpStatus.OK).body(carServ.save(carUpdate));
     }
 
     @PatchMapping("/update/{id}")
     public ResponseEntity<Object> patchUpdate (@PathVariable(value = "id") UUID id, @RequestBody patch_CarDTO dto){
-        Optional<carModel> carToUpdate = carServ.findById(id);
-        if(carToUpdate.isEmpty()){
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
+        try {
+            Optional<carModel> carToUpdate = carServ.findById(id);
+            if(carToUpdate.isEmpty()){
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
+            }
+
+            var carUpdate = carToUpdate.get();
+            if(dto.getName() != null){
+                carUpdate.setName(dto.getName());
+            }
+            if(dto.getManufacturer() != null){
+                carUpdate.setManufacturer(dto.getManufacturer());
+            }
+            if(dto.getYear() != null){
+                carUpdate.setYear(dto.getYear());
+            }
+            if(dto.getType() != null){
+                carUpdate.setType(dto.getType());
+            }
+            if(dto.getImage() != null){
+                carUpdate.setImage(dto.getImage());
+            }
+            if(dto.getInGameID() != null){
+                carUpdate.setInGameID(dto.getInGameID());
+            }
+
+            return ResponseEntity.status(HttpStatus.OK).body(carServ.save(carUpdate));
+        } catch (BeansException e) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
         }
 
-        var carUpdate = carToUpdate.get();
-        if(dto.getName() != null){
-            carUpdate.setName(dto.getName());
-        }
-        if(dto.getManufacturer() != null){
-            carUpdate.setManufacturer(dto.getManufacturer());
-        }
-        if(dto.getYear() != null){
-            carUpdate.setYear(dto.getYear());
-        }
-        if(dto.getType() != null){
-            carUpdate.setType(dto.getType());
-        }
-        if(dto.getImage() != null){
-            carUpdate.setImage(dto.getImage());
-        }
-        if(dto.getInGameID() != null){
-            carUpdate.setInGameID(dto.getInGameID());
-        }
-
-        return ResponseEntity.status(HttpStatus.OK).body(carServ.save(carUpdate));
     }
 
     @DeleteMapping("/delete/{id}")
     public ResponseEntity<Object> delete (@PathVariable(value = "id") UUID id){
-        Optional<carModel> carToDelete = carServ.findById(id);
+        try {
+            Optional<carModel> carToDelete = carServ.findById(id);
 
-        if (carToDelete.isEmpty()){
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
+            if (carToDelete.isEmpty()){
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
+            }
+
+            carServ.deleteById(id);
+            return ResponseEntity.status(HttpStatus.OK).body("deleted");
+        } catch (BeansException e) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
         }
 
-        carServ.deleteById(id);
-        return ResponseEntity.status(HttpStatus.OK).body("deleted");
 
     }
 
     @GetMapping("/view/{id}")
     public ResponseEntity<Object> findCar (@PathVariable(value = "id") UUID id) {
-        Optional<carModel> GottenCar = carServ.findById(id);
+        try {
+            Optional<carModel> car = carServ.findById(id);
+                if (car.isEmpty()){
+                    return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Car not found.");
+                }
+            return ResponseEntity.status(HttpStatus.OK).body(car.get());
+        } catch (BeansException e) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
+        }
 
-        return ResponseEntity.status(HttpStatus.OK).body(GottenCar);
     }
 
     @GetMapping("/list")
     public ResponseEntity<Object> listAllCars () {
-        return ResponseEntity.status(HttpStatus.OK).body(carServ.listAll());
+        try {
+            return ResponseEntity.status(HttpStatus.OK).body(carServ.listAll());
+        } catch (BeansException e) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
+        }
+
     }
 }
