@@ -36,4 +36,8 @@ public class userService {
         return userRepo.findAll();
     }
 
+    @Transactional
+    public void deleteById(UUID id) {
+        userRepo.deleteById(id);
+    }
 }
