@@ -28,7 +28,7 @@ public class userController {
     private userService userServ;
 
     @PostMapping("/create")
-    public ResponseEntity<Object> save (@RequestBody @Valid userDTO user){
+    public ResponseEntity<Object> userCreate (@RequestBody @Valid userDTO user){
         try {
             var userToSave = new userModel();
             BeanUtils.copyProperties(user, userToSave);
@@ -41,7 +41,7 @@ public class userController {
     }
 
     @GetMapping("/list")
-    public ResponseEntity<Object> listAll (){
+    public ResponseEntity<Object> userlistAll (){
         try {
             return ResponseEntity.status(HttpStatus.OK).body(userServ.listAll());
         } catch (
@@ -51,8 +51,8 @@ public class userController {
 
     }
 
-    @GetMapping("/view/{id}")
-    public ResponseEntity<Object> userFindByID(@PathVariable(name = "id") UUID id){
+    @GetMapping("/view/{user_id}")
+    public ResponseEntity<Object> userFindByID(@PathVariable(name = "user_id") UUID id){
         try {
             Optional<userModel> user = userServ.findById(id);
             if (user.isEmpty()){
@@ -67,8 +67,8 @@ public class userController {
 
     }
 
-    @GetMapping("/view/cars/{id}")
-    public ResponseEntity<Object> userFindCars(@PathVariable(name = "id") UUID id){
+    @GetMapping("/car/list/{user_id}")
+    public ResponseEntity<Object> userFindCars(@PathVariable(name = "user_id") UUID id){
         try {
             Optional<userModel> user = userServ.findById(id);
             if(user.isEmpty()){
@@ -83,35 +83,54 @@ public class userController {
 
     }
 
-    @PostMapping("/add/cars/{id}")
-    public ResponseEntity<Object> userAddCars(@PathVariable(value = "id") UUID user_id, @RequestBody cars_userDTO cars){
+    @PostMapping("/car/add/{user_id}")
+    public ResponseEntity<Object> userAddCars(@PathVariable(value = "user_id") UUID user_id, @RequestBody cars_userDTO car){
         try {
-            Optional<userModel> user = userServ.findById(user_id);
-            Set<carModel> userOwnedCars = user.get().getOwnedCars();
-
-            for(UUID id: cars.getCars()){
-                userOwnedCars.add(carServ.findById(id).get());
+            Optional<userModel> user = userServ.findById(user_id); //get the user
+            if(user.isEmpty()){
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body("User not found.");
             }
 
-            user.get().setOwnedCars(userOwnedCars);
+            Set<carModel> userOwnedCars = user.get().getOwnedCars(); // get user owned cars
+            userOwnedCars.add(carServ.findById(car.getCar_id()).get()); // add car to owned cars list/set
+            user.get().setOwnedCars(userOwnedCars);//"save" new owned car list/set
 
-            return ResponseEntity.status(HttpStatus.OK).body(userServ.save(user.get()));
+            return ResponseEntity.status(HttpStatus.OK).body(userServ.save(user.get()));// actual db user save
         } catch (BeansException e) {
             return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
         }
 
     }
 
-    @PutMapping("/update/cars/{id}")
-    public ResponseEntity userUpdateCars(@PathVariable(name = "id") UUID id, @RequestBody cars_userDTO cars){
+    @PatchMapping("/car/remove/{user_id}")
+    public ResponseEntity userUpdateCars(@PathVariable(name = "user_id") UUID user_id, @RequestBody cars_userDTO car){
+        try {
+            Optional<userModel> user = userServ.findById(user_id); //get the user
+            if(user.isEmpty()){
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body("User not found.");
+            }
+            if(user.get().getOwnedCars().isEmpty()){
+                return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("User has no cars to remove.");
+            }
 
+            Set<carModel> userOwnedCars = user.get().getOwnedCars(); // get user owned cars
+            userOwnedCars.remove(carServ.findById(car.getCar_id()).get()); // remove car to owned cars list/set
+            user.get().setOwnedCars(userOwnedCars);//"save" new owned car list/set
 
-        return null;
+            return ResponseEntity.status(HttpStatus.OK).body(userServ.save(user.get()));// actual db user save
+        } catch (BeansException e) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
+        }
     }
 
-    @DeleteMapping("/delete/{id}")
-    public ResponseEntity<Object> userDelete(){
-        return null;
+    @DeleteMapping("/delete/{user_id}")
+    public ResponseEntity<Object> userDelete(@PathVariable(name = "user_id") UUID id){
+        try {
+            userServ.deleteById(id);
+            return ResponseEntity.status(HttpStatus.OK).body("User deleted.");
+        } catch (BeansException e) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
+        }
     }
 
 }
