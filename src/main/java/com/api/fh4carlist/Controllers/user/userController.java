@@ -1,13 +1,12 @@
 package com.api.fh4carlist.Controllers.user;
 
-import com.api.fh4carlist.DTOs.user.addCar_userDTO;
+import com.api.fh4carlist.DTOs.user.cars_userDTO;
 import com.api.fh4carlist.DTOs.user.userDTO;
 import com.api.fh4carlist.Models.car.carModel;
 import com.api.fh4carlist.Models.user.userModel;
 import com.api.fh4carlist.Services.car.carService;
 import com.api.fh4carlist.Services.user.userService;
 import jakarta.validation.Valid;
-import org.apache.catalina.filters.ExpiresFilter;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,7 +15,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Set;
-import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
 
@@ -56,7 +54,7 @@ public class userController {
     @GetMapping("/view/{id}")
     public ResponseEntity<Object> userFindByID(@PathVariable(name = "id") UUID id){
         try {
-            Optional<userModel> user = userServ.findByID(id);
+            Optional<userModel> user = userServ.findById(id);
             if (user.isEmpty()){
                 return ResponseEntity.status(HttpStatus.NOT_FOUND).body("User not found.");
             }
@@ -72,7 +70,7 @@ public class userController {
     @GetMapping("/view/cars/{id}")
     public ResponseEntity<Object> userFindCars(@PathVariable(name = "id") UUID id){
         try {
-            Optional<userModel> user = userServ.findByID(id);
+            Optional<userModel> user = userServ.findById(id);
             if(user.isEmpty()){
                 return ResponseEntity.status(HttpStatus.NOT_FOUND).body("User not found.");
             }
@@ -86,14 +84,34 @@ public class userController {
     }
 
     @PostMapping("/add/cars/{id}")
-    public ResponseEntity<Object> userAddCars(@PathVariable(value = "id") UUID user_id, @RequestBody addCar_userDTO cars){
+    public ResponseEntity<Object> userAddCars(@PathVariable(value = "id") UUID user_id, @RequestBody cars_userDTO cars){
         try {
-            return ResponseEntity.status(HttpStatus.OK).body(userServ.userAddCars(user_id, cars.getCar_id()));
+            Optional<userModel> user = userServ.findById(user_id);
+            Set<carModel> userOwnedCars = user.get().getOwnedCars();
+
+            for(UUID id: cars.getCars()){
+                userOwnedCars.add(carServ.findById(id).get());
+            }
+
+            user.get().setOwnedCars(userOwnedCars);
+
+            return ResponseEntity.status(HttpStatus.OK).body(userServ.save(user.get()));
         } catch (BeansException e) {
             return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
         }
 
     }
 
+    @PutMapping("/update/cars/{id}")
+    public ResponseEntity userUpdateCars(@PathVariable(name = "id") UUID id, @RequestBody cars_userDTO cars){
+
+
+        return null;
+    }
+
+    @DeleteMapping("/delete/{id}")
+    public ResponseEntity<Object> userDelete(){
+        return null;
+    }
 
 }
