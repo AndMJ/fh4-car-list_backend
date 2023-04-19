@@ -51,7 +51,7 @@ public class carController {
     }
 
     @PostMapping("/create")
-    public ResponseEntity<Object> create (@RequestBody @Valid carDTO dto) throws Exception {
+    public ResponseEntity<Object> CarCreate (@RequestBody @Valid carDTO dto) {
         try{
             //ve se ja existe o carro, por inGameId
             if (carServ.existsByInGameID(dto.getInGameID())){
@@ -70,15 +70,15 @@ public class carController {
 
     }
 
-    @PutMapping("/update/{id}")
-    public ResponseEntity<Object> update (@PathVariable(value = "id") UUID id, @RequestBody @Valid carDTO dto){
+    @PutMapping("/update/{car_id}")
+    public ResponseEntity<Object> CarUpdate (@PathVariable(value = "car_id") UUID id, @RequestBody @Valid carDTO dto){
         try {
-            Optional<carModel> carToUpdate = carServ.findById(id);
-            if(carToUpdate.isEmpty()){
+            Optional<carModel> car = carServ.findById(id);
+            if(car.isEmpty()){
                 return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
             }
 
-            var carUpdate = carToUpdate.get();
+            var carUpdate = car.get();
 
             carUpdate.setName(dto.getName());
             carUpdate.setManufacturer(dto.getManufacturer());
@@ -94,12 +94,12 @@ public class carController {
 
     }
 
-    @PatchMapping("/update/{id}")
-    public ResponseEntity<Object> patchUpdate (@PathVariable(value = "id") UUID id, @RequestBody patch_CarDTO dto){
+    @PatchMapping("/update/{car_id}")
+    public ResponseEntity<Object> CarPatchUpdate (@PathVariable(value = "car_id") UUID id, @RequestBody patch_CarDTO dto){
         try {
             Optional<carModel> carToUpdate = carServ.findById(id);
             if(carToUpdate.isEmpty()){
-                return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Car not found.");
             }
 
             var carUpdate = carToUpdate.get();
@@ -129,17 +129,17 @@ public class carController {
 
     }
 
-    @DeleteMapping("/delete/{id}")
-    public ResponseEntity<Object> delete (@PathVariable(value = "id") UUID id){
+    @DeleteMapping("/delete/{car_id}")
+    public ResponseEntity<Object> CarDelete (@PathVariable(value = "car_id") UUID id){
         try {
-            Optional<carModel> carToDelete = carServ.findById(id);
+            Optional<carModel> car = carServ.findById(id);
 
-            if (carToDelete.isEmpty()){
-                return ResponseEntity.status(HttpStatus.NOT_FOUND).body("not found");
+            if (car.isEmpty()){
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Car not found.");
             }
 
             carServ.deleteById(id);
-            return ResponseEntity.status(HttpStatus.OK).body("deleted");
+            return ResponseEntity.status(HttpStatus.OK).body("Car deleted.");
         } catch (BeansException e) {
             return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
         }
@@ -147,8 +147,8 @@ public class carController {
 
     }
 
-    @GetMapping("/view/{id}")
-    public ResponseEntity<Object> findCar (@PathVariable(value = "id") UUID id) {
+    @GetMapping("/view/{car_id}")
+    public ResponseEntity<Object> CarFind (@PathVariable(value = "car_id") UUID id) {
         try {
             Optional<carModel> car = carServ.findById(id);
                 if (car.isEmpty()){
@@ -162,7 +162,7 @@ public class carController {
     }
 
     @GetMapping("/list")
-    public ResponseEntity<Object> listAllCars () {
+    public ResponseEntity<Object> CarlistAll () {
         try {
             return ResponseEntity.status(HttpStatus.OK).body(carServ.listAll());
         } catch (BeansException e) {
