@@ -58,7 +58,6 @@ public class userController {
             if (user.isEmpty()){
                 return ResponseEntity.status(HttpStatus.NOT_FOUND).body("User not found.");
             }
-
             return ResponseEntity.status(HttpStatus.FOUND).body(user.get());
         } catch (
                 BeansException e) {
@@ -102,19 +101,24 @@ public class userController {
 
     }
 
-    @PatchMapping("/car/remove/{user_id}")
-    public ResponseEntity userUpdateCars(@PathVariable(name = "user_id") UUID user_id, @RequestBody cars_userDTO car){
+    @DeleteMapping("/car/remove/{user_id}")
+    public ResponseEntity userRemoveCars(@PathVariable(name = "user_id") UUID user_id, @RequestBody cars_userDTO car){
         try {
             Optional<userModel> user = userServ.findById(user_id); //get the user
             if(user.isEmpty()){
                 return ResponseEntity.status(HttpStatus.NOT_FOUND).body("User not found.");
             }
-            if(user.get().getOwnedCars().isEmpty()){
+
+            Set<carModel> userOwnedCars = user.get().getOwnedCars(); // get user owned cars
+            if(userOwnedCars.isEmpty()){// if owned cars list/Set doesn't exist
                 return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("User has no cars to remove.");
             }
 
-            Set<carModel> userOwnedCars = user.get().getOwnedCars(); // get user owned cars
-            userOwnedCars.remove(carServ.findById(car.getCar_id()).get()); // remove car to owned cars list/set
+            boolean carRemovedValidation = userOwnedCars.remove(carServ.findById(car.getCar_id()).get()); // remove car to owned cars list/set, .remove() returns true if removed, false if it doesn't
+            if (!carRemovedValidation){ //if requested car doesn't exist
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body("User already doesn't own the car.");
+            }
+
             user.get().setOwnedCars(userOwnedCars);//"save" new owned car list/set
 
             return ResponseEntity.status(HttpStatus.OK).body(userServ.save(user.get()));// actual db user save
