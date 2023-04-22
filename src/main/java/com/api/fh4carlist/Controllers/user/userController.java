@@ -1,6 +1,7 @@
 package com.api.fh4carlist.Controllers.user;
 
 import com.api.fh4carlist.DTOs.user.cars_userDTO;
+import com.api.fh4carlist.DTOs.user.patch_userDTO;
 import com.api.fh4carlist.DTOs.user.userDTO;
 import com.api.fh4carlist.Models.car.carModel;
 import com.api.fh4carlist.Models.user.userModel;
@@ -66,19 +67,40 @@ public class userController {
 
     }
 
-    //TODO: USER DATA UPDATE/EDIT
+    @PatchMapping("/update/{user_id}")
+    ResponseEntity<Object> userPatch(@PathVariable(value = "user_id") UUID user_id, @RequestBody patch_userDTO userPatchData){
+        try {
+            Optional<userModel> user = userServ.findById(user_id);
+            if (user.isEmpty()){
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body("User not found.");
+            }
+
+            if(userPatchData.getName() != null){
+                user.get().setName(userPatchData.getName());
+            }
+            if(userPatchData.getEmail() != null){
+                user.get().setEmail(userPatchData.getEmail());
+            }
+            if(userPatchData.getPassword() != null){
+                user.get().setPassword(userPatchData.getPassword());
+            }
+            return ResponseEntity.status(HttpStatus.OK).body(userServ.save(user.get()));
+        } catch (BeansException e) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
+        }
+
+    }
 
     @GetMapping("/car/list/{user_id}")
-    public ResponseEntity<Object> userFindCars(@PathVariable(name = "user_id") UUID id){
+    public ResponseEntity<Object> userFindCars(@PathVariable(name = "user_id") UUID user_id){
         try {
-            Optional<userModel> user = userServ.findById(id);
+            Optional<userModel> user = userServ.findById(user_id);
             if(user.isEmpty()){
                 return ResponseEntity.status(HttpStatus.NOT_FOUND).body("User not found.");
             }
             Set<carModel> userOwnedCars = user.get().getOwnedCars();
             return ResponseEntity.status(HttpStatus.OK).body(userOwnedCars);
-        } catch (
-                BeansException e) {
+        } catch (BeansException e) {
             return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
         }
 
