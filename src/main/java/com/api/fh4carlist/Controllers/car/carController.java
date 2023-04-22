@@ -24,6 +24,8 @@ public class carController {
     @Autowired
     private carService carServ;
 
+    //TODO: CREATE API REQUEST TO SAVE & DISPLAY IMAGES
+
     @PostMapping("/bulk")
     public ResponseEntity<Object> bulk_add (@RequestBody @Valid List<carDTO> list){
 
