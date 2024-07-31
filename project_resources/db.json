@@ -1,0 +1,5938 @@
+[
+ {
+   "name": "124 Spider",
+   "inGameID": 2740,
+   "manufacturer": "Abarth",
+   "type": "Autoshow",
+   "image": "124 SPIDER 2017 ABARTH.jpg",
+   "year": 2017
+ },
+ {
+   "name": "695 Biposto",
+   "inGameID": 2489,
+   "manufacturer": "Abarth",
+   "type": "Autoshow",
+   "image": "695 BIPOSTO 2016 ABARTH.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Fiat 131",
+   "inGameID": 1124,
+   "manufacturer": "Abarth",
+   "type": "Autoshow",
+   "image": "FIAT 131 1980 ABARTH.jpg",
+   "year": 1980
+ },
+ {
+   "name": "595 Esseesse",
+   "inGameID": 2017,
+   "manufacturer": "Abarth",
+   "type": "Autoshow",
+   "image": "595 ESSEESSE 1968 ABARTH.jpg",
+   "year": 1968
+ },
+ {
+   "name": "NSX",
+   "inGameID": 2352,
+   "manufacturer": "Acura",
+   "type": "Autoshow",
+   "image": "NSX 2017 ACURA.jpg",
+   "year": 2017
+ },
+ {
+   "name": "RSX Type-S",
+   "inGameID": 422,
+   "manufacturer": "Acura",
+   "type": "Autoshow",
+   "image": "RSX TYPE-S 2002 ACURA.jpg",
+   "year": 2002
+ },
+ {
+   "name": "Integra Type-R",
+   "inGameID": 368,
+   "manufacturer": "Acura",
+   "type": "Autoshow",
+   "image": "INTEGRA TYPE-R 2001 ACURA.jpg",
+   "year": 2001
+ },
+ {
+   "name": "Stelvio Quadrifoglio",
+   "inGameID": 2975,
+   "manufacturer": "Alfa Romeo",
+   "type": "Autoshow",
+   "image": "STELVIO QUADRIFOGLIO 2018 ALFA ROMEO.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Giulia Quadrifoglio",
+   "inGameID": 2542,
+   "manufacturer": "Alfa Romeo",
+   "type": "Car Pass",
+   "image": "GIULIA QUADRIFOGLIO 2017 ALFA ROMEO.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Giulia Quadrifoglio Forza Edition",
+   "inGameID": 2916,
+   "manufacturer": "Alfa Romeo",
+   "type": "Forza Edition",
+   "image": "GIULIA QUADRIFOGLIO FORZA EDITION 2017 ALFA ROMEO.jpg",
+   "year": 2017
+ },
+ {
+   "name": "4C",
+   "inGameID": 2038,
+   "manufacturer": "Alfa Romeo",
+   "type": "Autoshow",
+   "image": "4C 2014 ALFA ROMEO.jpg",
+   "year": 2014
+ },
+ {
+   "name": "8C Competizione Forza Edition",
+   "inGameID": 2915,
+   "manufacturer": "Alfa Romeo",
+   "type": "Forza Edition",
+   "image": "8C COMPETIZIONE FORZA EDITION 2008 ALFA ROMEO.jpg",
+   "year": 2008
+ },
+ {
+   "name": "8C Competizione",
+   "inGameID": 1032,
+   "manufacturer": "Alfa Romeo",
+   "type": "Autoshow",
+   "image": "8C COMPETIZIONE 2008 ALFA ROMEO.jpg",
+   "year": 2008
+ },
+ {
+   "name": "33 Stradale",
+   "inGameID": 1549,
+   "manufacturer": "Alfa Romeo",
+   "type": "Autoshow",
+   "image": "33 STRADALE 1968 ALFA ROMEO.jpg",
+   "year": 1968
+ },
+ {
+   "name": "Giulia TZ2",
+   "inGameID": 2161,
+   "manufacturer": "Alfa Romeo",
+   "type": "Autoshow",
+   "image": "GIULIA TZ2 1965 ALFA ROMEO.jpg",
+   "year": 1965
+ },
+ {
+   "name": "Giulia Sprint GTA Stradale",
+   "inGameID": 1150,
+   "manufacturer": "Alfa Romeo",
+   "type": "Autoshow",
+   "image": "GIULIA SPRINT GTA STRADALE 1965 ALFA ROMEO.jpg",
+   "year": 1965
+ },
+ {
+   "name": "P3",
+   "inGameID": 2122,
+   "manufacturer": "Alfa Romeo",
+   "type": "Other",
+   "image": "P3 1934 ALFA ROMEO.jpg",
+   "year": 1934
+ },
+ {
+   "name": "Class 10 Race Car Forza Edition",
+   "inGameID": 2913,
+   "manufacturer": "Alumi Craft",
+   "type": "Forza Edition",
+   "image": "CLASS 10 RACE CAR FORZA EDITION 2015 ALUMI CRAFT.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Class 10 Race Car",
+   "inGameID": 2552,
+   "manufacturer": "Alumi Craft",
+   "type": "Autoshow",
+   "image": "CLASS 10 RACE CAR 2015 ALUMI CRAFT.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Gremlin X",
+   "inGameID": 1482,
+   "manufacturer": "AMC",
+   "type": "Autoshow",
+   "image": "GREMLIN X 1973 AMC.jpg",
+   "year": 1973
+ },
+ {
+   "name": "Javelin AMX",
+   "inGameID": 1267,
+   "manufacturer": "AMC",
+   "type": "Autoshow",
+   "image": "JAVELIN AMX 1971 AMC.jpg",
+   "year": 1971
+ },
+ {
+   "name": "M12S Warthog CST",
+   "inGameID": 2574,
+   "manufacturer": "AMG Transport Dynamics",
+   "type": "Autoshow",
+   "image": "M12S WARTHOG CST 2554 AMG TRANSPORT DYNAMICS.jpg",
+   "year": 2554
+ },
+ {
+   "name": "Nomad",
+   "inGameID": 2430,
+   "manufacturer": "Ariel",
+   "type": "Autoshow",
+   "image": "NOMAD 2016 ARIEL.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Atom 500 V8",
+   "inGameID": 1651,
+   "manufacturer": "Ariel",
+   "type": "Story Progression",
+   "image": "ATOM 500 V8 2013 ARIEL.jpg",
+   "year": 2013
+ },
+ {
+   "name": "KZ1R",
+   "inGameID": 1451,
+   "manufacturer": "Ascari",
+   "type": "Autoshow",
+   "image": "KZ1R 2012 ASCARI.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Vantage",
+   "inGameID": 3091,
+   "manufacturer": "Aston Martin",
+   "type": "Car Pass",
+   "image": "VANTAGE 2018 ASTON MARTIN.jpg",
+   "year": 2018
+ },
+ {
+   "name": "DB11 Preorder Car",
+   "inGameID": 3098,
+   "manufacturer": "Aston Martin",
+   "type": "Preorder",
+   "image": "DB11 PREORDER CAR 2017 ASTON MARTIN.jpg",
+   "year": 2017
+ },
+ {
+   "name": "DB11",
+   "inGameID": 2527,
+   "manufacturer": "Aston Martin",
+   "type": "Autoshow",
+   "image": "DB11 2017 ASTON MARTIN.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Vulcan Forza Edition",
+   "inGameID": 2917,
+   "manufacturer": "Aston Martin",
+   "type": "Forza Edition",
+   "image": "VULCAN FORZA EDITION 2016 ASTON MARTIN.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Vulcan",
+   "inGameID": 2470,
+   "manufacturer": "Aston Martin",
+   "type": "Autoshow",
+   "image": "VULCAN 2016 ASTON MARTIN.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Vantage GT12",
+   "inGameID": 2493,
+   "manufacturer": "Aston Martin",
+   "type": "Autoshow",
+   "image": "VANTAGE GT12 2016 ASTON MARTIN.jpg",
+   "year": 2016
+ },
+ {
+   "name": "V12 Vantage S",
+   "inGameID": 2181,
+   "manufacturer": "Aston Martin",
+   "type": "Autoshow",
+   "image": "V12 VANTAGE S 2013 ASTON MARTIN.jpg",
+   "year": 2013
+ },
+ {
+   "name": "Vanquish",
+   "inGameID": 1636,
+   "manufacturer": "Aston Martin",
+   "type": "Autoshow",
+   "image": "VANQUISH 2012 ASTON MARTIN.jpg",
+   "year": 2012
+ },
+ {
+   "name": "One-77",
+   "inGameID": 1181,
+   "manufacturer": "Aston Martin",
+   "type": "Autoshow",
+   "image": "ONE-77 2010 ASTON MARTIN.jpg",
+   "year": 2010
+ },
+ {
+   "name": "DB5",
+   "inGameID": 1105,
+   "manufacturer": "Aston Martin",
+   "type": "Autoshow",
+   "image": "DB5 1964 ASTON MARTIN.jpg",
+   "year": 1964
+ },
+ {
+   "name": "DB4 GT Zagato",
+   "inGameID": 1550,
+   "manufacturer": "Aston Martin",
+   "type": "Barn Find",
+   "image": "DB4 GT ZAGATO 1960 ASTON MARTIN.jpg",
+   "year": 1960
+ },
+ {
+   "name": "DBR1",
+   "inGameID": 1386,
+   "manufacturer": "Aston Martin",
+   "type": "Autoshow",
+   "image": "DBR1 1958 ASTON MARTIN.jpg",
+   "year": 1958
+ },
+ {
+   "name": "R8 V10 Plus",
+   "inGameID": 2473,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "R8 V10 PLUS 2016 AUDI.jpg",
+   "year": 2016
+ },
+ {
+   "name": "RS 6 Avant",
+   "inGameID": 2180,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "RS 6 AVANT 2015 AUDI.jpg",
+   "year": 2015
+ },
+ {
+   "name": "TTS Coupe",
+   "inGameID": 2182,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "TTS COUPE 2015 AUDI.jpg",
+   "year": 2015
+ },
+ {
+   "name": "S1",
+   "inGameID": 2179,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "S1 2015 AUDI.jpg",
+   "year": 2015
+ },
+ {
+   "name": "R8 Coupe V10 Plus 5.2 FSI Quattro",
+   "inGameID": 2010,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "R8 COUPE V10 PLUS 5.2 FSI QUATTRO 2013 AUDI.jpg",
+   "year": 2013
+ },
+ {
+   "name": "RS 7 Sportback",
+   "inGameID": 2009,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "RS 7 SPORTBACK 2013 AUDI.jpg",
+   "year": 2013
+ },
+ {
+   "name": "RS 4 Avant",
+   "inGameID": 1607,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "RS 4 AVANT 2013 AUDI.jpg",
+   "year": 2013
+ },
+ {
+   "name": "RS 5 Coupe",
+   "inGameID": 1417,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "RS 5 COUPE 2011 AUDI.jpg",
+   "year": 2011
+ },
+ {
+   "name": "RS 3 Sportback",
+   "inGameID": 1216,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "RS 3 SPORTBACK 2011 AUDI.jpg",
+   "year": 2011
+ },
+ {
+   "name": "TT RS Coupe",
+   "inGameID": 1220,
+   "manufacturer": "Audi",
+   "type": "Wheelspin",
+   "image": "TT RS COUPE 2010 AUDI.jpg",
+   "year": 2010
+ },
+ {
+   "name": "RS 6",
+   "inGameID": 1104,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "RS 6 2009 AUDI.jpg",
+   "year": 2009
+ },
+ {
+   "name": "RS 4",
+   "inGameID": 419,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "RS 4 2006 AUDI.jpg",
+   "year": 2006
+ },
+ {
+   "name": "RS 6",
+   "inGameID": 420,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "RS 6 2003 AUDI.jpg",
+   "year": 2003
+ },
+ {
+   "name": "RS 4 Avant",
+   "inGameID": 2178,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "RS 4 AVANT 2001 AUDI.jpg",
+   "year": 2001
+ },
+ {
+   "name": "RS 2 Avant",
+   "inGameID": 1370,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "RS 2 AVANT 1995 AUDI.jpg",
+   "year": 1995
+ },
+ {
+   "name": "#2 Audi Sport Quattro S1",
+   "inGameID": 1478,
+   "manufacturer": "Audi",
+   "type": "Autoshow",
+   "image": "#2 AUDI SPORT QUATTRO S1 1986 AUDI.jpg",
+   "year": 1986
+ },
+ {
+   "name": "Sport Quattro",
+   "inGameID": 633,
+   "manufacturer": "Audi",
+   "type": "Barn Find",
+   "image": "SPORT QUATTRO 1983 AUDI.jpg",
+   "year": 1983
+ },
+ {
+   "name": "FX4 Taxi",
+   "inGameID": 2912,
+   "manufacturer": "Austin",
+   "type": "Wheelspin",
+   "image": "FX4 TAXI 1964 AUSTIN.jpg",
+   "year": 1964
+ },
+ {
+   "name": "FX4 Taxi HS",
+   "inGameID": 3068,
+   "manufacturer": "Austin",
+   "type": "Horizon Story",
+   "image": "FX4 TAXI HS 1964 AUSTIN.jpg",
+   "year": 1964
+ },
+ {
+   "name": "3000 MKIII",
+   "inGameID": 1481,
+   "manufacturer": "Austin-Healey",
+   "type": "Autoshow",
+   "image": "3000 MKIII 1965 AUSTIN-HEALEY.jpg",
+   "year": 1965
+ },
+ {
+   "name": "Sprite MKI",
+   "inGameID": 1574,
+   "manufacturer": "Austin-Healey",
+   "type": "Autoshow",
+   "image": "SPRITE MKI 1958 AUSTIN-HEALEY.jpg",
+   "year": 1958
+ },
+ {
+   "name": "Type D",
+   "inGameID": 2096,
+   "manufacturer": "Auto Union",
+   "type": "Autoshow",
+   "image": "TYPE D 1939 AUTO UNION.jpg",
+   "year": 1939
+ },
+ {
+   "name": "Mono",
+   "inGameID": 2040,
+   "manufacturer": "BAC",
+   "type": "Autoshow",
+   "image": "MONO 2014 BAC.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Continental Supersports",
+   "inGameID": 2665,
+   "manufacturer": "Bentley",
+   "type": "Autoshow",
+   "image": "CONTINENTAL SUPERSPORTS 2017 BENTLEY.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Bentayga",
+   "inGameID": 2625,
+   "manufacturer": "Bentley",
+   "type": "Autoshow",
+   "image": "BENTAYGA 2016 BENTLEY.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Continental GT Speed Forza Edition",
+   "inGameID": 2920,
+   "manufacturer": "Bentley",
+   "type": "Forza Edition",
+   "image": "CONTINENTAL GT SPEED FORZA EDITION 2013 BENTLEY.jpg",
+   "year": 2013
+ },
+ {
+   "name": "Continental GT Speed",
+   "inGameID": 2041,
+   "manufacturer": "Bentley",
+   "type": "Autoshow",
+   "image": "CONTINENTAL GT SPEED 2013 BENTLEY.jpg",
+   "year": 2013
+ },
+ {
+   "name": "37260 Supercharged",
+   "inGameID": 2976,
+   "manufacturer": "Bentley",
+   "type": "Barn Find",
+   "image": "4-1/2 SUPERCHARGED 1931 BENTLEY.jpg",
+   "year": 1931
+ },
+ {
+   "name": "8-Liter",
+   "inGameID": 1372,
+   "manufacturer": "Bentley",
+   "type": "Autoshow",
+   "image": "8-LITER 1931 BENTLEY.jpg",
+   "year": 1931
+ },
+ {
+   "name": "Z4 Roadster",
+   "inGameID": 3173,
+   "manufacturer": "BMW",
+   "type": "Seasonal Reward",
+   "image": "Z4 ROADSTER 2019 BMW.jpg",
+   "year": 2019
+ },
+ {
+   "name": "M5",
+   "inGameID": 3071,
+   "manufacturer": "BMW",
+   "type": "Fortune Island",
+   "image": "M5 2018 BMW.jpg",
+   "year": 2018
+ },
+ {
+   "name": "I8 Roadster",
+   "inGameID": 3114,
+   "manufacturer": "BMW",
+   "type": "Car Pass",
+   "image": "I8 ROADSTER 2018 BMW.jpg",
+   "year": 2018
+ },
+ {
+   "name": "M4 GTS",
+   "inGameID": 2628,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M4 GTS 2016 BMW.jpg",
+   "year": 2016
+ },
+ {
+   "name": "M2 Coupe",
+   "inGameID": 2477,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M2 COUPE 2016 BMW.jpg",
+   "year": 2016
+ },
+ {
+   "name": "I8",
+   "inGameID": 2133,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "I8 2016 BMW.jpg",
+   "year": 2016
+ },
+ {
+   "name": "X6 M",
+   "inGameID": 2431,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "X6 M 2015 BMW.jpg",
+   "year": 2015
+ },
+ {
+   "name": "M4 Coupe",
+   "inGameID": 2154,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M4 COUPE 2014 BMW.jpg",
+   "year": 2014
+ },
+ {
+   "name": "M6 Coupe Forza Edition",
+   "inGameID": 2922,
+   "manufacturer": "BMW",
+   "type": "Forza Edition",
+   "image": "M6 COUPE FORZA EDITION 2013 BMW.jpg",
+   "year": 2013
+ },
+ {
+   "name": "M6 Coupe",
+   "inGameID": 2018,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M6 COUPE 2013 BMW.jpg",
+   "year": 2013
+ },
+ {
+   "name": "M5",
+   "inGameID": 1388,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M5 2012 BMW.jpg",
+   "year": 2012
+ },
+ {
+   "name": "1 Series M Coupe",
+   "inGameID": 1385,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "1 SERIES M COUPE 2011 BMW.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Z4 SDrive35IS",
+   "inGameID": 1218,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "Z4 SDRIVE35IS 2011 BMW.jpg",
+   "year": 2011
+ },
+ {
+   "name": "X5 M",
+   "inGameID": 1350,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "X5 M 2011 BMW.jpg",
+   "year": 2011
+ },
+ {
+   "name": "M5",
+   "inGameID": 1126,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M5 2009 BMW.jpg",
+   "year": 2009
+ },
+ {
+   "name": "M3",
+   "inGameID": 1011,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M3 2008 BMW.jpg",
+   "year": 2008
+ },
+ {
+   "name": "Z4 M Coupe",
+   "inGameID": 1059,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "Z4 M COUPE 2008 BMW.jpg",
+   "year": 2008
+ },
+ {
+   "name": "M3",
+   "inGameID": 383,
+   "manufacturer": "BMW",
+   "type": "Story Progression",
+   "image": "M3 2005 BMW.jpg",
+   "year": 2005
+ },
+ {
+   "name": "M5",
+   "inGameID": 1367,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M5 2003 BMW.jpg",
+   "year": 2003
+ },
+ {
+   "name": "M3-GTR",
+   "inGameID": 565,
+   "manufacturer": "BMW",
+   "type": "Seasonal Reward",
+   "image": "M3-GTR 2002 BMW.jpg",
+   "year": 2002
+ },
+ {
+   "name": "Z3 M Coupe",
+   "inGameID": 1268,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "Z3 M COUPE 2002 BMW.jpg",
+   "year": 2002
+ },
+ {
+   "name": "M3",
+   "inGameID": 382,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M3 1997 BMW.jpg",
+   "year": 1997
+ },
+ {
+   "name": "M5",
+   "inGameID": 1418,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M5 1995 BMW.jpg",
+   "year": 1995
+ },
+ {
+   "name": "M3",
+   "inGameID": 642,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M3 1991 BMW.jpg",
+   "year": 1991
+ },
+ {
+   "name": "M5 Forza Edition",
+   "inGameID": 2921,
+   "manufacturer": "BMW",
+   "type": "Forza Edition",
+   "image": "M5 FORZA EDITION 1988 BMW.jpg",
+   "year": 1988
+ },
+ {
+   "name": "M5",
+   "inGameID": 1368,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M5 1988 BMW.jpg",
+   "year": 1988
+ },
+ {
+   "name": "M1",
+   "inGameID": 1040,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "M1 1981 BMW.jpg",
+   "year": 1981
+ },
+ {
+   "name": "2002 Turbo",
+   "inGameID": 1269,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "2002 TURBO 1973 BMW.jpg",
+   "year": 1973
+ },
+ {
+   "name": "ISetta 300 Export",
+   "inGameID": 2412,
+   "manufacturer": "BMW",
+   "type": "Autoshow",
+   "image": "ISETTA 300 EXPORT 1957 BMW.jpg",
+   "year": 1957
+ },
+ {
+   "name": "EXR S",
+   "inGameID": 1494,
+   "manufacturer": "Bowler",
+   "type": "Autoshow",
+   "image": "EXR S 2012 BOWLER.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Chiron",
+   "inGameID": 2624,
+   "manufacturer": "Bugatti",
+   "type": "Autoshow",
+   "image": "CHIRON 2018 BUGATTI.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Veyron Super Sport",
+   "inGameID": 1328,
+   "manufacturer": "Bugatti",
+   "type": "Autoshow",
+   "image": "VEYRON SUPER SPORT 2011 BUGATTI.jpg",
+   "year": 2011
+ },
+ {
+   "name": "EB110 Super Sport",
+   "inGameID": 1219,
+   "manufacturer": "Bugatti",
+   "type": "Autoshow",
+   "image": "EB110 SUPER SPORT 1992 BUGATTI.jpg",
+   "year": 1992
+ },
+ {
+   "name": "Type 35 C",
+   "inGameID": 2066,
+   "manufacturer": "Bugatti",
+   "type": "Autoshow",
+   "image": "TYPE 35 C 1926 BUGATTI.jpg",
+   "year": 1926
+ },
+ {
+   "name": "Regal GNX",
+   "inGameID": 417,
+   "manufacturer": "Buick",
+   "type": "Autoshow",
+   "image": "REGAL GNX 1987 BUICK.jpg",
+   "year": 1987
+ },
+ {
+   "name": "CTS-V Sedan",
+   "inGameID": 2421,
+   "manufacturer": "Cadillac",
+   "type": "Autoshow",
+   "image": "CTS-V SEDAN 2016 CADILLAC.jpg",
+   "year": 2016
+ },
+ {
+   "name": "ATS-V",
+   "inGameID": 2262,
+   "manufacturer": "Cadillac",
+   "type": "Autoshow",
+   "image": "ATS-V 2016 CADILLAC.jpg",
+   "year": 2016
+ },
+ {
+   "name": "XTS Limousine",
+   "inGameID": 2128,
+   "manufacturer": "Cadillac",
+   "type": "Wheelspin",
+   "image": "XTS LIMOUSINE 2013 CADILLAC.jpg",
+   "year": 2013
+ },
+ {
+   "name": "Escalade ESV",
+   "inGameID": 1626,
+   "manufacturer": "Cadillac",
+   "type": "Seasonal Reward",
+   "image": "ESCALADE ESV 2012 CADILLAC.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Eldorado Biarritz Convertible",
+   "inGameID": 1509,
+   "manufacturer": "Cadillac",
+   "type": "Car Pass",
+   "image": "ELDORADO BIARRITZ CONVERTIBLE 1959 CADILLAC.jpg",
+   "year": 1959
+ },
+ {
+   "name": "Maverick X RS Turbo R",
+   "inGameID": 2871,
+   "manufacturer": "Can-Am",
+   "type": "Car Pass",
+   "image": "MAVERICK X RS TURBO R 2018 CAN-AM.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Superlight R500 Forza Edition",
+   "inGameID": 2923,
+   "manufacturer": "Caterham",
+   "type": "Forza Edition",
+   "image": "SUPERLIGHT R500 FORZA EDITION 2013 CATERHAM.jpg",
+   "year": 2013
+ },
+ {
+   "name": "Superlight R500",
+   "inGameID": 1652,
+   "manufacturer": "Caterham",
+   "type": "Autoshow",
+   "image": "SUPERLIGHT R500 2013 CATERHAM.jpg",
+   "year": 2013
+ },
+ {
+   "name": "Corvette ZR1",
+   "inGameID": 3118,
+   "manufacturer": "Chevrolet",
+   "type": "Car Pass",
+   "image": "CORVETTE ZR1 2019 CHEVROLET.jpg",
+   "year": 2019
+ },
+ {
+   "name": "Camaro ZL1 1LE",
+   "inGameID": 3149,
+   "manufacturer": "Chevrolet",
+   "type": "Car Pass",
+   "image": "CAMARO ZL1 1LE 2018 CHEVROLET.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Silverado 1500 Deberti Design Drift Truck",
+   "inGameID": 3088,
+   "manufacturer": "Chevrolet",
+   "type": "Car Pass",
+   "image": "SILVERADO 1500 DEBERTI DESIGN DRIFT TRUCK 2018 CHEVROLET.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Camaro ZL1 Preorder Car",
+   "inGameID": 3099,
+   "manufacturer": "Chevrolet",
+   "type": "Preorder",
+   "image": "CAMARO ZL1 PREORDER CAR 2017 CHEVROLET.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Camaro ZL1",
+   "inGameID": 2739,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CAMARO ZL1 2017 CHEVROLET.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Colorado ZR2",
+   "inGameID": 2847,
+   "manufacturer": "Chevrolet",
+   "type": "Forzathon Shop",
+   "image": "COLORADO ZR2 2017 CHEVROLET.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Corvette Z06",
+   "inGameID": 2177,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CORVETTE Z06 2015 CHEVROLET.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Camaro Z/28",
+   "inGameID": 2183,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CAMARO Z/28 2015 CHEVROLET.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Corvette ZR1",
+   "inGameID": 1069,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CORVETTE ZR1 2009 CHEVROLET.jpg",
+   "year": 2009
+ },
+ {
+   "name": "Corvette Z06",
+   "inGameID": 314,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CORVETTE Z06 2002 CHEVROLET.jpg",
+   "year": 2002
+ },
+ {
+   "name": "Corvette ZR-1",
+   "inGameID": 2006,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CORVETTE ZR-1 1995 CHEVROLET.jpg",
+   "year": 1995
+ },
+ {
+   "name": "Monte Carlo Super Sport",
+   "inGameID": 1575,
+   "manufacturer": "Chevrolet",
+   "type": "Story Progression",
+   "image": "MONTE CARLO SUPER SPORT 1988 CHEVROLET.jpg",
+   "year": 1988
+ },
+ {
+   "name": "Camaro Z28",
+   "inGameID": 1064,
+   "manufacturer": "Chevrolet",
+   "type": "Wheelspin",
+   "image": "CAMARO Z28 1979 CHEVROLET.jpg",
+   "year": 1979
+ },
+ {
+   "name": "Corvette ZR-1",
+   "inGameID": 315,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CORVETTE ZR-1 1970 CHEVROLET.jpg",
+   "year": 1970
+ },
+ {
+   "name": "El Caamino Super Sport 454",
+   "inGameID": 1291,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "EL CAAMINO SUPER SPORT 454 1970 CHEVROLET.jpg",
+   "year": 1970
+ },
+ {
+   "name": "Camaro Z28",
+   "inGameID": 1330,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CAMARO Z28 1970 CHEVROLET.jpg",
+   "year": 1970
+ },
+ {
+   "name": "Chevelle Super Sport 454",
+   "inGameID": 299,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CHEVELLE SUPER SPORT 454 1970 CHEVROLET.jpg",
+   "year": 1970
+ },
+ {
+   "name": "Nova Super Sport 396 Forza Edition",
+   "inGameID": 2925,
+   "manufacturer": "Chevrolet",
+   "type": "Forza Edition",
+   "image": "NOVA SUPER SPORT 396 FORZA EDITION 1969 CHEVROLET.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Camaro Super Sport Coupe",
+   "inGameID": 289,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CAMARO SUPER SPORT COUPE 1969 CHEVROLET.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Nova Super Sport 396",
+   "inGameID": 1429,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "NOVA SUPER SPORT 396 1969 CHEVROLET.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Corvette Stingray 427",
+   "inGameID": 312,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CORVETTE STINGRAY 427 1967 CHEVROLET.jpg",
+   "year": 1967
+ },
+ {
+   "name": "Nova Super Sport",
+   "inGameID": 1354,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "NOVA SUPER SPORT 1966 CHEVROLET.jpg",
+   "year": 1966
+ },
+ {
+   "name": "Impala Super Sport 409",
+   "inGameID": 1300,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "IMPALA SUPER SPORT 409 1964 CHEVROLET.jpg",
+   "year": 1964
+ },
+ {
+   "name": "Corvette",
+   "inGameID": 1093,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CORVETTE 1960 CHEVROLET.jpg",
+   "year": 1960
+ },
+ {
+   "name": "Bel Air HS",
+   "inGameID": 3144,
+   "manufacturer": "Chevrolet",
+   "type": "Horizon Story",
+   "image": "BEL AIR HS 1957 CHEVROLET.jpg",
+   "year": 1957
+ },
+ {
+   "name": "Bel Air",
+   "inGameID": 1459,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "BEL AIR 1957 CHEVROLET.jpg",
+   "year": 1957
+ },
+ {
+   "name": "150 Utility Sedan",
+   "inGameID": 2507,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "150 UTILITY SEDAN 1955 CHEVROLET.jpg",
+   "year": 1955
+ },
+ {
+   "name": "Corvette",
+   "inGameID": 1564,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CORVETTE 1953 CHEVROLET.jpg",
+   "year": 1953
+ },
+ {
+   "name": "VH Valiant Charger R/T E49",
+   "inGameID": 2582,
+   "manufacturer": "Chrysler",
+   "type": "Autoshow",
+   "image": "VH VALIANT CHARGER R/T E49 1972 CHRYSLER.jpg",
+   "year": 1972
+ },
+ {
+   "name": "510",
+   "inGameID": 1104,
+   "manufacturer": "Datsun",
+   "type": "Autoshow",
+   "image": "510 1970 DATSUN.jpg",
+   "year": 1970
+ },
+ {
+   "name": "Challenger SRT Demon",
+   "inGameID": 2909,
+   "manufacturer": "Dodge",
+   "type": "Story Progression",
+   "image": "CHALLENGER SRT DEMON 2018 DODGE.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Durango SRT",
+   "inGameID": 2839,
+   "manufacturer": "Dodge",
+   "type": "Autoshow",
+   "image": "DURANGO SRT 2018 DODGE.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Viper ACR",
+   "inGameID": 2544,
+   "manufacturer": "Dodge",
+   "type": "Autoshow",
+   "image": "VIPER ACR 2016 DODGE.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Charger SRT Hellcat",
+   "inGameID": 2468,
+   "manufacturer": "Dodge",
+   "type": "Autoshow",
+   "image": "CHARGER SRT HELLCAT 2015 DODGE.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Challenger SRT Hellcat",
+   "inGameID": 2263,
+   "manufacturer": "Dodge",
+   "type": "Autoshow",
+   "image": "CHALLENGER SRT HELLCAT 2015 DODGE.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Viper GTS",
+   "inGameID": 1562,
+   "manufacturer": "Dodge",
+   "type": "Autoshow",
+   "image": "VIPER GTS 2013 DODGE.jpg",
+   "year": 2013
+ },
+ {
+   "name": "Viper SRT10 ACR",
+   "inGameID": 1046,
+   "manufacturer": "Dodge",
+   "type": "Autoshow",
+   "image": "VIPER SRT10 ACR 2008 DODGE.jpg",
+   "year": 2008
+ },
+ {
+   "name": "Viper GTS ACR",
+   "inGameID": 483,
+   "manufacturer": "Dodge",
+   "type": "Autoshow",
+   "image": "VIPER GTS ACR 1999 DODGE.jpg",
+   "year": 1999
+ },
+ {
+   "name": "Challenger R/T",
+   "inGameID": 639,
+   "manufacturer": "Dodge",
+   "type": "Autoshow",
+   "image": "CHALLENGER R/T 1970 DODGE.jpg",
+   "year": 1970
+ },
+ {
+   "name": "Charger Daytona Hemi",
+   "inGameID": 1063,
+   "manufacturer": "Dodge",
+   "type": "Autoshow",
+   "image": "CHARGER DAYTONA HEMI 1969 DODGE.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Charger R/T",
+   "inGameID": 513,
+   "manufacturer": "Dodge",
+   "type": "Autoshow",
+   "image": "CHARGER R/T 1969 DODGE.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Dart Hemi Super Stock",
+   "inGameID": 1332,
+   "manufacturer": "Dodge",
+   "type": "Autoshow",
+   "image": "DART HEMI SUPER STOCK 1968 DODGE.jpg",
+   "year": 1968
+ },
+ {
+   "name": "D8 GTO",
+   "inGameID": 2105,
+   "manufacturer": "Donkervoort",
+   "type": "Autoshow",
+   "image": "D8 GTO 2013 DONKERVOORT.jpg",
+   "year": 2013
+ },
+ {
+   "name": "DS3 Racing",
+   "inGameID": 1665,
+   "manufacturer": "DS Automobiles",
+   "type": "Seasonal Reward",
+   "image": "DS3 RACING 2011 DS AUTOMOBILES.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Speedster",
+   "inGameID": 2908,
+   "manufacturer": "Eagle",
+   "type": "Autoshow",
+   "image": "SPEEDSTER 2012 EAGLE.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Exocet Off-Road",
+   "inGameID": 3089,
+   "manufacturer": "Exomotive",
+   "type": "Fortune Island",
+   "image": "EXOCET OFF-ROAD 2018 EXOMOTIVE.jpg",
+   "year": 2018
+ },
+ {
+   "name": "812 Superfast",
+   "inGameID": 2974,
+   "manufacturer": "Ferrari",
+   "type": "Forzathon Shop",
+   "image": "812 SUPERFAST 2017 FERRARI.jpg",
+   "year": 2017
+ },
+ {
+   "name": "GTC4Lusso",
+   "inGameID": 3122,
+   "manufacturer": "Ferrari",
+   "type": "Car Pass",
+   "image": "GTC4LUSSO 2017 FERRARI.jpg",
+   "year": 2017
+ },
+ {
+   "name": "F12TDF",
+   "inGameID": 2577,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "F12TDF 2015 FERRARI.jpg",
+   "year": 2015
+ },
+ {
+   "name": "488 GTB",
+   "inGameID": 2467,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "488 GTB 2015 FERRARI.jpg",
+   "year": 2015
+ },
+ {
+   "name": "FXX K",
+   "inGameID": 2371,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "FXX K 2014 FERRARI.jpg",
+   "year": 2014
+ },
+ {
+   "name": "California T",
+   "inGameID": 2194,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "CALIFORNIA T 2014 FERRARI.jpg",
+   "year": 2014
+ },
+ {
+   "name": "LaFerrari",
+   "inGameID": 2034,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "LAFERRARI 2013 FERRARI.jpg",
+   "year": 2013
+ },
+ {
+   "name": "458 Speciale",
+   "inGameID": 2184,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "458 SPECIALE 2013 FERRARI.jpg",
+   "year": 2013
+ },
+ {
+   "name": "F12Berlinetta",
+   "inGameID": 1570,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "F12BERLINETTA 2012 FERRARI.jpg",
+   "year": 2012
+ },
+ {
+   "name": "FF",
+   "inGameID": 1389,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "FF 2011 FERRARI.jpg",
+   "year": 2011
+ },
+ {
+   "name": "599XX",
+   "inGameID": 1171,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "599XX 2010 FERRARI.jpg",
+   "year": 2010
+ },
+ {
+   "name": "599 GTO",
+   "inGameID": 1319,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "599 GTO 2010 FERRARI.jpg",
+   "year": 2010
+ },
+ {
+   "name": "458 Italia",
+   "inGameID": 1131,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "458 ITALIA 2009 FERRARI.jpg",
+   "year": 2009
+ },
+ {
+   "name": "430 Scuderia",
+   "inGameID": 1022,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "430 SCUDERIA 2007 FERRARI.jpg",
+   "year": 2007
+ },
+ {
+   "name": "FXX",
+   "inGameID": 1006,
+   "manufacturer": "Ferrari",
+   "type": "Car Pass",
+   "image": "FXX 2005 FERRARI.jpg",
+   "year": 2005
+ },
+ {
+   "name": "360 Challenge Stradale",
+   "inGameID": 297,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "360 CHALLENGE STRADALE 2003 FERRARI.jpg",
+   "year": 2003
+ },
+ {
+   "name": "Enzo Ferrari",
+   "inGameID": 333,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "ENZO FERRARI 2002 FERRARI.jpg",
+   "year": 2002
+ },
+ {
+   "name": "575M Maranello",
+   "inGameID": 257,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "575M MARANELLO 2002 FERRARI.jpg",
+   "year": 2002
+ },
+ {
+   "name": "F50 GT",
+   "inGameID": 1020,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "F50 GT 1996 FERRARI.jpg",
+   "year": 1996
+ },
+ {
+   "name": "F50",
+   "inGameID": 342,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "F50 1995 FERRARI.jpg",
+   "year": 1995
+ },
+ {
+   "name": "F355 Berlinetta",
+   "inGameID": 253,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "F355 BERLINETTA 1994 FERRARI.jpg",
+   "year": 1994
+ },
+ {
+   "name": "512 TR",
+   "inGameID": 255,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "512 TR 1992 FERRARI.jpg",
+   "year": 1992
+ },
+ {
+   "name": "F40 Competizione",
+   "inGameID": 1023,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "F40 COMPETIZIONE 1989 FERRARI.jpg",
+   "year": 1989
+ },
+ {
+   "name": "F40",
+   "inGameID": 340,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "F40 1987 FERRARI.jpg",
+   "year": 1987
+ },
+ {
+   "name": "288 GTO",
+   "inGameID": 358,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "288 GTO 1984 FERRARI.jpg",
+   "year": 1984
+ },
+ {
+   "name": "Dino 246 GT",
+   "inGameID": 326,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "DINO 246 GT 1969 FERRARI.jpg",
+   "year": 1969
+ },
+ {
+   "name": "365 GTB/4",
+   "inGameID": 1318,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "365 GTB/4 1968 FERRARI.jpg",
+   "year": 1968
+ },
+ {
+   "name": "#24 Ferrari Spa 330 P4",
+   "inGameID": 2793,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "#24 FERRARI SPA 330 P4 1967 FERRARI.jpg",
+   "year": 1967
+ },
+ {
+   "name": "250LM",
+   "inGameID": 2268,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "250LM 1963 FERRARI.jpg",
+   "year": 1963
+ },
+ {
+   "name": "250 GTO",
+   "inGameID": 249,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "250 GTO 1962 FERRARI.jpg",
+   "year": 1962
+ },
+ {
+   "name": "250 GT Berlinetta Lusso",
+   "inGameID": 1578,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "250 GT BERLINETTA LUSSO 1962 FERRARI.jpg",
+   "year": 1962
+ },
+ {
+   "name": "250 Testa Rossa",
+   "inGameID": 1154,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "250 TESTA ROSSA 1957 FERRARI.jpg",
+   "year": 1957
+ },
+ {
+   "name": "250 California",
+   "inGameID": 1271,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "250 CALIFORNIA 1957 FERRARI.jpg",
+   "year": 1957
+ },
+ {
+   "name": "500 Mondial",
+   "inGameID": 2186,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "500 MONDIAL 1953 FERRARI.jpg",
+   "year": 1953
+ },
+ {
+   "name": "166MM Barchetta",
+   "inGameID": 2556,
+   "manufacturer": "Ferrari",
+   "type": "Autoshow",
+   "image": "166MM BARCHETTA 1948 FERRARI.jpg",
+   "year": 1948
+ },
+ {
+   "name": "124 Sport Spider",
+   "inGameID": 2195,
+   "manufacturer": "Fiat",
+   "type": "Autoshow",
+   "image": "124 SPORT SPIDER 1980 FIAT.jpg",
+   "year": 1980
+ },
+ {
+   "name": "#25 Mustang RTR",
+   "inGameID": 3093,
+   "manufacturer": "Ford",
+   "type": "Seasonal Reward",
+   "image": "#25 MUSTANG RTR 2018 FORD.jpg",
+   "year": 2018
+ },
+ {
+   "name": "#88 Mustang RTR",
+   "inGameID": 3151,
+   "manufacturer": "Ford",
+   "type": "Seasonal Reward",
+   "image": "#88 MUSTANG RTR 2018 FORD.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Mustang GT Deberi Design",
+   "inGameID": 3085,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "MUSTANG GT DEBERI DESIGN 2018 FORD.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Mustang RTR Spec 5",
+   "inGameID": 3108,
+   "manufacturer": "Ford",
+   "type": "Seasonal Reward",
+   "image": "MUSTANG RTR SPEC 5 2018 FORD.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Mustang GT",
+   "inGameID": 3046,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "MUSTANG GT 2018 FORD.jpg",
+   "year": 2018
+ },
+ {
+   "name": "GT",
+   "inGameID": 2363,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "GT 2017 FORD.jpg",
+   "year": 2017
+ },
+ {
+   "name": "#14 Rahal Letterman Lanigan Racing GRC Fiesta",
+   "inGameID": 2937,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "#14 RAHAL LETTERMAN LANIGAN RACING GRC FIESTA 2017 FORD.jpg",
+   "year": 2017
+ },
+ {
+   "name": "M-Sport Fiesta RS",
+   "inGameID": 3051,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "M-SPORT FIESTA RS 2017 FORD.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Focus RS Preorder Car",
+   "inGameID": 3100,
+   "manufacturer": "Ford",
+   "type": "Preorder",
+   "image": "FOCUS RS PREORDER CAR 2017 FORD.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Focus RS",
+   "inGameID": 2357,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "FOCUS RS 2017 FORD.jpg",
+   "year": 2017
+ },
+ {
+   "name": "F-150 Raptor",
+   "inGameID": 2397,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "F-150 RAPTOR 2017 FORD.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Shelby GT350R",
+   "inGameID": 2400,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "SHELBY GT350R 2016 FORD.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Falcon GT F 351",
+   "inGameID": 2580,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "FALCON GT F 351 2015 FORD.jpg",
+   "year": 2015
+ },
+ {
+   "name": "#11 Rockstar F-150 Trophy Truck",
+   "inGameID": 2517,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "#11 ROCKSTAR F-150 TROPHY TRUCK 2014 FORD.jpg",
+   "year": 2014
+ },
+ {
+   "name": "FPV Limited Edition Pursuit UTE",
+   "inGameID": 2551,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "FPV LIMITED EDITION PURSUIT UTE 2014 FORD.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Ranger T6 Rally Raid",
+   "inGameID": 2145,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "RANGER T6 RALLY RAID 2014 FORD.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Fiesta ST",
+   "inGameID": 2011,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "FIESTA ST 2014 FORD.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Shelby GT500",
+   "inGameID": 1654,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "SHELBY GT500 2013 FORD.jpg",
+   "year": 2013
+ },
+ {
+   "name": "Transit SuperSportVan Forza Edition",
+   "inGameID": 2934,
+   "manufacturer": "Ford",
+   "type": "Forza Edition",
+   "image": "TRANSIT SUPERSPORTVAN FORZA EDITION 2011 FORD.jpg",
+   "year": 2011
+ },
+ {
+   "name": "F-150 SVT Raptor",
+   "inGameID": 1460,
+   "manufacturer": "Ford",
+   "type": "Wheelspin",
+   "image": "F-150 SVT RAPTOR 2011 FORD.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Transit SuperSportVan",
+   "inGameID": 1477,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "TRANSIT SUPERSPORTVAN 2011 FORD.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Crown Victoria Police Interceptor",
+   "inGameID": 2649,
+   "manufacturer": "Ford",
+   "type": "Wheelspin",
+   "image": "CROWN VICTORIA POLICE INTERCEPTOR 2010 FORD.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Focus RS",
+   "inGameID": 1086,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "FOCUS RS 2009 FORD.jpg",
+   "year": 2009
+ },
+ {
+   "name": "GT",
+   "inGameID": 348,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "GT 2005 FORD.jpg",
+   "year": 2005
+ },
+ {
+   "name": "Focus RS",
+   "inGameID": 2019,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "FOCUS RS 2003 FORD.jpg",
+   "year": 2003
+ },
+ {
+   "name": "SVT Cobra R",
+   "inGameID": 405,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "SVT COBRA R 2000 FORD.jpg",
+   "year": 2000
+ },
+ {
+   "name": "SVT Cobra R",
+   "inGameID": 1041,
+   "manufacturer": "Ford",
+   "type": "Wheelspin",
+   "image": "SVT COBRA R 1993 FORD.jpg",
+   "year": 1993
+ },
+ {
+   "name": "Escort RS Cosworth",
+   "inGameID": 1272,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "ESCORT RS COSWORTH 1992 FORD.jpg",
+   "year": 1992
+ },
+ {
+   "name": "Sierra Cosworth RS500",
+   "inGameID": 1293,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "SIERRA COSWORTH RS500 1987 FORD.jpg",
+   "year": 1987
+ },
+ {
+   "name": "Escort RS Turbo",
+   "inGameID": 2981,
+   "manufacturer": "Ford",
+   "type": "Barn Find",
+   "image": "ESCORT RS TURBO 1986 FORD.jpg",
+   "year": 1986
+ },
+ {
+   "name": "RS200 Evolution",
+   "inGameID": 1108,
+   "manufacturer": "Ford",
+   "type": "Story Progression",
+   "image": "RS200 EVOLUTION 1985 FORD.jpg",
+   "year": 1985
+ },
+ {
+   "name": "Fiesta XR2",
+   "inGameID": 2158,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "FIESTA XR2 1981 FORD.jpg",
+   "year": 1981
+ },
+ {
+   "name": "Escort RS1800",
+   "inGameID": 1302,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "ESCORT RS1800 1977 FORD.jpg",
+   "year": 1977
+ },
+ {
+   "name": "Bronco",
+   "inGameID": 2187,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "BRONCO 1975 FORD.jpg",
+   "year": 1975
+ },
+ {
+   "name": "Capri RS3100 Forza Edition",
+   "inGameID": 2929,
+   "manufacturer": "Ford",
+   "type": "Forza Edition",
+   "image": "CAPRI RS3100 FORZA EDITION 1973 FORD.jpg",
+   "year": 1973
+ },
+ {
+   "name": "XB Falcon GT",
+   "inGameID": 1278,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "XB FALCON GT 1973 FORD.jpg",
+   "year": 1973
+ },
+ {
+   "name": "Capri RS3100",
+   "inGameID": 1529,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "CAPRI RS3100 1973 FORD.jpg",
+   "year": 1973
+ },
+ {
+   "name": "Escort RS1600",
+   "inGameID": 1580,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "ESCORT RS1600 1973 FORD.jpg",
+   "year": 1973
+ },
+ {
+   "name": "Falcon XA GT-HO Forza Edition",
+   "inGameID": 3012,
+   "manufacturer": "Ford",
+   "type": "Forza Edition",
+   "image": "FALCON XA GT-HO FORZA EDITION 1972 FORD.jpg",
+   "year": 1972
+ },
+ {
+   "name": "Falcon XA GT-HO",
+   "inGameID": 2585,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "FALCON XA GT-HO 1972 FORD.jpg",
+   "year": 1972
+ },
+ {
+   "name": "Mustang Mach 1",
+   "inGameID": 1320,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "MUSTANG MACH 1 1971 FORD.jpg",
+   "year": 1971
+ },
+ {
+   "name": "Mustang Boss 302",
+   "inGameID": 1668,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "MUSTANG BOSS 302 1969 FORD.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Mustang GT 2+2 Fastback",
+   "inGameID": 2614,
+   "manufacturer": "Ford",
+   "type": "Car Pass",
+   "image": "MUSTANG GT 2+2 FASTBACK 1968 FORD.jpg",
+   "year": 1968
+ },
+ {
+   "name": "#2 GT40 MK II Le Mans",
+   "inGameID": 2792,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "#2 GT40 MK II LE MANS 1966 FORD.jpg",
+   "year": 1966
+ },
+ {
+   "name": "Lotus Cortina",
+   "inGameID": 1486,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "LOTUS CORTINA 1966 FORD.jpg",
+   "year": 1966
+ },
+ {
+   "name": "Mustang GT Coupe",
+   "inGameID": 1355,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "MUSTANG GT COUPE 1965 FORD.jpg",
+   "year": 1965
+ },
+ {
+   "name": "Transit",
+   "inGameID": 3126,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "TRANSIT 1965 FORD.jpg",
+   "year": 1965
+ },
+ {
+   "name": "GT40 MK I",
+   "inGameID": 2980,
+   "manufacturer": "Ford",
+   "type": "Barn Find",
+   "image": "GT40 MK I 1964 FORD.jpg",
+   "year": 1964
+ },
+ {
+   "name": "Anglia 105E",
+   "inGameID": 2979,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "ANGLIA 105E 1959 FORD.jpg",
+   "year": 1959
+ },
+ {
+   "name": "F-100",
+   "inGameID": 1581,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "F-100 1956 FORD.jpg",
+   "year": 1956
+ },
+ {
+   "name": "Super Deluxe Station Wagon",
+   "inGameID": 2504,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "SUPER DELUXE STATION WAGON 1946 FORD.jpg",
+   "year": 1946
+ },
+ {
+   "name": "De Luxe Coupe",
+   "inGameID": 1530,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "DE LUXE COUPE 1940 FORD.jpg",
+   "year": 1940
+ },
+ {
+   "name": "De Luxe Five-Window Coupe",
+   "inGameID": 2372,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "DE LUXE FIVE-WINDOW COUPE 1932 FORD.jpg",
+   "year": 1932
+ },
+ {
+   "name": "#530 HSV Maloo Gen-F",
+   "inGameID": 2997,
+   "manufacturer": "Formula Drift",
+   "type": "Autoshow",
+   "image": "#530 HSV MALOO GEN-F 2016 FORMULA DRIFT.jpg",
+   "year": 2016
+ },
+ {
+   "name": "#13 Ford Mustang",
+   "inGameID": 2996,
+   "manufacturer": "Formula Drift",
+   "type": "Autoshow",
+   "image": "#13 FORD MUSTANG 2015 FORMULA DRIFT.jpg",
+   "year": 2015
+ },
+ {
+   "name": "#43 Dodge Viper SRT10",
+   "inGameID": 3003,
+   "manufacturer": "Formula Drift",
+   "type": "Autoshow",
+   "image": "#43 DODGE VIPER SRT10 2006 FORMULA DRIFT.jpg",
+   "year": 2006
+ },
+ {
+   "name": "#777 Nissan 240SX",
+   "inGameID": 3000,
+   "manufacturer": "Formula Drift",
+   "type": "Autoshow",
+   "image": "#777 NISSAN 240SX 1997 FORMULA DRIFT.jpg",
+   "year": 1997
+ },
+ {
+   "name": "#232 Nissan 240SX",
+   "inGameID": 2999,
+   "manufacturer": "Formula Drift",
+   "type": "Autoshow",
+   "image": "#232 NISSAN 240SX 1996 FORMULA DRIFT.jpg",
+   "year": 1996
+ },
+ {
+   "name": "#118 Nissan 240SX",
+   "inGameID": 2998,
+   "manufacturer": "Formula Drift",
+   "type": "Autoshow",
+   "image": "#118 NISSAN 240SX 1995 FORMULA DRIFT.jpg",
+   "year": 1995
+ },
+ {
+   "name": "#98 BMW 325I",
+   "inGameID": 3037,
+   "manufacturer": "Formula Drift",
+   "type": "Autoshow",
+   "image": "#98 BMW 325I 1989 FORMULA DRIFT.jpg",
+   "year": 1989
+ },
+ {
+   "name": "F9",
+   "inGameID": 2935,
+   "manufacturer": "Funco Motorsports",
+   "type": "Fortune Island",
+   "image": "F9 2018 FUNCO MOTORSPORTS.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Vandura G-1500",
+   "inGameID": 1531,
+   "manufacturer": "GMC",
+   "type": "Autoshow",
+   "image": "VANDURA G-1500 1983 GMC.jpg",
+   "year": 1983
+ },
+ {
+   "name": "VK Commodore Group A",
+   "inGameID": 2584,
+   "manufacturer": "HDT",
+   "type": "Autoshow",
+   "image": "VK COMMODORE GROUP A 1985 HDT.jpg",
+   "year": 1985
+ },
+ {
+   "name": "Venom GT",
+   "inGameID": 1532,
+   "manufacturer": "Hennessey",
+   "type": "Autoshow",
+   "image": "VENOM GT 2012 HENNESSEY.jpg",
+   "year": 2012
+ },
+ {
+   "name": "IMP",
+   "inGameID": 3084,
+   "manufacturer": "Hillman",
+   "type": "Car Pass",
+   "image": "IMP 1966 HILLMAN.jpg",
+   "year": 1966
+ },
+ {
+   "name": "Torana A9X",
+   "inGameID": 1533,
+   "manufacturer": "Holden",
+   "type": "Autoshow",
+   "image": "TORANA A9X 1977 HOLDEN.jpg",
+   "year": 1977
+ },
+ {
+   "name": "Sandman HQ Panel Van",
+   "inGameID": 2510,
+   "manufacturer": "Holden",
+   "type": "Autoshow",
+   "image": "SANDMAN HQ PANEL VAN 1974 HOLDEN.jpg",
+   "year": 1974
+ },
+ {
+   "name": "HQ Monaro GTS 350",
+   "inGameID": 2417,
+   "manufacturer": "Holden",
+   "type": "Autoshow",
+   "image": "HQ MONARO GTS 350 1973 HOLDEN.jpg",
+   "year": 1973
+ },
+ {
+   "name": "Civic Type R",
+   "inGameID": 2870,
+   "manufacturer": "Honda",
+   "type": "Forzathon Shop",
+   "image": "CIVIC TYPE R 2018 HONDA.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Civic Coupe GRC",
+   "inGameID": 3069,
+   "manufacturer": "Honda",
+   "type": "Car Pass",
+   "image": "CIVIC COUPE GRC 2016 HONDA.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Ridgeline Baja Trophy Truck",
+   "inGameID": 2745,
+   "manufacturer": "Honda",
+   "type": "Autoshow",
+   "image": "RIDGELINE BAJA TROPHY TRUCK 2015 HONDA.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Civic Type R",
+   "inGameID": 2163,
+   "manufacturer": "Honda",
+   "type": "Autoshow",
+   "image": "CIVIC TYPE R 2015 HONDA.jpg",
+   "year": 2015
+ },
+ {
+   "name": "S2000 CR",
+   "inGameID": 2005,
+   "manufacturer": "Honda",
+   "type": "Autoshow",
+   "image": "S2000 CR 2009 HONDA.jpg",
+   "year": 2009
+ },
+ {
+   "name": "Civic Type-R",
+   "inGameID": 625,
+   "manufacturer": "Honda",
+   "type": "Autoshow",
+   "image": "CIVIC TYPE-R 2007 HONDA.jpg",
+   "year": 2007
+ },
+ {
+   "name": "NSX-R GT",
+   "inGameID": 569,
+   "manufacturer": "Honda",
+   "type": "Car Pass",
+   "image": "NSX-R GT 2005 HONDA.jpg",
+   "year": 2005
+ },
+ {
+   "name": "NSX-R",
+   "inGameID": 411,
+   "manufacturer": "Honda",
+   "type": "Wheelspin",
+   "image": "NSX-R 2005 HONDA.jpg",
+   "year": 2005
+ },
+ {
+   "name": "Civic Type-R",
+   "inGameID": 302,
+   "manufacturer": "Honda",
+   "type": "Wheelspin",
+   "image": "CIVIC TYPE-R 2004 HONDA.jpg",
+   "year": 2004
+ },
+ {
+   "name": "S2000",
+   "inGameID": 427,
+   "manufacturer": "Honda",
+   "type": "Car Pass",
+   "image": "S2000 2003 HONDA.jpg",
+   "year": 2003
+ },
+ {
+   "name": "Civic Type R",
+   "inGameID": 1273,
+   "manufacturer": "Honda",
+   "type": "Autoshow",
+   "image": "CIVIC TYPE R 1997 HONDA.jpg",
+   "year": 1997
+ },
+ {
+   "name": "Prelude SI",
+   "inGameID": 2121,
+   "manufacturer": "Honda",
+   "type": "Seasonal Reward",
+   "image": "PRELUDE SI 1994 HONDA.jpg",
+   "year": 1994
+ },
+ {
+   "name": "NSX-R",
+   "inGameID": 412,
+   "manufacturer": "Honda",
+   "type": "Autoshow",
+   "image": "NSX-R 1992 HONDA.jpg",
+   "year": 1992
+ },
+ {
+   "name": "CR-X SiR",
+   "inGameID": 320,
+   "manufacturer": "Honda",
+   "type": "Autoshow",
+   "image": "CR-X SIR 1991 HONDA.jpg",
+   "year": 1991
+ },
+ {
+   "name": "Civic CRX Mugen",
+   "inGameID": 2119,
+   "manufacturer": "Honda",
+   "type": "Forzathon Shop",
+   "image": "CIVIC CRX MUGEN 1984 HONDA.jpg",
+   "year": 1984
+ },
+ {
+   "name": "Civic RS",
+   "inGameID": 1568,
+   "manufacturer": "Honda",
+   "type": "Car Pass",
+   "image": "CIVIC RS 1974 HONDA.jpg",
+   "year": 1974
+ },
+ {
+   "name": "Gymkhana 10 Ford Fiesta ST",
+   "inGameID": 2983,
+   "manufacturer": "Hoonigan",
+   "type": "Wheelspin",
+   "image": "GYMKHANA 10 FORD FIESTA ST 2017 HOONIGAN.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Gymkhana 9 Ford Focus RS RX",
+   "inGameID": 2648,
+   "manufacturer": "Hoonigan",
+   "type": "Autoshow",
+   "image": "GYMKHANA 9 FORD FOCUS RS RX 2016 HOONIGAN.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Gymkhana 10 Ford Focus RS RX",
+   "inGameID": 3115,
+   "manufacturer": "Hoonigan",
+   "type": "Forzathon Shop",
+   "image": "GYMKHANA 10 FORD FOCUS RS RX 2016 HOONIGAN.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Gymkhana 8 Ford Fiesta ST RX43",
+   "inGameID": 2731,
+   "manufacturer": "Hoonigan",
+   "type": "Fortune Island",
+   "image": "GYMKHANA 8 FORD FIESTA ST RX43 2015 HOONIGAN.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Mazda RX-7 Twerkstallion",
+   "inGameID": 2732,
+   "manufacturer": "Hoonigan",
+   "type": "Autoshow",
+   "image": "MAZDA RX-7 TWERKSTALLION 1992 HOONIGAN.jpg",
+   "year": 1992
+ },
+ {
+   "name": "Gymkhana 10 Ford Escort Cosworth Group A",
+   "inGameID": 2984,
+   "manufacturer": "Hoonigan",
+   "type": "Car Pass",
+   "image": "GYMKHANA 10 FORD ESCORT COSWORTH GROUP A 1991 HOONIGAN.jpg",
+   "year": 1991
+ },
+ {
+   "name": "Rauh-Welt Begriff Porsche 911 Turbo",
+   "inGameID": 2736,
+   "manufacturer": "Hoonigan",
+   "type": "Story Progression",
+   "image": "RAUH-WELT BEGRIFF PORSCHE 911 TURBO 1991 HOONIGAN.jpg",
+   "year": 1991
+ },
+ {
+   "name": "Ford RS200 Evolution",
+   "inGameID": 3119,
+   "manufacturer": "Hoonigan",
+   "type": "Seasonal Reward",
+   "image": "FORD RS200 EVOLUTION 1986 HOONIGAN.jpg",
+   "year": 1986
+ },
+ {
+   "name": "Ford Escort RS1800",
+   "inGameID": 2730,
+   "manufacturer": "Hoonigan",
+   "type": "Autoshow",
+   "image": "FORD ESCORT RS1800 1978 HOONIGAN.jpg",
+   "year": 1978
+ },
+ {
+   "name": "Gymkhana 10 Ford F-150 'Hoonitruck'",
+   "inGameID": 2982,
+   "manufacturer": "Hoonigan",
+   "type": "Car Pass",
+   "image": "GYMKHANA 10 FORD F-150 'HOONITRUCK' 1977 HOONIGAN.jpg",
+   "year": 1977
+ },
+ {
+   "name": "Chevrolet Napalm Nova",
+   "inGameID": 2729,
+   "manufacturer": "Hoonigan",
+   "type": "Wheelspin",
+   "image": "CHEVROLET NAPALM NOVA 1972 HOONIGAN.jpg",
+   "year": 1972
+ },
+ {
+   "name": "Gymkhana 10 Ford Hoonigan Mustang",
+   "inGameID": 3006,
+   "manufacturer": "Hoonigan",
+   "type": "Forzathon Shop",
+   "image": "GYMKHANA 10 FORD HOONIGAN MUSTANG 1965 HOONIGAN.jpg",
+   "year": 1965
+ },
+ {
+   "name": "Ford Hoonicorn Mustang",
+   "inGameID": 2734,
+   "manufacturer": "Hoonigan",
+   "type": "Autoshow",
+   "image": "FORD HOONICORN MUSTANG 1965 HOONIGAN.jpg",
+   "year": 1965
+ },
+ {
+   "name": "Chevrolet Bel Air",
+   "inGameID": 2728,
+   "manufacturer": "Hoonigan",
+   "type": "Autoshow",
+   "image": "CHEVROLET BEL AIR 1955 HOONIGAN.jpg",
+   "year": 1955
+ },
+ {
+   "name": "Rip Rod",
+   "inGameID": 2751,
+   "manufacturer": "Hot Wheels",
+   "type": "Seasonal Reward",
+   "image": "RIP ROD 2012 HOT WHEELS.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Bone Shaker",
+   "inGameID": 2575,
+   "manufacturer": "Hot Wheels",
+   "type": "Forzathon Shop",
+   "image": "BONE SHAKER 2011 HOT WHEELS.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Ford Mustang",
+   "inGameID": 2576,
+   "manufacturer": "Hot Wheels",
+   "type": "Seasonal Reward",
+   "image": "FORD MUSTANG 2005 HOT WHEELS.jpg",
+   "year": 2005
+ },
+ {
+   "name": "Twin Mill",
+   "inGameID": 2750,
+   "manufacturer": "Hot Wheels",
+   "type": "Seasonal Reward",
+   "image": "TWIN MILL 1969 HOT WHEELS.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Limited Edition Gen-F GTS Maloo",
+   "inGameID": 2422,
+   "manufacturer": "HSV",
+   "type": "Autoshow",
+   "image": "LIMITED EDITION GEN-F GTS MALOO 2014 HSV.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Gen-F GTS",
+   "inGameID": 2131,
+   "manufacturer": "HSV",
+   "type": "Autoshow",
+   "image": "GEN-F GTS 2014 HSV.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Hornet",
+   "inGameID": 1512,
+   "manufacturer": "Hudson",
+   "type": "Seasonal Reward",
+   "image": "HORNET 1952 HUDSON.jpg",
+   "year": 1952
+ },
+ {
+   "name": "H1 Alpha",
+   "inGameID": 1345,
+   "manufacturer": "Hummer",
+   "type": "Wheelspin",
+   "image": "H1 ALPHA 2006 HUMMER.jpg",
+   "year": 2006
+ },
+ {
+   "name": "Veloster N",
+   "inGameID": 2872,
+   "manufacturer": "Hyundai",
+   "type": "Autoshow",
+   "image": "VELOSTER N 2019 HYUNDAI.jpg",
+   "year": 2019
+ },
+ {
+   "name": "Q60 Concept",
+   "inGameID": 2437,
+   "manufacturer": "Infiniti",
+   "type": "Autoshow",
+   "image": "Q60 CONCEPT 2015 INFINITI.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Q50 Eau Rouge",
+   "inGameID": 2166,
+   "manufacturer": "Infiniti",
+   "type": "Autoshow",
+   "image": "Q50 EAU ROUGE 2014 INFINITI.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Scout 800A",
+   "inGameID": 2558,
+   "manufacturer": "International",
+   "type": "Autoshow",
+   "image": "SCOUT 800A 1970 INTERNATIONAL.jpg",
+   "year": 1970
+ },
+ {
+   "name": "F-Pace S",
+   "inGameID": 2571,
+   "manufacturer": "Jaguar",
+   "type": "Autoshow",
+   "image": "F-PACE S 2017 JAGUAR.jpg",
+   "year": 2017
+ },
+ {
+   "name": "F-Type Project 7",
+   "inGameID": 2492,
+   "manufacturer": "Jaguar",
+   "type": "Autoshow",
+   "image": "F-TYPE PROJECT 7 2016 JAGUAR.jpg",
+   "year": 2016
+ },
+ {
+   "name": "XKR-S GT",
+   "inGameID": 2235,
+   "manufacturer": "Jaguar",
+   "type": "Story Progression",
+   "image": "XKR-S GT 2015 JAGUAR.jpg",
+   "year": 2015
+ },
+ {
+   "name": "F-Type R Coupe",
+   "inGameID": 2162,
+   "manufacturer": "Jaguar",
+   "type": "Autoshow",
+   "image": "F-TYPE R COUPE 2015 JAGUAR.jpg",
+   "year": 2015
+ },
+ {
+   "name": "XFR-S",
+   "inGameID": 2185,
+   "manufacturer": "Jaguar",
+   "type": "Autoshow",
+   "image": "XFR-S 2015 JAGUAR.jpg",
+   "year": 2015
+ },
+ {
+   "name": "XE-S",
+   "inGameID": 2570,
+   "manufacturer": "Jaguar",
+   "type": "Autoshow",
+   "image": "XE-S 2015 JAGUAR.jpg",
+   "year": 2015
+ },
+ {
+   "name": "XKR-S",
+   "inGameID": 1496,
+   "manufacturer": "Jaguar",
+   "type": "Autoshow",
+   "image": "XKR-S 2012 JAGUAR.jpg",
+   "year": 2012
+ },
+ {
+   "name": "XJ220",
+   "inGameID": 489,
+   "manufacturer": "Jaguar",
+   "type": "Barn Find",
+   "image": "XJ220 1993 JAGUAR.jpg",
+   "year": 1993
+ },
+ {
+   "name": "XJ-S",
+   "inGameID": 1534,
+   "manufacturer": "Jaguar",
+   "type": "Autoshow",
+   "image": "XJ-S 1990 JAGUAR.jpg",
+   "year": 1990
+ },
+ {
+   "name": "Lightweight E-Type",
+   "inGameID": 2992,
+   "manufacturer": "Jaguar",
+   "type": "Autoshow",
+   "image": "LIGHTWEIGHT E-TYPE 1964 JAGUAR.jpg",
+   "year": 1964
+ },
+ {
+   "name": "E-Type S1",
+   "inGameID": 336,
+   "manufacturer": "Jaguar",
+   "type": "Barn Find",
+   "image": "E-TYPE S1 1961 JAGUAR.jpg",
+   "year": 1961
+ },
+ {
+   "name": "MK II 3.8",
+   "inGameID": 2559,
+   "manufacturer": "Jaguar",
+   "type": "Autoshow",
+   "image": "MK II 3.8 1959 JAGUAR.jpg",
+   "year": 1959
+ },
+ {
+   "name": "D-Type",
+   "inGameID": 1301,
+   "manufacturer": "Jaguar",
+   "type": "Autoshow",
+   "image": "D-TYPE 1956 JAGUAR.jpg",
+   "year": 1956
+ },
+ {
+   "name": "XK120 SE",
+   "inGameID": 1485,
+   "manufacturer": "Jaguar",
+   "type": "Autoshow",
+   "image": "XK120 SE 1954 JAGUAR.jpg",
+   "year": 1954
+ },
+ {
+   "name": "C-Type",
+   "inGameID": 3097,
+   "manufacturer": "Jaguar",
+   "type": "Car Pass",
+   "image": "C-TYPE 1953 JAGUAR.jpg",
+   "year": 1953
+ },
+ {
+   "name": "Aston Martin DB10",
+   "inGameID": 3060,
+   "manufacturer": "James Bond Edition",
+   "type": "Autoshow",
+   "image": "ASTON MARTIN DB10 2015 JAMES BOND EDITION.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Jaguar C-X75",
+   "inGameID": 3055,
+   "manufacturer": "James Bond Edition",
+   "type": "Autoshow",
+   "image": "JAGUAR C-X75 2010 JAMES BOND EDITION.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Aston Martin DBS",
+   "inGameID": 1081,
+   "manufacturer": "James Bond Edition",
+   "type": "Autoshow",
+   "image": "ASTON MARTIN DBS 2008 JAMES BOND EDITION.jpg",
+   "year": 2008
+ },
+ {
+   "name": "BMW Z8",
+   "inGameID": 3050,
+   "manufacturer": "James Bond Edition",
+   "type": "Autoshow",
+   "image": "BMW Z8 1999 JAMES BOND EDITION.jpg",
+   "year": 1999
+ },
+ {
+   "name": "Aston MArtin V8",
+   "inGameID": 3048,
+   "manufacturer": "James Bond Edition",
+   "type": "Autoshow",
+   "image": "ASTON MARTIN V8 1986 JAMES BOND EDITION.jpg",
+   "year": 1986
+ },
+ {
+   "name": "Citroen 2CV6",
+   "inGameID": 3070,
+   "manufacturer": "James Bond Edition",
+   "type": "Autoshow",
+   "image": "CITROEN 2CV6 1981 JAMES BOND EDITION.jpg",
+   "year": 1981
+ },
+ {
+   "name": "Lotus Esprit S1",
+   "inGameID": 3061,
+   "manufacturer": "James Bond Edition",
+   "type": "Autoshow",
+   "image": "LOTUS ESPRIT S1 1977 JAMES BOND EDITION.jpg",
+   "year": 1977
+ },
+ {
+   "name": "AMC Hornet X Hatchback",
+   "inGameID": 3075,
+   "manufacturer": "James Bond Edition",
+   "type": "Autoshow",
+   "image": "AMC HORNET X HATCHBACK 1974 JAMES BOND EDITION.jpg",
+   "year": 1974
+ },
+ {
+   "name": "Aston Martin DBS",
+   "inGameID": 3024,
+   "manufacturer": "James Bond Edition",
+   "type": "Autoshow",
+   "image": "ASTON MARTIN DBS 1969 JAMES BOND EDITION.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Aston Martin DB5",
+   "inGameID": 3047,
+   "manufacturer": "James Bond Edition",
+   "type": "Autoshow",
+   "image": "ASTON MARTIN DB5 1964 JAMES BOND EDITION.jpg",
+   "year": 1964
+ },
+ {
+   "name": "Grand Cherokee Trackhawk",
+   "inGameID": 2841,
+   "manufacturer": "Jeep",
+   "type": "Story Progression",
+   "image": "GRAND CHEROKEE TRACKHAWK 2018 JEEP.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Trailcat",
+   "inGameID": 2742,
+   "manufacturer": "Jeep",
+   "type": "Story Progression",
+   "image": "TRAILCAT 2016 JEEP.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Grand Cherokee SRT",
+   "inGameID": 2108,
+   "manufacturer": "Jeep",
+   "type": "Wheelspin",
+   "image": "GRAND CHEROKEE SRT 2014 JEEP.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Wrangler Rubicorn",
+   "inGameID": 1522,
+   "manufacturer": "Jeep",
+   "type": "Autoshow",
+   "image": "WRANGLER RUBICORN 2012 JEEP.jpg",
+   "year": 2012
+ },
+ {
+   "name": "CJ5 Renegade",
+   "inGameID": 2511,
+   "manufacturer": "Jeep",
+   "type": "Autoshow",
+   "image": "CJ5 RENEGADE 1976 JEEP.jpg",
+   "year": 1976
+ },
+ {
+   "name": "Stinger",
+   "inGameID": 2861,
+   "manufacturer": "Kia",
+   "type": "Autoshow",
+   "image": "STINGER 2018 KIA.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Agera RS",
+   "inGameID": 2910,
+   "manufacturer": "Koenigsegg",
+   "type": "Car Pass",
+   "image": "AGERA RS 2017 KOENIGSEGG.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Regera",
+   "inGameID": 2526,
+   "manufacturer": "Koenigsegg",
+   "type": "Autoshow",
+   "image": "REGERA 2016 KOENIGSEGG.jpg",
+   "year": 2016
+ },
+ {
+   "name": "One:1",
+   "inGameID": 2188,
+   "manufacturer": "Koenigsegg",
+   "type": "Autoshow",
+   "image": "ONE:1 2015 KOENIGSEGG.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Agera",
+   "inGameID": 1397,
+   "manufacturer": "Koenigsegg",
+   "type": "Autoshow",
+   "image": "AGERA 2011 KOENIGSEGG.jpg",
+   "year": 2011
+ },
+ {
+   "name": "CC8S",
+   "inGameID": 294,
+   "manufacturer": "Koenigsegg",
+   "type": "Fortune Island",
+   "image": "CC8S 2002 KOENIGSEGG.jpg",
+   "year": 2002
+ },
+ {
+   "name": "X-BOW GT4",
+   "inGameID": 3035,
+   "manufacturer": "KTM",
+   "type": "Forzathon Shop",
+   "image": "X-BOW GT4 2018 KTM.jpg",
+   "year": 2018
+ },
+ {
+   "name": "X-BOW R",
+   "inGameID": 1653,
+   "manufacturer": "KTM",
+   "type": "Autoshow",
+   "image": "X-BOW R 2013 KTM.jpg",
+   "year": 2013
+ },
+ {
+   "name": "Urus",
+   "inGameID": 3120,
+   "manufacturer": "Lamborghini",
+   "type": "Fortune Island",
+   "image": "URUS 2019 LAMBORGHINI.jpg",
+   "year": 2019
+ },
+ {
+   "name": "Centenario LP 770-4",
+   "inGameID": 2616,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "CENTENARIO LP 770-4 2016 LAMBORGHINI.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Aventador LP750-4 SV",
+   "inGameID": 2479,
+   "manufacturer": "Lamborghini",
+   "type": "Wheelspin",
+   "image": "AVENTADOR LP750-4 SV 2016 LAMBORGHINI.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Huracan LP 610-4",
+   "inGameID": 2164,
+   "manufacturer": "Lamborghini",
+   "type": "Story Progression",
+   "image": "HURACAN LP 610-4 2014 LAMBORGHINI.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Urus Concept",
+   "inGameID": 1625,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "URUS CONCEPT 2014 LAMBORGHINI.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Veneno",
+   "inGameID": 2042,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "VENENO 2013 LAMBORGHINI.jpg",
+   "year": 2013
+ },
+ {
+   "name": "Aventador LP700-4",
+   "inGameID": 1398,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "AVENTADOR LP700-4 2012 LAMBORGHINI.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Aventador LP700-4 Forza Edition",
+   "inGameID": 2940,
+   "manufacturer": "Lamborghini",
+   "type": "Forza Edition",
+   "image": "AVENTADOR LP700-4 FORZA EDITION 2012 LAMBORGHINI.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Aventador J",
+   "inGameID": 1583,
+   "manufacturer": "Lamborghini",
+   "type": "Fortune Island",
+   "image": "AVENTADOR J 2012 LAMBORGHINI.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Gallardo LP570-4 Spyder Performante",
+   "inGameID": 1601,
+   "manufacturer": "Lamborghini",
+   "type": "Car Pass",
+   "image": "GALLARDO LP570-4 SPYDER PERFORMANTE 2012 LAMBORGHINI.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Sesto Elemento",
+   "inGameID": 1392,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "SESTO ELEMENTO 2011 LAMBORGHINI.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Gallardo LP 570-4 Superleggera",
+   "inGameID": 1322,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "GALLARDO LP 570-4 SUPERLEGGERA 2011 LAMBORGHINI.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Murcielago LP 670-4 SV",
+   "inGameID": 1173,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "MURCIELAGO LP 670-4 SV 2010 LAMBORGHINI.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Reventon Forza Edition",
+   "inGameID": 3009,
+   "manufacturer": "Lamborghini",
+   "type": "Forza Edition",
+   "image": "REVENTON FORZA EDITION 2008 LAMBORGHINI.jpg",
+   "year": 2008
+ },
+ {
+   "name": "Reventon",
+   "inGameID": 1125,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "REVENTON 2008 LAMBORGHINI.jpg",
+   "year": 2008
+ },
+ {
+   "name": "Diablo SV",
+   "inGameID": 325,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "DIABLO SV 1997 LAMBORGHINI.jpg",
+   "year": 1997
+ },
+ {
+   "name": "Countach LP5000 QV",
+   "inGameID": 316,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "COUNTACH LP5000 QV 1988 LAMBORGHINI.jpg",
+   "year": 1988
+ },
+ {
+   "name": "LM 2",
+   "inGameID": 2176,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "LM 002 1986 LAMBORGHINI.jpg",
+   "year": 1986
+ },
+ {
+   "name": "Jarama S",
+   "inGameID": 2207,
+   "manufacturer": "Lamborghini",
+   "type": "Car Pass",
+   "image": "JARAMA S 1972 LAMBORGHINI.jpg",
+   "year": 1972
+ },
+ {
+   "name": "Miura P400",
+   "inGameID": 637,
+   "manufacturer": "Lamborghini",
+   "type": "Autoshow",
+   "image": "MIURA P400 1967 LAMBORGHINI.jpg",
+   "year": 1967
+ },
+ {
+   "name": "Delta HF Integrale Evo",
+   "inGameID": 323,
+   "manufacturer": "Lancia",
+   "type": "Wheelspin",
+   "image": "DELTA HF INTEGRALE EVO 1992 LANCIA.jpg",
+   "year": 1992
+ },
+ {
+   "name": "Delta S4",
+   "inGameID": 1661,
+   "manufacturer": "Lancia",
+   "type": "Autoshow",
+   "image": "DELTA S4 1986 LANCIA.jpg",
+   "year": 1986
+ },
+ {
+   "name": "37 Stradale",
+   "inGameID": 1295,
+   "manufacturer": "Lancia",
+   "type": "Autoshow",
+   "image": "037 STRADALE 1982 LANCIA.jpg",
+   "year": 1982
+ },
+ {
+   "name": "Stratos HF Stradale",
+   "inGameID": 458,
+   "manufacturer": "Lancia",
+   "type": "Autoshow",
+   "image": "STRATOS HF STRADALE 1974 LANCIA.jpg",
+   "year": 1974
+ },
+ {
+   "name": "Fulvia Coupe Rallye 1.6 HF",
+   "inGameID": 1585,
+   "manufacturer": "Lancia",
+   "type": "Autoshow",
+   "image": "FULVIA COUPE RALLYE 1.6 HF 1968 LANCIA.jpg",
+   "year": 1968
+ },
+ {
+   "name": "Range Rover Sport SVR",
+   "inGameID": 2494,
+   "manufacturer": "Land Rover",
+   "type": "Autoshow",
+   "image": "RANGE ROVER SPORT SVR 2015 LAND ROVER.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Defender 90",
+   "inGameID": 2135,
+   "manufacturer": "Land Rover",
+   "type": "Autoshow",
+   "image": "DEFENDER 90 1997 LAND ROVER.jpg",
+   "year": 1997
+ },
+ {
+   "name": "Range Rover",
+   "inGameID": 2985,
+   "manufacturer": "Land Rover",
+   "type": "Barn Find",
+   "image": "RANGE ROVER 1973 LAND ROVER.jpg",
+   "year": 1973
+ },
+ {
+   "name": "Series III Forza Edition",
+   "inGameID": 2944,
+   "manufacturer": "Land Rover",
+   "type": "Forza Edition",
+   "image": "SERIES III FORZA EDITION 1972 LAND ROVER.jpg",
+   "year": 1972
+ },
+ {
+   "name": "Series III",
+   "inGameID": 2560,
+   "manufacturer": "Land Rover",
+   "type": "Autoshow",
+   "image": "SERIES III 1972 LAND ROVER.jpg",
+   "year": 1972
+ },
+ {
+   "name": "Rally Fighter",
+   "inGameID": 2146,
+   "manufacturer": "Local Motors",
+   "type": "Autoshow",
+   "image": "RALLY FIGHTER 2014 LOCAL MOTORS.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Penske Sunoco T70 MKIIIB",
+   "inGameID": 2423,
+   "manufacturer": "Lola",
+   "type": "Autoshow",
+   "image": "PENSKE SUNOCO T70 MKIIIB 1#6 LOLA.jpg",
+   "year": 1969
+ },
+ {
+   "name": "3-Eleven",
+   "inGameID": 2541,
+   "manufacturer": "Lotus",
+   "type": "Autoshow",
+   "image": "3-ELEVEN 2016 LOTUS.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Exige S",
+   "inGameID": 1523,
+   "manufacturer": "Lotus",
+   "type": "Autoshow",
+   "image": "EXIGE S 2012 LOTUS.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Evora S",
+   "inGameID": 2165,
+   "manufacturer": "Lotus",
+   "type": "Autoshow",
+   "image": "EVORA S 2011 LOTUS.jpg",
+   "year": 2011
+ },
+ {
+   "name": "2-Eleven",
+   "inGameID": 1187,
+   "manufacturer": "Lotus",
+   "type": "Wheelspin",
+   "image": "2-ELEVEN 2009 LOTUS.jpg",
+   "year": 2009
+ },
+ {
+   "name": "Elise 111S",
+   "inGameID": 331,
+   "manufacturer": "Lotus",
+   "type": "Wheelspin",
+   "image": "ELISE 111S 2005 LOTUS.jpg",
+   "year": 2005
+ },
+ {
+   "name": "Esprit V8",
+   "inGameID": 335,
+   "manufacturer": "Lotus",
+   "type": "Autoshow",
+   "image": "ESPRIT V8 2002 LOTUS.jpg",
+   "year": 2002
+ },
+ {
+   "name": "340R",
+   "inGameID": 2405,
+   "manufacturer": "Lotus",
+   "type": "Autoshow",
+   "image": "340R 2000 LOTUS.jpg",
+   "year": 2000
+ },
+ {
+   "name": "Elise Series 1 Sport 190",
+   "inGameID": 1376,
+   "manufacturer": "Lotus",
+   "type": "Seasonal Reward",
+   "image": "ELISE SERIES 1 SPORT 190 1999 LOTUS.jpg",
+   "year": 1999
+ },
+ {
+   "name": "Elise GT1",
+   "inGameID": 2825,
+   "manufacturer": "Lotus",
+   "type": "Barn Find",
+   "image": "ELISE GT1 1997 LOTUS.jpg",
+   "year": 1997
+ },
+ {
+   "name": "Elan Sprint",
+   "inGameID": 330,
+   "manufacturer": "Lotus",
+   "type": "Autoshow",
+   "image": "ELAN SPRINT 1971 LOTUS.jpg",
+   "year": 1971
+ },
+ {
+   "name": "Eleven",
+   "inGameID": 1558,
+   "manufacturer": "Lotus",
+   "type": "Autoshow",
+   "image": "ELEVEN 1956 LOTUS.jpg",
+   "year": 1956
+ },
+ {
+   "name": "Levante S",
+   "inGameID": 2865,
+   "manufacturer": "Maserati",
+   "type": "Seasonal Reward",
+   "image": "LEVANTE S 2017 MASERATI.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Gran Turismo S",
+   "inGameID": 1304,
+   "manufacturer": "Maserati",
+   "type": "Autoshow",
+   "image": "GRAN TURISMO S 2010 MASERATI.jpg",
+   "year": 2010
+ },
+ {
+   "name": "MC12 Forza Edition",
+   "inGameID": 2945,
+   "manufacturer": "Maserati",
+   "type": "Forza Edition",
+   "image": "MC12 FORZA EDITION 2004 MASERATI.jpg",
+   "year": 2004
+ },
+ {
+   "name": "MC12",
+   "inGameID": 391,
+   "manufacturer": "Maserati",
+   "type": "Autoshow",
+   "image": "MC12 2004 MASERATI.jpg",
+   "year": 2004
+ },
+ {
+   "name": "Tipo 61 Birdcage",
+   "inGameID": 1524,
+   "manufacturer": "Maserati",
+   "type": "Autoshow",
+   "image": "TIPO 61 BIRDCAGE 1961 MASERATI.jpg",
+   "year": 1961
+ },
+ {
+   "name": "300 S",
+   "inGameID": 1462,
+   "manufacturer": "Maserati",
+   "type": "Autoshow",
+   "image": "300 S 1957 MASERATI.jpg",
+   "year": 1957
+ },
+ {
+   "name": "A6GCS/53 Pininfarina Berlinetta",
+   "inGameID": 2506,
+   "manufacturer": "Maserati",
+   "type": "Autoshow",
+   "image": "A6GCS/53 PININFARINA BERLINETTA 1953 MASERATI.jpg",
+   "year": 1953
+ },
+ {
+   "name": "8CTF",
+   "inGameID": 2068,
+   "manufacturer": "Maserati",
+   "type": "Autoshow",
+   "image": "8CTF 1939 MASERATI.jpg",
+   "year": 1939
+ },
+ {
+   "name": "MX-5",
+   "inGameID": 2267,
+   "manufacturer": "Mazda",
+   "type": "Autoshow",
+   "image": "MX-5 2016 MAZDA.jpg",
+   "year": 2016
+ },
+ {
+   "name": "MX-5",
+   "inGameID": 2004,
+   "manufacturer": "Mazda",
+   "type": "Autoshow",
+   "image": "MX-5 2013 MAZDA.jpg",
+   "year": 2013
+ },
+ {
+   "name": "RX-8 R3",
+   "inGameID": 2426,
+   "manufacturer": "Mazda",
+   "type": "Autoshow",
+   "image": "RX-8 R3 2011 MAZDA.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Mazdaspeed MX-5",
+   "inGameID": 2171,
+   "manufacturer": "Mazda",
+   "type": "Autoshow",
+   "image": "MAZDASPEED MX-5 2005 MAZDA.jpg",
+   "year": 2005
+ },
+ {
+   "name": "RX-7 Spirit R Type-A",
+   "inGameID": 425,
+   "manufacturer": "Mazda",
+   "type": "Car Pass",
+   "image": "RX-7 SPIRIT R TYPE-A 2002 MAZDA.jpg",
+   "year": 2002
+ },
+ {
+   "name": "RX-7",
+   "inGameID": 424,
+   "manufacturer": "Mazda",
+   "type": "Autoshow",
+   "image": "RX-7 1997 MAZDA.jpg",
+   "year": 1997
+ },
+ {
+   "name": "MX-5 Miata",
+   "inGameID": 1110,
+   "manufacturer": "Mazda",
+   "type": "Autoshow",
+   "image": "MX-5 MIATA 1994 MAZDA.jpg",
+   "year": 1994
+ },
+ {
+   "name": "Savanna RX-7",
+   "inGameID": 423,
+   "manufacturer": "Mazda",
+   "type": "Autoshow",
+   "image": "SAVANNA RX-7 1990 MAZDA.jpg",
+   "year": 1990
+ },
+ {
+   "name": "720S Coupe Preorder Car",
+   "inGameID": 3101,
+   "manufacturer": "McLaren",
+   "type": "Preorder",
+   "image": "720S COUPE PREORDER CAR 2018 MCLAREN.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Senna (SE)",
+   "inGameID": 3106,
+   "manufacturer": "McLaren",
+   "type": "Horizon Story",
+   "image": "SENNA (SE) 2018 MCLAREN.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Senna",
+   "inGameID": 2988,
+   "manufacturer": "McLaren",
+   "type": "Autoshow",
+   "image": "SENNA 2018 MCLAREN.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Senna (AE)",
+   "inGameID": 3105,
+   "manufacturer": "McLaren",
+   "type": "Horizon Story",
+   "image": "SENNA (AE) 2018 MCLAREN.jpg",
+   "year": 2018
+ },
+ {
+   "name": "720S Coupe",
+   "inGameID": 2846,
+   "manufacturer": "McLaren",
+   "type": "Autoshow",
+   "image": "720S COUPE 2018 MCLAREN.jpg",
+   "year": 2018
+ },
+ {
+   "name": "650S Coupe",
+   "inGameID": 2189,
+   "manufacturer": "McLaren",
+   "type": "Car Pass",
+   "image": "650S COUPE 2015 MCLAREN.jpg",
+   "year": 2015
+ },
+ {
+   "name": "570S Coupe",
+   "inGameID": 2472,
+   "manufacturer": "McLaren",
+   "type": "Autoshow",
+   "image": "570S COUPE 2015 MCLAREN.jpg",
+   "year": 2015
+ },
+ {
+   "name": "650S Spider",
+   "inGameID": 3087,
+   "manufacturer": "McLaren",
+   "type": "Autoshow",
+   "image": "650S SPIDER 2014 MCLAREN.jpg",
+   "year": 2014
+ },
+ {
+   "name": "P1",
+   "inGameID": 1667,
+   "manufacturer": "McLaren",
+   "type": "Autoshow",
+   "image": "P1 2013 MCLAREN.jpg",
+   "year": 2013
+ },
+ {
+   "name": "F1 GT",
+   "inGameID": 338,
+   "manufacturer": "McLaren",
+   "type": "Autoshow",
+   "image": "F1 GT 1997 MCLAREN.jpg",
+   "year": 1997
+ },
+ {
+   "name": "F1",
+   "inGameID": 1314,
+   "manufacturer": "McLaren",
+   "type": "Autoshow",
+   "image": "F1 1993 MCLAREN.jpg",
+   "year": 1993
+ },
+ {
+   "name": "GT R Preorder Car",
+   "inGameID": 3104,
+   "manufacturer": "Mercedes-AMG",
+   "type": "Preorder",
+   "image": "GT R PREORDER CAR 2017 MERCEDES-AMG.jpg",
+   "year": 2017
+ },
+ {
+   "name": "GT R",
+   "inGameID": 2654,
+   "manufacturer": "Mercedes-AMG",
+   "type": "Autoshow",
+   "image": "GT R 2017 MERCEDES-AMG.jpg",
+   "year": 2017
+ },
+ {
+   "name": "C 63 A Coupe",
+   "inGameID": 2471,
+   "manufacturer": "Mercedes-AMG",
+   "type": "Autoshow",
+   "image": "C 63 A COUPE 2016 MERCEDES-AMG.jpg",
+   "year": 2016
+ },
+ {
+   "name": "GT S",
+   "inGameID": 2242,
+   "manufacturer": "Mercedes-AMG",
+   "type": "Autoshow",
+   "image": "GT S 2015 MERCEDES-AMG.jpg",
+   "year": 2015
+ },
+ {
+   "name": "#24 Tankpool24 Racing Truck",
+   "inGameID": 2424,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "#24 TANKPOOL24 RACING TRUCK 2015 MERCEDES-BENZ.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Unimog U5023",
+   "inGameID": 2986,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "UNIMOG U5023 2014 MERCEDES-BENZ.jpg",
+   "year": 2014
+ },
+ {
+   "name": "E 63 AMG",
+   "inGameID": 2021,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Wheelspin",
+   "image": "E 63 AMG 2013 MERCEDES-BENZ.jpg",
+   "year": 2013
+ },
+ {
+   "name": "A 45 AMG",
+   "inGameID": 1658,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "A 45 AMG 2013 MERCEDES-BENZ.jpg",
+   "year": 2013
+ },
+ {
+   "name": "G 65 AMG",
+   "inGameID": 1627,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "G 65 AMG 2013 MERCEDES-BENZ.jpg",
+   "year": 2013
+ },
+ {
+   "name": "C 63 AMG Coupe Black Series",
+   "inGameID": 1500,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "C 63 AMG COUPE BLACK SERIES 2012 MERCEDES-BENZ.jpg",
+   "year": 2012
+ },
+ {
+   "name": "SLK 55 AMG",
+   "inGameID": 1525,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "SLK 55 AMG 2012 MERCEDES-BENZ.jpg",
+   "year": 2012
+ },
+ {
+   "name": "SLS AMG",
+   "inGameID": 1202,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "SLS AMG 2011 MERCEDES-BENZ.jpg",
+   "year": 2011
+ },
+ {
+   "name": "SL 65 AMG Black Series Forza Edition",
+   "inGameID": 2949,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Forza Edition",
+   "image": "SL 65 AMG BLACK SERIES FORZA EDITION 2009 MERCEDES-BENZ.jpg",
+   "year": 2009
+ },
+ {
+   "name": "SL 65 AMG Black Series",
+   "inGameID": 1050,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "SL 65 AMG BLACK SERIES 2009 MERCEDES-BENZ.jpg",
+   "year": 2009
+ },
+ {
+   "name": "AMG CLK GTR",
+   "inGameID": 568,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "AMG CLK GTR 1998 MERCEDES-BENZ.jpg",
+   "year": 1998
+ },
+ {
+   "name": "190E 1.5-16 Evolution II",
+   "inGameID": 1296,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "190E 1.5-16 EVOLUTION II 1990 MERCEDES-BENZ.jpg",
+   "year": 1990
+ },
+ {
+   "name": "280 SL",
+   "inGameID": 1619,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Seasonal Reward",
+   "image": "280 SL 1967 MERCEDES-BENZ.jpg",
+   "year": 1967
+ },
+ {
+   "name": "300 SLR",
+   "inGameID": 1559,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "300 SLR 1955 MERCEDES-BENZ.jpg",
+   "year": 1955
+ },
+ {
+   "name": "300 SL Coupe",
+   "inGameID": 251,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "300 SL COUPE 1954 MERCEDES-BENZ.jpg",
+   "year": 1954
+ },
+ {
+   "name": "W154",
+   "inGameID": 2069,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Autoshow",
+   "image": "W154 1939 MERCEDES-BENZ.jpg",
+   "year": 1939
+ },
+ {
+   "name": "Super Sport Kurz Barker Roadster",
+   "inGameID": 3026,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Car Pass",
+   "image": "SUPER SPORT KURZ BARKER ROADSTER 1929 MERCEDES-BENZ.jpg",
+   "year": 1929
+ },
+ {
+   "name": "Coupe",
+   "inGameID": 1613,
+   "manufacturer": "Mercury",
+   "type": "Autoshow",
+   "image": "COUPE 1949 MERCURY.jpg",
+   "year": 1949
+ },
+ {
+   "name": "Manx",
+   "inGameID": 2416,
+   "manufacturer": "Meyers",
+   "type": "Autoshow",
+   "image": "MANX 1971 MEYERS.jpg",
+   "year": 1971
+ },
+ {
+   "name": "Metro 6R4",
+   "inGameID": 2147,
+   "manufacturer": "MG",
+   "type": "Autoshow",
+   "image": "METRO 6R4 1986 MG.jpg",
+   "year": 1986
+ },
+ {
+   "name": "MGB GT",
+   "inGameID": 1589,
+   "manufacturer": "MG",
+   "type": "Barn Find",
+   "image": "MGB GT 1966 MG.jpg",
+   "year": 1966
+ },
+ {
+   "name": "MGA Twin-Cam",
+   "inGameID": 1487,
+   "manufacturer": "MG",
+   "type": "Autoshow",
+   "image": "MGA TWIN-CAM 1958 MG.jpg",
+   "year": 1958
+ },
+ {
+   "name": "TA Nidget",
+   "inGameID": 3096,
+   "manufacturer": "MG",
+   "type": "Autoshow",
+   "image": "TA NIDGET 1938 MG.jpg",
+   "year": 1938
+ },
+ {
+   "name": "X-Raid All4 Racing Countryman",
+   "inGameID": 2148,
+   "manufacturer": "Mini",
+   "type": "Autoshow",
+   "image": "X-RAID ALL4 RACING COUNTRYMAN 2013 MINI.jpg",
+   "year": 2013
+ },
+ {
+   "name": "John Cooper Works GP",
+   "inGameID": 2003,
+   "manufacturer": "Mini",
+   "type": "Wheelspin",
+   "image": "JOHN COOPER WORKS GP 2012 MINI.jpg",
+   "year": 2012
+ },
+ {
+   "name": "John Cooper Works",
+   "inGameID": 1098,
+   "manufacturer": "Mini",
+   "type": "Autoshow",
+   "image": "JOHN COOPER WORKS 2009 MINI.jpg",
+   "year": 2009
+ },
+ {
+   "name": "Cooper S",
+   "inGameID": 1662,
+   "manufacturer": "Mini",
+   "type": "Barn Find",
+   "image": "COOPER S 1965 MINI.jpg",
+   "year": 1965
+ },
+ {
+   "name": "Lancer Evolution X GSR",
+   "inGameID": 1009,
+   "manufacturer": "Mitsubishi",
+   "type": "Autoshow",
+   "image": "LANCER EVOLUTION X GSR 2008 MITSUBISHI.jpg",
+   "year": 2008
+ },
+ {
+   "name": "Lancer Evolution IX MR",
+   "inGameID": 374,
+   "manufacturer": "Mitsubishi",
+   "type": "Autoshow",
+   "image": "LANCER EVOLUTION IX MR 2006 MITSUBISHI.jpg",
+   "year": 2006
+ },
+ {
+   "name": "Lancer Evolution VIII MR",
+   "inGameID": 378,
+   "manufacturer": "Mitsubishi",
+   "type": "Autoshow",
+   "image": "LANCER EVOLUTION VIII MR 2004 MITSUBISHI.jpg",
+   "year": 2004
+ },
+ {
+   "name": "Lancer Evolution VI GSR",
+   "inGameID": 375,
+   "manufacturer": "Mitsubishi",
+   "type": "Autoshow",
+   "image": "LANCER EVOLUTION VI GSR 1999 MITSUBISHI.jpg",
+   "year": 1999
+ },
+ {
+   "name": "GTO",
+   "inGameID": 357,
+   "manufacturer": "Mitsubishi",
+   "type": "Autoshow",
+   "image": "GTO 1997 MITSUBISHI.jpg",
+   "year": 1997
+ },
+ {
+   "name": "Eclipse GSX",
+   "inGameID": 327,
+   "manufacturer": "Mitsubishi",
+   "type": "Autoshow",
+   "image": "ECLIPSE GSX 1995 MITSUBISHI.jpg",
+   "year": 1995
+ },
+ {
+   "name": "Galant VR-4",
+   "inGameID": 1381,
+   "manufacturer": "Mitsubishi",
+   "type": "Autoshow",
+   "image": "GALANT VR-4 1992 MITSUBISHI.jpg",
+   "year": 1992
+ },
+ {
+   "name": "Aero GT",
+   "inGameID": 3094,
+   "manufacturer": "Morgan",
+   "type": "Car Pass",
+   "image": "AERO GT 2018 MORGAN.jpg",
+   "year": 2018
+ },
+ {
+   "name": "3 Wheeler",
+   "inGameID": 2562,
+   "manufacturer": "Morgan",
+   "type": "Autoshow",
+   "image": "3 WHEELER 2014 MORGAN.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Aero Supersports",
+   "inGameID": 1245,
+   "manufacturer": "Morgan",
+   "type": "Autoshow",
+   "image": "AERO SUPERSPORTS 2010 MORGAN.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Minor 1000",
+   "inGameID": 2911,
+   "manufacturer": "Morris",
+   "type": "Fortune Island",
+   "image": "MINOR 1000 1958 MORRIS.jpg",
+   "year": 1958
+ },
+ {
+   "name": "Minion Series II Traveler",
+   "inGameID": 3116,
+   "manufacturer": "Morris",
+   "type": "Autoshow",
+   "image": "MINION SERIES II TRAVELER 1953 MORRIS.jpg",
+   "year": 1953
+ },
+ {
+   "name": "MT900S",
+   "inGameID": 1246,
+   "manufacturer": "Mosler",
+   "type": "Seasonal Reward",
+   "image": "MT900S 2010 MOSLER.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Sentra Nismo",
+   "inGameID": 2874,
+   "manufacturer": "Nissan",
+   "type": "Car Pass",
+   "image": "SENTRA NISMO 2018 NISSAN.jpg",
+   "year": 2018
+ },
+ {
+   "name": "GT-R Preorder Car",
+   "inGameID": 3102,
+   "manufacturer": "Nissan",
+   "type": "Preorder",
+   "image": "GT-R PREORDER CAR 2017 NISSAN.jpg",
+   "year": 2017
+ },
+ {
+   "name": "GT-R",
+   "inGameID": 2618,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "GT-R 2017 NISSAN.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Titan Warrior Concept Forza Edition",
+   "inGameID": 2953,
+   "manufacturer": "Nissan",
+   "type": "Forza Edition",
+   "image": "TITAN WARRIOR CONCEPT FORZA EDITION 2016 NISSAN.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Titan Warrior Concept",
+   "inGameID": 2662,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "TITAN WARRIOR CONCEPT 2016 NISSAN.jpg",
+   "year": 2016
+ },
+ {
+   "name": "GT-R Black Edition",
+   "inGameID": 2002,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "GT-R BLACK EDITION 2012 NISSAN.jpg",
+   "year": 2012
+ },
+ {
+   "name": "370Z",
+   "inGameID": 1103,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "370Z 2010 NISSAN.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Fairlady Z",
+   "inGameID": 344,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "FAIRLADY Z 2003 NISSAN.jpg",
+   "year": 2003
+ },
+ {
+   "name": "Skyline GT-R V-Spec II",
+   "inGameID": 445,
+   "manufacturer": "Nissan",
+   "type": "Story Progression",
+   "image": "SKYLINE GT-R V-SPEC II 2002 NISSAN.jpg",
+   "year": 2002
+ },
+ {
+   "name": "Silvia Spec-R",
+   "inGameID": 441,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "SILVIA SPEC-R 2000 NISSAN.jpg",
+   "year": 2000
+ },
+ {
+   "name": "R390",
+   "inGameID": 567,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "R390 1998 NISSAN.jpg",
+   "year": 1998
+ },
+ {
+   "name": "Silvia K's Aero",
+   "inGameID": 2659,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "SILVIA K'S AERO 1998 NISSAN.jpg",
+   "year": 1998
+ },
+ {
+   "name": "Skyline GT-R V-Spec",
+   "inGameID": 1043,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "SKYLINE GT-R V-SPEC 1997 NISSAN.jpg",
+   "year": 1997
+ },
+ {
+   "name": "Nismo GT-R LM Forza Edition",
+   "inGameID": 2952,
+   "manufacturer": "Nissan",
+   "type": "Forza Edition",
+   "image": "NISMO GT-R LM FORZA EDITION 1995 NISSAN.jpg",
+   "year": 1995
+ },
+ {
+   "name": "Nismo GT-R LM",
+   "inGameID": 2738,
+   "manufacturer": "Nissan",
+   "type": "Wheelspin",
+   "image": "NISMO GT-R LM 1995 NISSAN.jpg",
+   "year": 1995
+ },
+ {
+   "name": "Fairlady Z Version S Twin Turbo",
+   "inGameID": 345,
+   "manufacturer": "Nissan",
+   "type": "Seasonal Reward",
+   "image": "FAIRLADY Z VERSION S TWIN TURBO 1994 NISSAN.jpg",
+   "year": 1994
+ },
+ {
+   "name": "Silvia K's",
+   "inGameID": 440,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "SILVIA K'S 1994 NISSAN.jpg",
+   "year": 1994
+ },
+ {
+   "name": "Skyline GT-R V-Spec",
+   "inGameID": 444,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "SKYLINE GT-R V-SPEC 1993 NISSAN.jpg",
+   "year": 1993
+ },
+ {
+   "name": "240SX SE",
+   "inGameID": 1282,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "240SX SE 1993 NISSAN.jpg",
+   "year": 1993
+ },
+ {
+   "name": "Silvia Club K's",
+   "inGameID": 439,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "SILVIA CLUB K'S 1992 NISSAN.jpg",
+   "year": 1992
+ },
+ {
+   "name": "Skyline GTS-R (R31)",
+   "inGameID": 2512,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "SKYLINE GTS-R (R31) 1987 NISSAN.jpg",
+   "year": 1987
+ },
+ {
+   "name": "Skyline H/T 2000GT-R",
+   "inGameID": 2270,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "SKYLINE H/T 2000GT-R 1973 NISSAN.jpg",
+   "year": 1973
+ },
+ {
+   "name": "Skyline 2000GT-R",
+   "inGameID": 1042,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "SKYLINE 2000GT-R 1971 NISSAN.jpg",
+   "year": 1971
+ },
+ {
+   "name": "Fairlady Z 432",
+   "inGameID": 343,
+   "manufacturer": "Nissan",
+   "type": "Autoshow",
+   "image": "FAIRLADY Z 432 1969 NISSAN.jpg",
+   "year": 1969
+ },
+ {
+   "name": "M600",
+   "inGameID": 1253,
+   "manufacturer": "Noble",
+   "type": "Story Progression",
+   "image": "M600 2010 NOBLE.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Hurt/Olds 442",
+   "inGameID": 1336,
+   "manufacturer": "Oldsmobile",
+   "type": "Autoshow",
+   "image": "HURT/OLDS 442 1969 OLDSMOBILE.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Manta 400",
+   "inGameID": 2420,
+   "manufacturer": "Opel",
+   "type": "Autoshow",
+   "image": "MANTA 400 1984 OPEL.jpg",
+   "year": 1984
+ },
+ {
+   "name": "Kadett A",
+   "inGameID": 2497,
+   "manufacturer": "Opel",
+   "type": "Car Pass",
+   "image": "KADETT A 1963 OPEL.jpg",
+   "year": 1963
+ },
+ {
+   "name": "Huayra BC",
+   "inGameID": 2647,
+   "manufacturer": "Pagani",
+   "type": "Autoshow",
+   "image": "HUAYRA BC 2016 PAGANI.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Huayra",
+   "inGameID": 1427,
+   "manufacturer": "Pagani",
+   "type": "Autoshow",
+   "image": "HUAYRA 2012 PAGANI.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Zonda R Forza Edition",
+   "inGameID": 2954,
+   "manufacturer": "Pagani",
+   "type": "Forza Edition",
+   "image": "ZONDA R FORZA EDITION 2010 PAGANI.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Zonda R",
+   "inGameID": 1175,
+   "manufacturer": "Pagani",
+   "type": "Autoshow",
+   "image": "ZONDA R 2010 PAGANI.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Zonda Cinque Roadster",
+   "inGameID": 1369,
+   "manufacturer": "Pagani",
+   "type": "Autoshow",
+   "image": "ZONDA CINQUE ROADSTER 2009 PAGANI.jpg",
+   "year": 2009
+ },
+ {
+   "name": "Trident",
+   "inGameID": 3005,
+   "manufacturer": "Peel",
+   "type": "Car Pass",
+   "image": "TRIDENT 1965 PEEL.jpg",
+   "year": 1965
+ },
+ {
+   "name": "P50",
+   "inGameID": 2987,
+   "manufacturer": "Peel",
+   "type": "Barn Find",
+   "image": "P50 1962 PEEL.jpg",
+   "year": 1962
+ },
+ {
+   "name": "The Cholla",
+   "inGameID": 2515,
+   "manufacturer": "Penhall",
+   "type": "Story Progression",
+   "image": "THE CHOLLA 2011 PENHALL.jpg",
+   "year": 2011
+ },
+ {
+   "name": "205 Turbo 16 Forza Edition",
+   "inGameID": 2955,
+   "manufacturer": "Peugeot",
+   "type": "Forza Edition",
+   "image": "205 TURBO 16 FORZA EDITION 1984 PEUGEOT.jpg",
+   "year": 1984
+ },
+ {
+   "name": "205 T16",
+   "inGameID": 1591,
+   "manufacturer": "Peugeot",
+   "type": "Autoshow",
+   "image": "205 T16 1984 PEUGEOT.jpg",
+   "year": 1984
+ },
+ {
+   "name": "Cuda 426 Hemi",
+   "inGameID": 1277,
+   "manufacturer": "Plymouth",
+   "type": "Autoshow",
+   "image": "CUDA 426 HEMI 1971 PLYMOUTH.jpg",
+   "year": 1971
+ },
+ {
+   "name": "RZR XP 1000 EPS",
+   "inGameID": 2521,
+   "manufacturer": "Polaris",
+   "type": "Autoshow",
+   "image": "RZR XP 1000 EPS 2015 POLARIS.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Firebird Trans AM GTA",
+   "inGameID": 1045,
+   "manufacturer": "Pontiac",
+   "type": "Autoshow",
+   "image": "FIREBIRD TRANS AM GTA 1987 PONTIAC.jpg",
+   "year": 1987
+ },
+ {
+   "name": "Firebird Trans AM",
+   "inGameID": 1276,
+   "manufacturer": "Pontiac",
+   "type": "Autoshow",
+   "image": "FIREBIRD TRANS AM 1977 PONTIAC.jpg",
+   "year": 1977
+ },
+ {
+   "name": "Firebird Trans AM SD-455",
+   "inGameID": 1005,
+   "manufacturer": "Pontiac",
+   "type": "Wheelspin",
+   "image": "FIREBIRD TRANS AM SD-455 1973 PONTIAC.jpg",
+   "year": 1973
+ },
+ {
+   "name": "GTO Judge",
+   "inGameID": 1309,
+   "manufacturer": "Pontiac",
+   "type": "Autoshow",
+   "image": "GTO JUDGE 1969 PONTIAC.jpg",
+   "year": 1969
+ },
+ {
+   "name": "GTO",
+   "inGameID": 1285,
+   "manufacturer": "Pontiac",
+   "type": "Seasonal Reward",
+   "image": "GTO 1965 PONTIAC.jpg",
+   "year": 1965
+ },
+ {
+   "name": "911 GT3 RS",
+   "inGameID": 3072,
+   "manufacturer": "Porsche",
+   "type": "Forzathon Shop",
+   "image": "911 GT3 RS 2019 PORSCHE.jpg",
+   "year": 2019
+ },
+ {
+   "name": "911 Carrera S",
+   "inGameID": 3123,
+   "manufacturer": "Porsche",
+   "type": "Car Pass",
+   "image": "911 CARRERA S 2019 PORSCHE.jpg",
+   "year": 2019
+ },
+ {
+   "name": "911 GT2 RS",
+   "inGameID": 2755,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "911 GT2 RS 2018 PORSCHE.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Cayenne Turbo",
+   "inGameID": 2773,
+   "manufacturer": "Porsche",
+   "type": "Wheelspin",
+   "image": "CAYENNE TURBO 2018 PORSCHE.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Panamera Turbo",
+   "inGameID": 2741,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "PANAMERA TURBO 2017 PORSCHE.jpg",
+   "year": 2017
+ },
+ {
+   "name": "911 GT3 RS Preorder Car",
+   "inGameID": 3103,
+   "manufacturer": "Porsche",
+   "type": "Preorder",
+   "image": "911 GT3 RS PREORDER CAR 2016 PORSCHE.jpg",
+   "year": 2016
+ },
+ {
+   "name": "911 GT3 RS",
+   "inGameID": 2528,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "911 GT3 RS 2016 PORSCHE.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Cayman GT4",
+   "inGameID": 2529,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "CAYMAN GT4 2016 PORSCHE.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Cayman GTS",
+   "inGameID": 2293,
+   "manufacturer": "Porsche",
+   "type": "Story Progression",
+   "image": "CAYMAN GTS 2015 PORSCHE.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Macan Turbo",
+   "inGameID": 2295,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "MACAN TURBO 2015 PORSCHE.jpg",
+   "year": 2015
+ },
+ {
+   "name": "918 Spyder",
+   "inGameID": 2290,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "918 SPYDER 2014 PORSCHE.jpg",
+   "year": 2014
+ },
+ {
+   "name": "911 Turbo S",
+   "inGameID": 2289,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "911 TURBO S 2014 PORSCHE.jpg",
+   "year": 2014
+ },
+ {
+   "name": "911 GT2 RS",
+   "inGameID": 1539,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "911 GT2 RS 2012 PORSCHE.jpg",
+   "year": 2012
+ },
+ {
+   "name": "911 GT3 RS 4",
+   "inGameID": 2297,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "911 GT3 RS 4.0 2012 PORSCHE.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Cayenne Turbo",
+   "inGameID": 1542,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "CAYENNE TURBO 2012 PORSCHE.jpg",
+   "year": 2012
+ },
+ {
+   "name": "911 GT3",
+   "inGameID": 262,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "911 GT3 2004 PORSCHE.jpg",
+   "year": 2004
+ },
+ {
+   "name": "Carrera GT",
+   "inGameID": 292,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "CARRERA GT 2003 PORSCHE.jpg",
+   "year": 2003
+ },
+ {
+   "name": "911 GT1 Strassenversion",
+   "inGameID": 641,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "911 GT1 STRASSENVERSION 1998 PORSCHE.jpg",
+   "year": 1998
+ },
+ {
+   "name": "911 GT2",
+   "inGameID": 261,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "911 GT2 1995 PORSCHE.jpg",
+   "year": 1995
+ },
+ {
+   "name": "968 Turbo S",
+   "inGameID": 2534,
+   "manufacturer": "Porsche",
+   "type": "Car Pass",
+   "image": "968 TURBO S 1993 PORSCHE.jpg",
+   "year": 1993
+ },
+ {
+   "name": "944 Turbo",
+   "inGameID": 268,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "944 TURBO 1989 PORSCHE.jpg",
+   "year": 1989
+ },
+ {
+   "name": "959",
+   "inGameID": 269,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "959 1987 PORSCHE.jpg",
+   "year": 1987
+ },
+ {
+   "name": "#185 959 Prodrive Rally Raid",
+   "inGameID": 3031,
+   "manufacturer": "Porsche",
+   "type": "Car Pass",
+   "image": "#185 959 PRODRIVE RALLY RAID 1985 PORSCHE.jpg",
+   "year": 1985
+ },
+ {
+   "name": "911 Turbo 3.3",
+   "inGameID": 265,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "911 TURBO 3.3 1982 PORSCHE.jpg",
+   "year": 1982
+ },
+ {
+   "name": "911 Carrera RS",
+   "inGameID": 260,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "911 CARRERA RS 1973 PORSCHE.jpg",
+   "year": 1973
+ },
+ {
+   "name": "#23 917/20",
+   "inGameID": 2869,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "#23 917/20 1971 PORSCHE.jpg",
+   "year": 1971
+ },
+ {
+   "name": "914/6",
+   "inGameID": 266,
+   "manufacturer": "Porsche",
+   "type": "Seasonal Reward",
+   "image": "914/6 1970 PORSCHE.jpg",
+   "year": 1970
+ },
+ {
+   "name": "718 RS 60",
+   "inGameID": 2537,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "718 RS 60 1960 PORSCHE.jpg",
+   "year": 1960
+ },
+ {
+   "name": "356 A 1600 Super",
+   "inGameID": 3036,
+   "manufacturer": "Porsche",
+   "type": "Car Pass",
+   "image": "356 A 1600 SUPER 1959 PORSCHE.jpg",
+   "year": 1959
+ },
+ {
+   "name": "356A Speedster",
+   "inGameID": 2299,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "356A SPEEDSTER 1957 PORSCHE.jpg",
+   "year": 1957
+ },
+ {
+   "name": "550A Spyder",
+   "inGameID": 1281,
+   "manufacturer": "Porsche",
+   "type": "Autoshow",
+   "image": "550A SPYDER 1955 PORSCHE.jpg",
+   "year": 1955
+ },
+ {
+   "name": "Regalia",
+   "inGameID": 2754,
+   "manufacturer": "Quartz",
+   "type": "Seasonal Reward",
+   "image": "REGALIA 723 QUARTZ.jpg",
+   "year": 723
+ },
+ {
+   "name": "723 Regalia Type-D",
+   "inGameID": 3092,
+   "manufacturer": "Quartz",
+   "type": "Other",
+   "image": "723 REGALIA TYPE-D 2016 QUARTZ.jpg",
+   "year": 2016
+ },
+ {
+   "name": "RXC Turbo",
+   "inGameID": 2486,
+   "manufacturer": "Radical",
+   "type": "Autoshow",
+   "image": "RXC TURBO 2015 RADICAL.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Rebel TRX Concept",
+   "inGameID": 3121,
+   "manufacturer": "RAM",
+   "type": "Fortune Island",
+   "image": "REBEL TRX CONCEPT 2017 RAM.jpg",
+   "year": 2017
+ },
+ {
+   "name": "2500 Power Wagon",
+   "inGameID": 2838,
+   "manufacturer": "RAM",
+   "type": "Story Progression",
+   "image": "2500 POWER WAGON 2017 RAM.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Supervan III",
+   "inGameID": 2563,
+   "manufacturer": "Reliant",
+   "type": "Autoshow",
+   "image": "SUPERVAN III 1972 RELIANT.jpg",
+   "year": 1972
+ },
+ {
+   "name": "Clio R.S. 200 EDC",
+   "inGameID": 2022,
+   "manufacturer": "Renault",
+   "type": "Autoshow",
+   "image": "CLIO R.S. 200 EDC 2013 RENAULT.jpg",
+   "year": 2013
+ },
+ {
+   "name": "Clio R.S. Forza Edition",
+   "inGameID": 2965,
+   "manufacturer": "Renault",
+   "type": "Forza Edition",
+   "image": "CLIO R.S. FORZA EDITION 2010 RENAULT.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Megane R.S. 250",
+   "inGameID": 1204,
+   "manufacturer": "Renault",
+   "type": "Autoshow",
+   "image": "MEGANE R.S. 250 2010 RENAULT.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Clio R.S.",
+   "inGameID": 1264,
+   "manufacturer": "Renault",
+   "type": "Autoshow",
+   "image": "CLIO R.S. 2010 RENAULT.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Clio Williams",
+   "inGameID": 2149,
+   "manufacturer": "Renault",
+   "type": "Story Progression",
+   "image": "CLIO WILLIAMS 1993 RENAULT.jpg",
+   "year": 1993
+ },
+ {
+   "name": "5 Turbo Forza Edition",
+   "inGameID": 2958,
+   "manufacturer": "Renault",
+   "type": "Forza Edition",
+   "image": "5 TURBO FORZA EDITION 1980 RENAULT.jpg",
+   "year": 1980
+ },
+ {
+   "name": "5 Turbo",
+   "inGameID": 634,
+   "manufacturer": "Renault",
+   "type": "Autoshow",
+   "image": "5 TURBO 1980 RENAULT.jpg",
+   "year": 1980
+ },
+ {
+   "name": "Alpine A110 1600S",
+   "inGameID": 1536,
+   "manufacturer": "Renault",
+   "type": "Story Progression",
+   "image": "ALPINE A110 1600S 1973 RENAULT.jpg",
+   "year": 1973
+ },
+ {
+   "name": "#37 Polaris RZR-Rockstar Energy Pro 2 Truck",
+   "inGameID": 2663,
+   "manufacturer": "RJ Anderson",
+   "type": "Autoshow",
+   "image": "#37 POLARIS RZR-ROCKSTAR ENERGY PRO 2 TRUCK 2016 RJ ANDERSON.jpg",
+   "year": 2016
+ },
+ {
+   "name": "S5S Raptor",
+   "inGameID": 1197,
+   "manufacturer": "Saleen",
+   "type": "Fortune Island",
+   "image": "S5S RAPTOR 2010 SALEEN.jpg",
+   "year": 2010
+ },
+ {
+   "name": "S7",
+   "inGameID": 432,
+   "manufacturer": "Saleen",
+   "type": "Autoshow",
+   "image": "S7 2004 SALEEN.jpg",
+   "year": 2004
+ },
+ {
+   "name": "Cobra 427 S/C",
+   "inGameID": 306,
+   "manufacturer": "Shelby",
+   "type": "Autoshow",
+   "image": "COBRA 427 S/C 1965 SHELBY.jpg",
+   "year": 1965
+ },
+ {
+   "name": "Cobra Daytona Coupe",
+   "inGameID": 1155,
+   "manufacturer": "Shelby",
+   "type": "Autoshow",
+   "image": "COBRA DAYTONA COUPE 1965 SHELBY.jpg",
+   "year": 1965
+ },
+ {
+   "name": "GTA Spano",
+   "inGameID": 2475,
+   "manufacturer": "Spania GTA",
+   "type": "Autoshow",
+   "image": "GTA SPANO 2016 SPANIA GTA.jpg",
+   "year": 2016
+ },
+ {
+   "name": "#199 WRX STI VT15R Rally Car",
+   "inGameID": 2715,
+   "manufacturer": "Subaru",
+   "type": "Autoshow",
+   "image": "#199 WRX STI VT15R RALLY CAR 2016 SUBARU.jpg",
+   "year": 2016
+ },
+ {
+   "name": "WRX STI",
+   "inGameID": 2168,
+   "manufacturer": "Subaru",
+   "type": "Autoshow",
+   "image": "WRX STI 2015 SUBARU.jpg",
+   "year": 2015
+ },
+ {
+   "name": "BRZ",
+   "inGameID": 1655,
+   "manufacturer": "Subaru",
+   "type": "Autoshow",
+   "image": "BRZ 2013 SUBARU.jpg",
+   "year": 2013
+ },
+ {
+   "name": "WRX STI",
+   "inGameID": 1323,
+   "manufacturer": "Subaru",
+   "type": "Autoshow",
+   "image": "WRX STI 2011 SUBARU.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Impreza WRX STI",
+   "inGameID": 1060,
+   "manufacturer": "Subaru",
+   "type": "Autoshow",
+   "image": "IMPREZA WRX STI 2008 SUBARU.jpg",
+   "year": 2008
+ },
+ {
+   "name": "Impreza WRX STI",
+   "inGameID": 365,
+   "manufacturer": "Subaru",
+   "type": "Autoshow",
+   "image": "IMPREZA WRX STI 2005 SUBARU.jpg",
+   "year": 2005
+ },
+ {
+   "name": "Impreza WRX STI",
+   "inGameID": 364,
+   "manufacturer": "Subaru",
+   "type": "Wheelspin",
+   "image": "IMPREZA WRX STI 2004 SUBARU.jpg",
+   "year": 2004
+ },
+ {
+   "name": "Impreza 22B STI",
+   "inGameID": 363,
+   "manufacturer": "Subaru",
+   "type": "Barn Find",
+   "image": "IMPREZA 22B STI 1998 SUBARU.jpg",
+   "year": 1998
+ },
+ {
+   "name": "Legacy RS",
+   "inGameID": 1382,
+   "manufacturer": "Subaru",
+   "type": "Autoshow",
+   "image": "LEGACY RS 1990 SUBARU.jpg",
+   "year": 1990
+ },
+ {
+   "name": "Tiger",
+   "inGameID": 2141,
+   "manufacturer": "Sunbeam",
+   "type": "Autoshow",
+   "image": "TIGER 1967 SUNBEAM.jpg",
+   "year": 1967
+ },
+ {
+   "name": "Sunbeam Lotus",
+   "inGameID": 2564,
+   "manufacturer": "Talbot",
+   "type": "Autoshow",
+   "image": "SUNBEAM LOTUS 1979 TALBOT.jpg",
+   "year": 1979
+ },
+ {
+   "name": "Racemo",
+   "inGameID": 2746,
+   "manufacturer": "Tamo",
+   "type": "Autoshow",
+   "image": "RACEMO 2017 TAMO.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Gurkha Lapv",
+   "inGameID": 2393,
+   "manufacturer": "Terradyne",
+   "type": "Autoshow",
+   "image": "GURKHA LAPV 2014 TERRADYNE.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Land Cruiser Arctic Trucks AT37",
+   "inGameID": 2743,
+   "manufacturer": "Toyota",
+   "type": "Autoshow",
+   "image": "LAND CRUISER ARCTIC TRUCKS AT37 2016 TOYOTA.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Hilux Arctic Trucks AT38",
+   "inGameID": 2656,
+   "manufacturer": "Toyota",
+   "type": "Autoshow",
+   "image": "HILUX ARCTIC TRUCKS AT38 2007 TOYOTA.jpg",
+   "year": 2007
+ },
+ {
+   "name": "#1 T100 Baja Truck",
+   "inGameID": 2636,
+   "manufacturer": "Toyota",
+   "type": "Autoshow",
+   "image": "#1 T100 BAJA TRUCK 1993 TOYOTA.jpg",
+   "year": 1993
+ },
+ {
+   "name": "TR6 PI",
+   "inGameID": 1593,
+   "manufacturer": "Triumph",
+   "type": "Car Pass",
+   "image": "TR6 PI 1970 TRIUMPH.jpg",
+   "year": 1970
+ },
+ {
+   "name": "TR3B",
+   "inGameID": 1489,
+   "manufacturer": "Triumph",
+   "type": "Car Pass",
+   "image": "TR3B 1962 TRIUMPH.jpg",
+   "year": 1962
+ },
+ {
+   "name": "Spitfire",
+   "inGameID": 2994,
+   "manufacturer": "Triumph",
+   "type": "Barn Find",
+   "image": "SPITFIRE 1962 TRIUMPH.jpg",
+   "year": 1962
+ },
+ {
+   "name": "Griffith",
+   "inGameID": 2993,
+   "manufacturer": "TVR",
+   "type": "Car Pass",
+   "image": "GRIFFITH 2018 TVR.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Sagaris Forza Edition",
+   "inGameID": 2962,
+   "manufacturer": "TVR",
+   "type": "Forza Edition",
+   "image": "SAGARIS FORZA EDITION 2005 TVR.jpg",
+   "year": 2005
+ },
+ {
+   "name": "Sagaris",
+   "inGameID": 433,
+   "manufacturer": "TVR",
+   "type": "Autoshow",
+   "image": "SAGARIS 2005 TVR.jpg",
+   "year": 2005
+ },
+ {
+   "name": "Tuscan S",
+   "inGameID": 477,
+   "manufacturer": "TVR",
+   "type": "Seasonal Reward",
+   "image": "TUSCAN S 2001 TVR.jpg",
+   "year": 2001
+ },
+ {
+   "name": "Cerbera Speed 12",
+   "inGameID": 296,
+   "manufacturer": "TVR",
+   "type": "Barn Find",
+   "image": "CERBERA SPEED 12 1998 TVR.jpg",
+   "year": 1998
+ },
+ {
+   "name": "Evolution Coupe 1020",
+   "inGameID": 2569,
+   "manufacturer": "Ultima",
+   "type": "Story Progression",
+   "image": "EVOLUTION COUPE 1020 2015 ULTIMA.jpg",
+   "year": 2015
+ },
+ {
+   "name": "Corsa VXR",
+   "inGameID": 2427,
+   "manufacturer": "Vauxhall",
+   "type": "Autoshow",
+   "image": "CORSA VXR 2016 VAUXHALL.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Astra VXR",
+   "inGameID": 1490,
+   "manufacturer": "Vauxhall",
+   "type": "Autoshow",
+   "image": "ASTRA VXR 2012 VAUXHALL.jpg",
+   "year": 2012
+ },
+ {
+   "name": "Insignia VXR",
+   "inGameID": 1190,
+   "manufacturer": "Vauxhall",
+   "type": "Car Pass",
+   "image": "INSIGNIA VXR 2010 VAUXHALL.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Monaro VRX",
+   "inGameID": 397,
+   "manufacturer": "Vauxhall",
+   "type": "Autoshow",
+   "image": "MONARO VRX 2005 VAUXHALL.jpg",
+   "year": 2005
+ },
+ {
+   "name": "VX220 Turbo",
+   "inGameID": 487,
+   "manufacturer": "Vauxhall",
+   "type": "Car Pass",
+   "image": "VX220 TURBO 2004 VAUXHALL.jpg",
+   "year": 2004
+ },
+ {
+   "name": "Lotus Carlton",
+   "inGameID": 291,
+   "manufacturer": "Vauxhall",
+   "type": "Autoshow",
+   "image": "LOTUS CARLTON 1990 VAUXHALL.jpg",
+   "year": 1990
+ },
+ {
+   "name": "#34 Volkswagen Andretti Rallycross Beetle",
+   "inGameID": 3007,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "#34 VOLKSWAGEN ANDRETTI RALLYCROSS BEETLE 2017 VOLKSWAGEN.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Global Rallycross Beetle",
+   "inGameID": 2257,
+   "manufacturer": "Volkswagen",
+   "type": "Wheelspin",
+   "image": "GLOBAL RALLYCROSS BEETLE 2014 VOLKSWAGEN.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Golf R",
+   "inGameID": 2142,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "GOLF R 2014 VOLKSWAGEN.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Scirocco R",
+   "inGameID": 1428,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "SCIROCCO R 2011 VOLKSWAGEN.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Golf R",
+   "inGameID": 1231,
+   "manufacturer": "Volkswagen",
+   "type": "Wheelspin",
+   "image": "GOLF R 2010 VOLKSWAGEN.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Touareg R50",
+   "inGameID": 1094,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "TOUAREG R50 2008 VOLKSWAGEN.jpg",
+   "year": 2008
+ },
+ {
+   "name": "Golf R32",
+   "inGameID": 354,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "GOLF R32 2003 VOLKSWAGEN.jpg",
+   "year": 2003
+ },
+ {
+   "name": "GTI VR6 MK3",
+   "inGameID": 1383,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "GTI VR6 MK3 1998 VOLKSWAGEN.jpg",
+   "year": 1998
+ },
+ {
+   "name": "Corrado VR6",
+   "inGameID": 309,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "CORRADO VR6 1995 VOLKSWAGEN.jpg",
+   "year": 1995
+ },
+ {
+   "name": "Golf GTI 16V MK2",
+   "inGameID": 353,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "GOLF GTI 16V MK2 1992 VOLKSWAGEN.jpg",
+   "year": 1992
+ },
+ {
+   "name": "Golf GTI",
+   "inGameID": 2995,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "GOLF GTI 1983 VOLKSWAGEN.jpg",
+   "year": 1983
+ },
+ {
+   "name": "Scirocco S",
+   "inGameID": 1380,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "SCIROCCO S 1981 VOLKSWAGEN.jpg",
+   "year": 1981
+ },
+ {
+   "name": "#1107 Desert Dingo Racing Stock Beetle",
+   "inGameID": 2258,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "#1107 DESERT DINGO RACING STOCK BEETLE 1970 VOLKSWAGEN.jpg",
+   "year": 1970
+ },
+ {
+   "name": "Class 5/1600 Baja Bug",
+   "inGameID": 2568,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "CLASS 5/1600 BAJA BUG 1969 VOLKSWAGEN.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Double Cab Pick-up",
+   "inGameID": 3078,
+   "manufacturer": "Volkswagen",
+   "type": "Car Pass",
+   "image": "DOUBLE CAB PICK-UP 1966 VOLKSWAGEN.jpg",
+   "year": 1966
+ },
+ {
+   "name": "Beetle",
+   "inGameID": 1435,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "BEETLE 1963 VOLKSWAGEN.jpg",
+   "year": 1963
+ },
+ {
+   "name": "Type 2 De Luxe",
+   "inGameID": 2151,
+   "manufacturer": "Volkswagen",
+   "type": "Autoshow",
+   "image": "TYPE 2 DE LUXE 1963 VOLKSWAGEN.jpg",
+   "year": 1963
+ },
+ {
+   "name": "Type 2 De Luxe Forza Edition",
+   "inGameID": 2963,
+   "manufacturer": "Volkswagen",
+   "type": "Forza Edition",
+   "image": "TYPE 2 DE LUXE FORZA EDITION 1963 VOLKSWAGEN.jpg",
+   "year": 1963
+ },
+ {
+   "name": "Iron Knight",
+   "inGameID": 2991,
+   "manufacturer": "Volvo",
+   "type": "Autoshow",
+   "image": "IRON KNIGHT 2016 VOLVO.jpg",
+   "year": 2016
+ },
+ {
+   "name": "V60 Polestar",
+   "inGameID": 2586,
+   "manufacturer": "Volvo",
+   "type": "Autoshow",
+   "image": "V60 POLESTAR 2015 VOLVO.jpg",
+   "year": 2015
+ },
+ {
+   "name": "850 R",
+   "inGameID": 1387,
+   "manufacturer": "Volvo",
+   "type": "Autoshow",
+   "image": "850 R 1997 VOLVO.jpg",
+   "year": 1997
+ },
+ {
+   "name": "242 Turbo Evolution",
+   "inGameID": 1299,
+   "manufacturer": "Volvo",
+   "type": "Autoshow",
+   "image": "242 TURBO EVOLUTION 1983 VOLVO.jpg",
+   "year": 1983
+ },
+ {
+   "name": "Lykan Hypersport",
+   "inGameID": 2428,
+   "manufacturer": "W Motors",
+   "type": "Autoshow",
+   "image": "LYKAN HYPERSPORT 2016 W MOTORS.jpg",
+   "year": 2016
+ },
+ {
+   "name": "MB Jeep",
+   "inGameID": 2049,
+   "manufacturer": "Willys",
+   "type": "Autoshow",
+   "image": "MB JEEP 1945 WILLYS.jpg",
+   "year": 1945
+ },
+ {
+   "name": "ST1",
+   "inGameID": 2474,
+   "manufacturer": "Zenvo",
+   "type": "Story Progression",
+   "image": "ST1 2016 ZENVO.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Bronco Barrett-Jackson Edition",
+   "inGameID": 3041,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "BRONCO BARRETT-JACKSON EDITION 1975 FORD.jpg",
+   "year": 1975
+ },
+ {
+   "name": "Custom Double Down",
+   "inGameID": 2585,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "CUSTOM DOUBLE DOWN 1932 FORD.jpg",
+   "year": 1932
+ },
+ {
+   "name": "Roadster Hula Girl",
+   "inGameID": 3042,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "ROADSTER HULA GIRL 1932 FORD.jpg",
+   "year": 1932
+ },
+ {
+   "name": "Chevelle Super Sport Barrett-Jackson Edition",
+   "inGameID": 3040,
+   "manufacturer": "Chevrolet",
+   "type": "Autoshow",
+   "image": "CHEVELLE SUPER SPORT BARRETT-JACKSON EDITION 1970 CHEVROLET.jpg",
+   "year": 1970
+ },
+ {
+   "name": "Hemi Cuda Convertible Barret-Jackson Edition",
+   "inGameID": 3045,
+   "manufacturer": "Plymouth",
+   "type": "Autoshow",
+   "image": "HEMI CUDA CONVERTIBLE BARRET-JACKSON EDITION 1970 PLYMOUTH.jpg",
+   "year": 1970
+ },
+ {
+   "name": "Atomic Punk Bubbletop",
+   "inGameID": 3044,
+   "manufacturer": "Plymouth",
+   "type": "Autoshow",
+   "image": "ATOMIC PUNK BUBBLETOP 1959 PLYMOUTH.jpg",
+   "year": 1959
+ },
+ {
+   "name": "Monaco King Cobra",
+   "inGameID": 3079,
+   "manufacturer": "Shelby",
+   "type": "Autoshow",
+   "image": "MONACO KING COBRA 1963 SHELBY.jpg",
+   "year": 1963
+ },
+ {
+   "name": "Chevelle Super Sport 396",
+   "inGameID": 1420,
+   "manufacturer": "Chevrolet",
+   "type": "Seasonal Reward",
+   "image": "CHEVELLE SUPER SPORT 396 1967 CHEVROLET.jpg",
+   "year": 1967
+ },
+ {
+   "name": "599XX Evoluzione",
+   "inGameID": 1599,
+   "manufacturer": "Ferrari",
+   "type": "Seasonal Reward",
+   "image": "599XX EVOLUZIONE 2012 FERRARI.jpg",
+   "year": 2012
+ },
+ {
+   "name": "GT 4-Door Coupe",
+   "inGameID": 3064,
+   "manufacturer": "Mercedes-AMG",
+   "type": "Seasonal Reward",
+   "image": "GT 4-DOOR COUPE 2018 MERCEDES-AMG.jpg",
+   "year": 2018
+ },
+ {
+   "name": "X-Class",
+   "inGameID": 3063,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Seasonal Reward",
+   "image": "X-CLASS 2018 MERCEDES-BENZ.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Fury",
+   "inGameID": 2216,
+   "manufacturer": "Plymouth",
+   "type": "Seasonal Reward",
+   "image": "FURY 1958 PLYMOUTH.jpg",
+   "year": 1958
+ },
+ {
+   "name": "Corsa VXR",
+   "inGameID": 1101,
+   "manufacturer": "Vauxhall",
+   "type": "Seasonal Reward",
+   "image": "CORSA VXR 2009 VAUXHALL.jpg",
+   "year": 2009
+ },
+ {
+   "name": "3 Traffic",
+   "inGameID": 2711,
+   "manufacturer": "Mazda",
+   "type": "Game Traffic",
+   "image": "3 TRAFFIC 2010 MAZDA.jpg",
+   "year": 2010
+ },
+ {
+   "name": "FX4 Taxi Traffic",
+   "inGameID": 2892,
+   "manufacturer": "Austin",
+   "type": "Game Traffic",
+   "image": "FX4 TAXI TRAFFIC 1964 AUSTIN.jpg",
+   "year": 1964
+ },
+ {
+   "name": "S4 Traffic",
+   "inGameID": 2891,
+   "manufacturer": "Audi",
+   "type": "Game Traffic",
+   "image": "S4 TRAFFIC 2004 AUDI.jpg",
+   "year": 2004
+ },
+ {
+   "name": "X5 Traffic",
+   "inGameID": 2708,
+   "manufacturer": "BMW",
+   "type": "Game Traffic",
+   "image": "X5 TRAFFIC 2011 BMW.jpg",
+   "year": 2011
+ },
+ {
+   "name": "323ti",
+   "inGameID": 2893,
+   "manufacturer": "BMW",
+   "type": "Game Traffic",
+   "image": "323TI 2000 BMW.jpg",
+   "year": 2000
+ },
+ {
+   "name": "500 Traffic",
+   "inGameID": 2709,
+   "manufacturer": "Fiat",
+   "type": "Game Traffic",
+   "image": "500 TRAFFIC 2010 FIAT.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Transit Traffic",
+   "inGameID": 2710,
+   "manufacturer": "Ford",
+   "type": "Game Traffic",
+   "image": "TRANSIT TRAFFIC 2011 FORD.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Fiesta Zetec Traffic",
+   "inGameID": 2894,
+   "manufacturer": "Ford",
+   "type": "Game Traffic",
+   "image": "FIESTA ZETEC TRAFFIC 2009 FORD.jpg",
+   "year": 2009
+ },
+ {
+   "name": "Defender 90 Traffic",
+   "inGameID": 2895,
+   "manufacturer": "Land Rover",
+   "type": "Game Traffic",
+   "image": "DEFENDER 90 TRAFFIC 1997 LAND ROVER.jpg",
+   "year": 1997
+ },
+ {
+   "name": "A 2000 Traffic",
+   "inGameID": 2896,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Game Traffic",
+   "image": "A 2000 TRAFFIC 2009 MERCEDES-BENZ.jpg",
+   "year": 2009
+ },
+ {
+   "name": "C32 Traffic",
+   "inGameID": 2897,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Game Traffic",
+   "image": "C32 TRAFFIC 2004 MERCEDES-BENZ.jpg",
+   "year": 2004
+ },
+ {
+   "name": "Mini Cooper Traffic",
+   "inGameID": 2898,
+   "manufacturer": "Mini",
+   "type": "Game Traffic",
+   "image": "MINI COOPER TRAFFIC 2010 MINI.jpg",
+   "year": 2010
+ },
+ {
+   "name": "Mini Cooper Traffic",
+   "inGameID": 2899,
+   "manufacturer": "Mini",
+   "type": "Game Traffic",
+   "image": "MINI COOPER TRAFFIC 1965 MINI.jpg",
+   "year": 1965
+ },
+ {
+   "name": "Fox Traffic",
+   "inGameID": 2907,
+   "manufacturer": "Volkswagen",
+   "type": "Game Traffic",
+   "image": "FOX TRAFFIC 2011 VOLKSWAGEN.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Bora Traffic",
+   "inGameID": 2905,
+   "manufacturer": "Volkswagen",
+   "type": "Game Traffic",
+   "image": "BORA TRAFFIC 2003 VOLKSWAGEN.jpg",
+   "year": 2003
+ },
+ {
+   "name": "GTI Traffic",
+   "inGameID": 2906,
+   "manufacturer": "Volkswagen",
+   "type": "Game Traffic",
+   "image": "GTI TRAFFIC 1998 VOLKSWAGEN.jpg",
+   "year": 1998
+ },
+ {
+   "name": "Legacy Traffic",
+   "inGameID": 2903,
+   "manufacturer": "Subaru",
+   "type": "Game Traffic",
+   "image": "LEGACY TRAFFIC 2005 SUBARU.jpg",
+   "year": 2005
+ },
+ {
+   "name": "Intensa Emozione",
+   "inGameID": 3141,
+   "manufacturer": "Apollo",
+   "type": "Seasonal Reward",
+   "image": "INTENSA EMOZIONE 2018 APOLLO.jpg",
+   "year": 2018
+ },
+ {
+   "name": "GSX",
+   "inGameID": 1329,
+   "manufacturer": "Buick",
+   "type": "Seasonal Reward",
+   "image": "GSX 1970 BUICK.jpg",
+   "year": 1970
+ },
+ {
+   "name": "MC12 Versione Corsa",
+   "inGameID": 3082,
+   "manufacturer": "Maserati",
+   "type": "Seasonal Reward",
+   "image": "MC12 VERSIONE CORSA 2008 MASERATI.jpg",
+   "year": 2008
+ },
+ {
+   "name": "Mini-Traveller",
+   "inGameID": 3142,
+   "manufacturer": "Morris",
+   "type": "Seasonal Reward",
+   "image": "MINI-TRAVELLER 1965 MORRIS.jpg",
+   "year": 1965
+ },
+ {
+   "name": "John Cooper Works All4 Countryman",
+   "inGameID": 3131,
+   "manufacturer": "Mini",
+   "type": "Seasonal Reward",
+   "image": "JOHN COOPER WORKS ALL4 COUNTRYMAN 2018 MINI.jpg",
+   "year": 2018
+ },
+ {
+   "name": "John Cooper Works Convertible",
+   "inGameID": 3133,
+   "manufacturer": "Mini",
+   "type": "Seasonal Reward",
+   "image": "JOHN COOPER WORKS CONVERTIBLE 2018 MINI.jpg",
+   "year": 2018
+ },
+ {
+   "name": "X-Raid John Cooper Works Buggy",
+   "inGameID": 3132,
+   "manufacturer": "Mini",
+   "type": "Seasonal Reward",
+   "image": "X-RAID JOHN COOPER WORKS BUGGY 2018 MINI.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Rebel The Machine",
+   "inGameID": 1572,
+   "manufacturer": "AMC",
+   "type": "Seasonal Reward",
+   "image": "REBEL THE MACHINE 1970 AMC.jpg",
+   "year": 1970
+ },
+ {
+   "name": "Dino 2.4 Coupe",
+   "inGameID": 1615,
+   "manufacturer": "Fiat",
+   "type": "Seasonal Reward",
+   "image": "DINO 2.4 COUPE 1969 FIAT.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Ghibli S Q4",
+   "inGameID": 2051,
+   "manufacturer": "Maserati",
+   "type": "Seasonal Reward",
+   "image": "GHIBLI S Q4 2014 MASERATI.jpg",
+   "year": 2014
+ },
+ {
+   "name": "C_Two",
+   "inGameID": 3140,
+   "manufacturer": "Rimac",
+   "type": "Seasonal Reward",
+   "image": "C_TWO 2019 RIMAC.jpg",
+   "year": 2019
+ },
+ {
+   "name": "Mclaren Senna",
+   "inGameID": 3208,
+   "manufacturer": "Lego Speed Champions",
+   "type": "Lego Valley",
+   "image": "MCLAREN SENNA 2019 LEGO SPEED CHAMPIONS.jpg",
+   "year": 2019
+ },
+ {
+   "name": "Ferrari F40 Competizione",
+   "inGameID": 3207,
+   "manufacturer": "Lego Speed Champions",
+   "type": "Lego Valley",
+   "image": "FERRARI F40 COMPETIZIONE 1987 LEGO SPEED CHAMPIONS.jpg",
+   "year": 1987
+ },
+ {
+   "name": "Mini Cooper S Rally",
+   "inGameID": 3210,
+   "manufacturer": "Lego Speed Champions",
+   "type": "Lego Valley",
+   "image": "MINI COOPER S RALLY 1967 LEGO SPEED CHAMPIONS.jpg",
+   "year": 1967
+ },
+ {
+   "name": "Impala SS",
+   "inGameID": 1379,
+   "manufacturer": "Chevrolet",
+   "type": "Seasonal Reward",
+   "image": "IMPALA SS 1999 CHEVROLET.jpg",
+   "year": 1999
+ },
+ {
+   "name": "Ranger Raptor",
+   "inGameID": 3174,
+   "manufacturer": "Ford",
+   "type": "Autoshow",
+   "image": "RANGER RAPTOR 2019 FORD.jpg",
+   "year": 2019
+ },
+ {
+   "name": "Wrangler Unlimited(Deberti)",
+   "inGameID": 3110,
+   "manufacturer": "Jeep",
+   "type": "Seasonal Reward",
+   "image": "WRANGLER UNLIMITED(DEBERTI) 2013 JEEP.jpg",
+   "year": 2013
+ },
+ {
+   "name": "CCX",
+   "inGameID": 1275,
+   "manufacturer": "Koenigsegg",
+   "type": "Seasonal Reward",
+   "image": "CCX 2007 KOENIGSEGG.jpg",
+   "year": 2007
+ },
+ {
+   "name": "12c Coupe",
+   "inGameID": 1130,
+   "manufacturer": "McLaren",
+   "type": "Seasonal Reward",
+   "image": "12C COUPE 2011 MCLAREN.jpg",
+   "year": 2011
+ },
+ {
+   "name": "G 63 AMG 6X6",
+   "inGameID": 3107,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Seasonal Reward",
+   "image": "G 63 AMG 6X6 2014 MERCEDES-BENZ.jpg",
+   "year": 2014
+ },
+ {
+   "name": "E 350D Project E-AT",
+   "inGameID": 3130,
+   "manufacturer": "Mercedes-Benz",
+   "type": "Seasonal Reward",
+   "image": "E 350D PROJECT E-AT 2017 MERCEDES-BENZ.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Track-Tor",
+   "inGameID": 3086,
+   "manufacturer": "Top Gear",
+   "type": "Seasonal Reward",
+   "image": "TRACK-TOR 2018 TOP GEAR.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Flatbed Series",
+   "inGameID": 3279,
+   "manufacturer": "Playground",
+   "type": "Horizon Story",
+   "image": "FLATBED SERIES 2014 PLAYGROUND.jpg",
+   "year": 2014
+ },
+ {
+   "name": "Vanquish Zagato Coupe",
+   "inGameID": 3125,
+   "manufacturer": "Aston Martin",
+   "type": "Seasonal Reward",
+   "image": "VANQUISH ZAGATO COUPE 2017 ASTON MARTIN.jpg",
+   "year": 2017
+ },
+ {
+   "name": "DBS Superleggera",
+   "inGameID": 3185,
+   "manufacturer": "Aston Martin",
+   "type": "Seasonal Reward",
+   "image": "DBS SUPERLEGGERA 2019 ASTON MARTIN.jpg",
+   "year": 2019
+ },
+ {
+   "name": "Karmann Ghia",
+   "inGameID": 1561,
+   "manufacturer": "Volkswagen",
+   "type": "Seasonal Reward",
+   "image": "KARMANN GHIA 1967 VOLKSWAGEN.jpg",
+   "year": 1967
+ },
+ {
+   "name": "Type 3 1600 L",
+   "inGameID": 2374,
+   "manufacturer": "Volkswagen",
+   "type": "Seasonal Reward",
+   "image": "TYPE 3 1600 L 1967 VOLKSWAGEN.jpg",
+   "year": 1967
+ },
+ {
+   "name": "Porsche 911 rs 3 Lego",
+   "inGameID": 3253,
+   "manufacturer": "Lego Speed Champions",
+   "type": "Lego Valley",
+   "image": "PORSCHE 911 RS 3.0 LEGO 1973 LEGO SPEED CHAMPIONS.jpg",
+   "year": 1973
+ },
+ {
+   "name": "Zerouno",
+   "inGameID": 3194,
+   "manufacturer": "Italdesign",
+   "type": "Seasonal Reward",
+   "image": "ZEROUNO 2018 ITALDESIGN.jpg",
+   "year": 2018
+ },
+ {
+   "name": "718 Cayman GTS",
+   "inGameID": 3117,
+   "manufacturer": "Porsche",
+   "type": "Seasonal Reward",
+   "image": "718 CAYMAN GTS 2018 PORSCHE.jpg",
+   "year": 2018
+ },
+ {
+   "name": "917 LH",
+   "inGameID": 2549,
+   "manufacturer": "Porsche",
+   "type": "Seasonal Reward",
+   "image": "917 LH 1970 PORSCHE.jpg",
+   "year": 1970
+ },
+ {
+   "name": "906 Carrera 6",
+   "inGameID": 3021,
+   "manufacturer": "Porsche",
+   "type": "Seasonal Reward",
+   "image": "906 CARRERA 6 1966 PORSCHE.jpg",
+   "year": 1966
+ },
+ {
+   "name": "356 SL Gmund Coupe",
+   "inGameID": 3111,
+   "manufacturer": "Porsche",
+   "type": "Seasonal Reward",
+   "image": "356 SL GMUND COUPE 1951 PORSCHE.jpg",
+   "year": 1951
+ },
+ {
+   "name": "Macan Turbo",
+   "inGameID": 3074,
+   "manufacturer": "Porsche",
+   "type": "Seasonal Reward",
+   "image": "MACAN TURBO 2019 PORSCHE.jpg",
+   "year": 2019
+ },
+ {
+   "name": "F-150 PreRunner Deberti Edition",
+   "inGameID": 3109,
+   "manufacturer": "Ford",
+   "type": "Seasonal Reward",
+   "image": "F-150 PRERUNNER DEBERTI EDITION 2019 FORD.jpg",
+   "year": 2019
+ },
+ {
+   "name": "600LT Coupe",
+   "inGameID": 3153,
+   "manufacturer": "McLaren",
+   "type": "Seasonal Reward",
+   "image": "600LT COUPE 2018 MCLAREN.jpg",
+   "year": 2018
+ },
+ {
+   "name": "720S Spider",
+   "inGameID": 3154,
+   "manufacturer": "McLaren",
+   "type": "Seasonal Reward",
+   "image": "720S SPIDER 2019 MCLAREN.jpg",
+   "year": 2019
+ },
+ {
+   "name": "#94 Volkswagen Motorsport I.D R Pikes Peak",
+   "inGameID": 3223,
+   "manufacturer": "Volkswagen",
+   "type": "Seasonal Reward",
+   "image": "#94 VOLKSWAGEN MOTORSPORT I.D R PIKES PEAK 2018 VOLKSWAGEN.jpg",
+   "year": 2018
+ },
+ {
+   "name": "P1 �������",
+   "inGameID": 3300,
+   "manufacturer": "McLaren",
+   "type": "Other",
+   "image": "P1 �����������",
+   "year": 2013
+ },
+ {
+   "name": "Divo",
+   "inGameID": 3168,
+   "manufacturer": "Bugatti",
+   "type": "Seasonal Reward",
+   "image": "DIVO 2019 BUGATTI.jpg",
+   "year": 2019
+ },
+ {
+   "name": "M3 GTS",
+   "inGameID": 1598,
+   "manufacturer": "BMW",
+   "type": "Seasonal Reward",
+   "image": "M3 GTS 2010 BMW.jpg",
+   "year": 2010
+ },
+ {
+   "name": "CCGT",
+   "inGameID": 1007,
+   "manufacturer": "Koenigsegg",
+   "type": "Seasonal Reward",
+   "image": "CCGT 2008 KOENIGSEGG.jpg",
+   "year": 2008
+ },
+ {
+   "name": "Q1",
+   "inGameID": 1248,
+   "manufacturer": "Rossion",
+   "type": "Seasonal Reward",
+   "image": "Q1 2010 ROSSION.jpg",
+   "year": 2010
+ },
+ {
+   "name": "GT",
+   "inGameID": 3195,
+   "manufacturer": "ATS",
+   "type": "Seasonal Reward",
+   "image": "GT 2018 ATS.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Diablo GTR",
+   "inGameID": 324,
+   "manufacturer": "Lamborghini",
+   "type": "Seasonal Reward",
+   "image": "DIABLO GTR 1999 LAMBORGHINI.jpg",
+   "year": 1999
+ },
+ {
+   "name": "512 S",
+   "inGameID": 3062,
+   "manufacturer": "Ferrari",
+   "type": "Seasonal Reward",
+   "image": "512 S 1970 FERRARI.jpg",
+   "year": 1970
+ },
+ {
+   "name": "488 Pista",
+   "inGameID": 3227,
+   "manufacturer": "Ferrari",
+   "type": "Seasonal Reward",
+   "image": "488 PISTA 2019 FERRARI.jpg",
+   "year": 2019
+ },
+ {
+   "name": "Supra RZ",
+   "inGameID": 461,
+   "manufacturer": "Toyota",
+   "type": "Autoshow",
+   "image": "SUPRA RZ 1998 TOYOTA.jpg",
+   "year": 1998
+ },
+ {
+   "name": "A110",
+   "inGameID": 2973,
+   "manufacturer": "Alpine",
+   "type": "Seasonal Reward",
+   "image": "A110 2017 ALPINE.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Megane R26.R",
+   "inGameID": 3129,
+   "manufacturer": "Renault",
+   "type": "Seasonal Reward",
+   "image": "MEGANE R26.R 2008 RENAULT.jpg",
+   "year": 2008
+ },
+ {
+   "name": "Clio RS 197",
+   "inGameID": 635,
+   "manufacturer": "Renault",
+   "type": "Seasonal Reward",
+   "image": "CLIO RS 197 2007 RENAULT.jpg",
+   "year": 2007
+ },
+ {
+   "name": "Sport Clio V6",
+   "inGameID": 453,
+   "manufacturer": "Renault",
+   "type": "Seasonal Reward",
+   "image": "SPORT CLIO V6 2003 RENAULT.jpg",
+   "year": 2003
+ },
+ {
+   "name": "Megane R.S.",
+   "inGameID": 3134,
+   "manufacturer": "Renault",
+   "type": "Seasonal Reward",
+   "image": "MEGANE R.S. 2018 RENAULT.jpg",
+   "year": 2018
+ },
+ {
+   "name": "Clio R.S. 16 Concept",
+   "inGameID": 3182,
+   "manufacturer": "Renault",
+   "type": "Seasonal Reward",
+   "image": "CLIO R.S. 16 CONCEPT 2016 RENAULT.jpg",
+   "year": 2016
+ },
+ {
+   "name": "Cougar Eliminator",
+   "inGameID": 1280,
+   "manufacturer": "Mercury",
+   "type": "Seasonal Reward",
+   "image": "COUGAR ELIMINATOR 1970 MERCURY.jpg",
+   "year": 1970
+ },
+ {
+   "name": "H1 Alpha Open Top",
+   "inGameID": 1624,
+   "manufacturer": "Hummer",
+   "type": "Seasonal Reward",
+   "image": "H1 ALPHA OPEN TOP 2006 HUMMER.jpg",
+   "year": 2006
+ },
+ {
+   "name": "Huracan Performante",
+   "inGameID": 3217,
+   "manufacturer": "Lamborghini",
+   "type": "Seasonal Reward",
+   "image": "HURACAN PERFORMANTE 2018 LAMBORGHINI.jpg",
+   "year": 2018
+ },
+ {
+   "name": "356 Cabriolet Emory Special",
+   "inGameID": 3150,
+   "manufacturer": "Porsche",
+   "type": "Seasonal Reward",
+   "image": "356 CABRIOLET EMORY SPECIAL 1964 PORSCHE.jpg",
+   "year": 1964
+ },
+ {
+   "name": "Sprinter Trueno GT Apex",
+   "inGameID": 455,
+   "manufacturer": "Toyota",
+   "type": "Seasonal Reward",
+   "image": "SPRINTER TRUENO GT APEX 1985 TOYOTA.jpg",
+   "year": 1985
+ },
+ {
+   "name": "Vulcan AMR Pro",
+   "inGameID": 3211,
+   "manufacturer": "Aston Martin",
+   "type": "Seasonal Reward",
+   "image": "VULCAN AMR PRO 2017 ASTON MARTIN.jpg",
+   "year": 2017
+ },
+ {
+   "name": "Supervan 3",
+   "inGameID": 3170,
+   "manufacturer": "Ford",
+   "type": "Seasonal Reward",
+   "image": "SUPERVAN 3 1994 FORD.jpg",
+   "year": 1994
+ },
+ {
+   "name": "LFA",
+   "inGameID": 1260,
+   "manufacturer": "Lexus",
+   "type": "Seasonal Reward",
+   "image": "LFA 2010 LEXUS.jpg",
+   "year": 2010
+ },
+ {
+   "name": "SD1 Vitesse",
+   "inGameID": 3236,
+   "manufacturer": "Rover",
+   "type": "Seasonal Reward",
+   "image": "SD1 VITESSE 1984 ROVER.jpg",
+   "year": 1984
+ },
+ {
+   "name": "Bugatti Chiron",
+   "inGameID": 3209,
+   "manufacturer": "Lego Speed Champions",
+   "type": "Seasonal Reward",
+   "image": "BUGATTI CHIRON 2019 LEGO SPEED CHAMPIONS.jpg",
+   "year": 2019
+ },
+ {
+   "name": "Speedtail",
+   "inGameID": 3156,
+   "manufacturer": "McLaren",
+   "type": "Seasonal Reward",
+   "image": "SPEEDTAIL 2019 MCLAREN.jpg",
+   "year": 2019
+ },
+ {
+   "name": "Napier-Railton",
+   "inGameID": 2989,
+   "manufacturer": "Napier",
+   "type": "Seasonal Reward",
+   "image": "NAPIER-RAILTON 1933 NAPIER.jpg",
+   "year": 1933
+ },
+ {
+   "name": "2000GT",
+   "inGameID": 247,
+   "manufacturer": "Toyota",
+   "type": "Seasonal Reward",
+   "image": "2000GT 1969 TOYOTA.jpg",
+   "year": 1969
+ },
+ {
+   "name": "Vandura G-1500",
+   "inGameID": 3065,
+   "manufacturer": "GMC",
+   "type": "Horizon Story",
+   "image": "VANDURA G-1500 1983 GMC.jpg",
+   "year": 1983
+ },
+ {
+   "name": "Transit Supersportvan Stories",
+   "inGameID": 3066,
+   "manufacturer": "Ford",
+   "type": "Horizon Story",
+   "image": "TRANSIT SUPERSPORTVAN STORIES 2011 FORD.jpg",
+   "year": 2011
+ },
+ {
+   "name": "Portofino",
+   "inGameID": 3225,
+   "manufacturer": "Ferrari",
+   "type": "Seasonal Reward",
+   "image": "PORTOFINO 2018 FERRARI.jpg",
+   "year": 2018
+ },
+ {
+   "name": "#177 599 GTB Fiorano",
+   "inGameID": 3249,
+   "manufacturer": "Formula Drift",
+   "type": "Seasonal Reward",
+   "image": "#177 599 GTB FIORANO 2007 FORMULA DRIFT.jpg",
+   "year": 2007
+ },
+ {
+   "name": "E 63 S",
+   "inGameID": 3250,
+   "manufacturer": "Mercedes-AMG",
+   "type": "Seasonal Reward",
+   "image": "E 63 S 2018 MERCEDES-AMG.jpg",
+   "year": 2018
+ },
+ {
+   "name": "911 Carrera 2 By Gunther Werks",
+   "inGameID": 3160,
+   "manufacturer": "Porsche",
+   "type": "Seasonal Reward",
+   "image": "911 CARRERA 2 BY GUNTHER WERKS 1995 PORSCHE.jpg",
+   "year": 1995
+ },
+ {
+   "name": "Supra 2 GT Twin Turbo",
+   "inGameID": 460,
+   "manufacturer": "Toyota",
+   "type": "Seasonal Reward",
+   "image": "SUPRA 2.0 GT TWIN TURBO 1992 TOYOTA.jpg",
+   "year": 1992
+ },
+ {
+   "name": "#777 Chevrolet Corvette",
+   "inGameID": 3232,
+   "manufacturer": "Formula Drift",
+   "type": "Seasonal Reward",
+   "image": "#777 CHEVROLET CORVETTE 2013 FORMULA DRIFT.jpg",
+   "year": 2013
+ },
+ {
+   "name": "Racing Puma",
+   "inGameID": 3228,
+   "manufacturer": "Ford",
+   "type": "Seasonal Reward",
+   "image": "RACING PUMA 1999 FORD.jpg",
+   "year": 1999
+ },
+ {
+   "name": "Starion ESI-R",
+   "inGameID": 1297,
+   "manufacturer": "Mitsubishi",
+   "type": "Seasonal Reward",
+   "image": "STARION ESI-R 1988 MITSUBISHI.jpg",
+   "year": 1988
+ },
+ {
+   "name": "Pulsar GTI-R",
+   "inGameID": 3257,
+   "manufacturer": "Nissan",
+   "type": "Seasonal Reward",
+   "image": "PULSAR GTI-R 1990 NISSAN.jpg",
+   "year": 1990
+ },
+ {
+   "name": "205 Rallye",
+   "inGameID": 3180,
+   "manufacturer": "Peugeot",
+   "type": "Seasonal Reward",
+   "image": "205 RALLYE 1991 PEUGEOT.jpg",
+   "year": 1991
+ },
+ {
+   "name": "Celica GT-Four ST185",
+   "inGameID": 1517,
+   "manufacturer": "Toyota",
+   "type": "Seasonal Reward",
+   "image": "CELICA GT-FOUR ST185 1992 TOYOTA.jpg",
+   "year": 1992
+ },
+ {
+   "name": "Celica GT-Four ST205",
+   "inGameID": 1034,
+   "manufacturer": "Toyota",
+   "type": "Seasonal Reward",
+   "image": "CELICA GT-FOUR ST205 1994 TOYOTA.jpg",
+   "year": 1994
+ },
+ {
+   "name": "Corolla SR5",
+   "inGameID": 1537,
+   "manufacturer": "Toyota",
+   "type": "Seasonal Reward",
+   "image": "COROLLA SR5 1974 TOYOTA.jpg",
+   "year": 1974
+ },
+ {
+   "name": "Celica GT",
+   "inGameID": 1592,
+   "manufacturer": "Toyota",
+   "type": "Seasonal Reward",
+   "image": "CELICA GT 1974 TOYOTA.jpg",
+   "year": 1974
+ },
+ {
+   "name": "MR2 SC",
+   "inGameID": 1395,
+   "manufacturer": "Toyota",
+   "type": "Seasonal Reward",
+   "image": "MR2 SC 1989 TOYOTA.jpg",
+   "year": 1989
+ },
+ {
+   "name": "MR2 GT",
+   "inGameID": 398,
+   "manufacturer": "Toyota",
+   "type": "Seasonal Reward",
+   "image": "MR2 GT 1995 TOYOTA.jpg",
+   "year": 1995
+ },
+ {
+   "name": "#5 Escort RS1800 MKII",
+   "inGameID": 3184,
+   "manufacturer": "Ford",
+   "type": "Seasonal Reward",
+   "image": "#5 ESCORT RS1800 MKII 1977 FORD.jpg",
+   "year": 1977
+ },
+ {
+   "name": "GT70",
+   "inGameID": 3167,
+   "manufacturer": "Ford",
+   "type": "Seasonal Reward",
+   "image": "GT70 1970 FORD.jpg",
+   "year": 1970
+ },
+ {
+   "name": "RX-7 GSL-SE",
+   "inGameID": 1480,
+   "manufacturer": "Mazda",
+   "type": "Seasonal Reward",
+   "image": "RX-7 GSL-SE 1985 MAZDA.jpg",
+   "year": 1985
+ },
+ {
+   "name": "TSR-S",
+   "inGameID": 3212,
+   "manufacturer": "Zenvo",
+   "type": "Seasonal Reward",
+   "image": "TSR-S 2019 ZENVO.jpg",
+   "year": 2019
+ },
+ {
+   "name": "VL Commodore Group A SV",
+   "inGameID": 2203,
+   "manufacturer": "Holden",
+   "type": "Seasonal Reward",
+   "image": "VL COMMODORE GROUP A SV 1988 HOLDEN.jpg",
+   "year": 1988
+ },
+ {
+   "name": "GTSR",
+   "inGameID": 2582,
+   "manufacturer": "HSV",
+   "type": "Seasonal Reward",
+   "image": "GTSR 1996 HSV.jpg",
+   "year": 1996
+ },
+ {
+   "name": "GTS",
+   "inGameID": 1396,
+   "manufacturer": "HSV",
+   "type": "Seasonal Reward",
+   "image": "GTS 2011 HSV.jpg",
+   "year": 2011
+ },
+ {
+   "name": "F50 GT Welcome Pack",
+   "inGameID": 3464,
+   "manufacturer": "Ferrari",
+   "type": "Car Pass",
+   "image": "F50 GT WELCOME PACK 1996 FERRARI.jpg",
+   "year": 1996
+ },
+ {
+   "name": "GT Welcome Pack",
+   "inGameID": 3466,
+   "manufacturer": "Ford",
+   "type": "Car Pass",
+   "image": "GT WELCOME PACK 2017 FORD.jpg",
+   "year": 2017
+ },
+ {
+   "name": "718 RS 60 Welcome Pack",
+   "inGameID": 3468,
+   "manufacturer": "Porsche",
+   "type": "Car Pass",
+   "image": "718 RS 60 WELCOME PACK 1960 PORSCHE.jpg",
+   "year": 1960
+ },
+ {
+   "name": "Gymkhana 9 Ford Focus RS RX Welcome Pack",
+   "inGameID": 3470,
+   "manufacturer": "Hoonigan",
+   "type": "Car Pass",
+   "image": "GYMKHANA 9 FORD FOCUS RS RX WELCOME PACK 2016 HOONIGAN.jpg",
+   "year": 2016
+ },
+ {
+   "name": "#1 T100 Baja Truck Welcome Pack",
+   "inGameID": 3469,
+   "manufacturer": "Toyota",
+   "type": "Car Pass",
+   "image": "#1 T100 BAJA TRUCK WELCOME PACK 1993 TOYOTA.jpg",
+   "year": 1993
+ },
+ {
+   "name": "Aventador LP700-4 Welcome Pack",
+   "inGameID": 3465,
+   "manufacturer": "Lamborghini",
+   "type": "Car Pass",
+   "image": "AVENTADOR LP700-4 WELCOME PACK 2012 LAMBORGHINI.jpg",
+   "year": 2012
+ },
+ {
+   "name": "#199 WRX STI VT15R Rally Car Welcome Pack",
+   "inGameID": 3471,
+   "manufacturer": "Subaru",
+   "type": "Car Pass",
+   "image": "#199 WRX STI VT15R RALLY CAR WELCOME PACK 2016 SUBARU.jpg",
+   "year": 2016
+ },
+ {
+   "name": "CJ5 Renegade Welcome Pack",
+   "inGameID": 3467,
+   "manufacturer": "Jeep",
+   "type": "Car Pass",
+   "image": "CJ5 RENEGADE WELCOME PACK 1976 JEEP.jpg",
+   "year": 1976
+ },
+ {
+   "name": "Turbo R",
+   "inGameID": 3172,
+   "manufacturer": "Bentley",
+   "type": "Seasonal Reward",
+   "image": "TURBO R 1992 BENTLEY.jpg",
+   "year": 1992
+ },
+ {
+   "name": "I-Pace",
+   "inGameID": 3164,
+   "manufacturer": "Jaguar",
+   "type": "Seasonal Reward",
+   "image": "I-PACE 2020 JAGUAR.jpg",
+   "year": 2020
+ },
+ {
+   "name": "Range Rover Velar First Edition",
+   "inGameID": 3136,
+   "manufacturer": "Land Rover",
+   "type": "Seasonal Reward",
+   "image": "RANGE ROVER VELAR FIRST EDITION 2020 LAND ROVER.jpg",
+   "year": 2020
+ },
+ {
+   "name": "#64 Nissan 370z",
+   "inGameID": 3247,
+   "manufacturer": "Formula Drift",
+   "type": "Seasonal Reward",
+   "image": "#64 NISSAN 370Z 2018 FORMULA DRIFT.jpg",
+   "year": 2018
+ },
+ {
+   "name": "RC F",
+   "inGameID": 2175,
+   "manufacturer": "Lexus",
+   "type": "Seasonal Reward",
+   "image": "RC F 2015 LEXUS.jpg",
+   "year": 2015
+ },
+ {
+   "name": "IS F",
+   "inGameID": 1071,
+   "manufacturer": "Lexus",
+   "type": "Seasonal Reward",
+   "image": "IS F 2009 LEXUS.jpg",
+   "year": 2009
+ },
+ {
+   "name": "GT86",
+   "inGameID": 2007,
+   "manufacturer": "Toyota",
+   "type": "Seasonal Reward",
+   "image": "GT86 2013 TOYOTA.jpg",
+   "year": 2013
+ }
+]
